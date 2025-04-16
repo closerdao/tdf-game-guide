@@ -24,7 +24,7 @@ TDF tracks key ecological indicators to understand our impact — and course cor
 4. **Carbon & Biomass**
    - Carbon sequestration estimates (via plantings) - via [Open Forest Protocol](https://atlas.openforestprotocol.org/1660749236393)
    - Biomass growth in syntropic/agroforestry zones
-
+f
 ---
 
 ### 🧭 Reporting Cycle
