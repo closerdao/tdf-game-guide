@@ -1,3 +1,0 @@
-# Reporting
-
-Content coming soon...
