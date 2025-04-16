@@ -6,7 +6,6 @@ Whether you've just arrived or have been around since the chicken farm days, thi
 
 TDF is not just a place — it's a living, breathing prototype of a regenerative future. Together, we’re co-creating a new story of community, creativity, care, and land stewardship. This Game Guide is your handbook for playing along.
 
-
 ### 🌱 What is TDF?
 
 Traditional Dream Factory is a regenerative village prototype based in Abela, Portugal. It’s the first land-based project of the OASA network — a web3-powered nature conservancy designed to empower regenerative living. 
