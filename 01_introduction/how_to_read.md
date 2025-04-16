@@ -38,7 +38,7 @@ This guide evolves through:
 - TDF DAO governance proposals
 - Updates by community editors and stewards
 
-You’re encouraged to suggest edits or improvements. The most updated version is always available through the [TDF GitHub/Notion/Website] (link to be added).
+You’re encouraged to suggest edits or improvements.
 
 ---
 
