@@ -1,3 +1,0 @@
-# Swiss Law
-
-Content coming soon...

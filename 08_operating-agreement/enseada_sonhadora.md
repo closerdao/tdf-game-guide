@@ -1,3 +1,0 @@
-# Enseada Sonhadora
-
-Content coming soon...

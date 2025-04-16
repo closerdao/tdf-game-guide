@@ -1,3 +1,0 @@
-# Downloads
-
-Content coming soon...

@@ -1,3 +1,0 @@
-# Legal Structure
-
-Content coming soon...

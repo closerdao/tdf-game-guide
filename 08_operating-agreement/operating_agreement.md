@@ -1,3 +1,0 @@
-# Operating Agreement
-
-Content coming soon...

@@ -1,3 +1,0 @@
-# Nonprofit Status
-
-Content coming soon...
