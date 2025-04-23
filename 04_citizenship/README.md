@@ -1,30 +1,30 @@
-# 🐑 PLAYER PROGRESSION
+# 🐑 CITIZENSHIP
 
-**LEVEL UP YOUR ADVENTURE!** Citizenship is the advanced player class that unlocks the full potential of the Regeneration Game.
+**COMMUNITY MEMBERSHIP** Citizenship represents full membership that unlocks participation in all aspects of the community.
 
 > *"Citizenship isn't just a status—it's a journey of growth and commitment."*
 
-## 🌱 THE CITIZENSHIP QUEST
+## 🌱 BECOMING A CITIZEN
 
-Becoming a Citizen is a meaningful progression that requires demonstrating alignment with the game's core values and mechanics:
+Becoming a Citizen is a meaningful process that requires demonstrating alignment with the community's core values and practices:
 
-1. **Onboarding** - Complete the [Onboarding](onboarding.md) tutorial quests
-2. **Contribution** - Demonstrate meaningful participation in the game world
+1. **Onboarding** - Complete the [Onboarding](onboarding.md) process
+2. **Contribution** - Demonstrate meaningful participation in the community
 3. **Alignment** - Show understanding of and commitment to regenerative principles
 4. **Commitment** - Acquire $TDF tokens and pledge to the community
 
 ## 🎖️ CITIZEN PRIVILEGES
 
-| PRIVILEGE           | DESCRIPTION                        | UNLOCK REQUIREMENTS            |
-| ------------------- | ---------------------------------- | ------------------------------ |
-| **Voting Rights**   | Shape the future of the game world | Full Citizenship               |
-| **Proposal Power**  | Create new quests and initiatives  | Full Citizenship               |
-| **Extended Stays**  | Longer presence in the game world  | Full Citizenship + $TDF Tokens |
-| **Resource Access** | Special tools and community assets | Full Citizenship               |
+| PRIVILEGE           | DESCRIPTION                          | REQUIREMENTS                   |
+| ------------------- | ------------------------------------ | ------------------------------ |
+| **Voting Rights**   | Shape the future of the community    | Full Citizenship               |
+| **Proposal Power**  | Create new projects and initiatives  | Full Citizenship               |
+| **Extended Stays**  | Longer presence in the community     | Full Citizenship + $TDF Tokens |
+| **Resource Access** | Special tools and community assets   | Full Citizenship               |
 
 ## ⚔️ CITIZEN RESPONSIBILITIES
 
-With great power comes great responsibility:
+With privileges come responsibilities:
 
 - **Active Participation** - Regular engagement with governance
 - **Stewardship** - Care for the land and community
@@ -44,4 +44,4 @@ Citizenship is not permanent—it requires ongoing engagement:
 
 ---
 
-*"Citizenship is not a destination, but a path of continuous growth."* 🌀
+*"Citizenship is not a destination, but a path of continuous growth."*

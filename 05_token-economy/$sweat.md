@@ -1,19 +1,19 @@
-# 💪 $SWEAT POWER
+# 💪 $SWEAT TOKEN
 
-**CONTRIBUTION TRACKER** The $Sweat token transforms your work into lasting impact—a record of your contributions to the TDF Game.
+**CONTRIBUTION TRACKER** The $Sweat token transforms your work into lasting impact—a record of your contributions to the TDF community.
 
-> *"Every drop of sweat you pour into the land becomes power in the digital realm."*
+> *"Every contribution you make to the land becomes recognized in our system."*
 
-## 🧪 ALCHEMICAL PROPERTIES
+## 🧪 TOKEN PROPERTIES
 
-$Sweat is a special token with unique enchantments:
+$Sweat is a special token with unique characteristics:
 
-- **Soulbound** - Cannot be transferred or traded to other players
+- **Non-transferable** - Cannot be transferred or traded to other members
 - **Effort-Weighted** - Represents real work and meaningful contribution
-- **Decaying** - Gradually fades over time, encouraging continued engagement
+- **Decaying** - Gradually decreases over time, encouraging continued engagement
 - **Verifiable** - Cryptographically secured proof of your contributions
 
-## 🎮 GAMEPLAY MECHANICS
+## 🔄 HOW IT WORKS
 
 ### Earning $Sweat
 - **Land Work** - Regenerative agriculture, building, maintenance
@@ -24,12 +24,12 @@ $Sweat is a special token with unique enchantments:
 ### Using $Sweat
 - **Governance Weight** - Amplifies your voting power (5× multiplier)
 - **Skill Recognition** - Visible indicator of your contribution areas
-- **Quest Requirements** - Some quests require minimum $Sweat
-- **Community Status** - Recognition of your ongoing commitment
+- **Participation Requirements** - Some activities require minimum $Sweat
+- **Community Recognition** - Acknowledgment of your ongoing commitment
 
 ## 🧮 DECAY FORMULA
 
-Your sweat equity fades through exponential decay:
+Your contribution value decreases through exponential decay:
 
 ```
 decayedAmount = initialAmount * (1 - decayRatePerDay)^daysSinceContribution
@@ -48,17 +48,17 @@ Decay Rate: Configurable (suggested ~0.03%/day)
 
 ## 🛡️ ACCESS CONTROL
 
-Only specific roles can mint $Sweat:
+Only specific roles can create $Sweat tokens:
 - **Bounty Managers** - For completed bounties
 - **Team Members** - For verified contributions
 - **DAO Treasury** - For special allocations
 
-## 🔮 FUTURE EVOLUTION
+## 🔮 FUTURE DEVELOPMENT
 
-- **Zero-Knowledge Proofs** - Enhanced privacy while maintaining verifiability
+- **Enhanced Privacy** - Better privacy while maintaining verifiability
 - **Contribution Categories** - Specialized types of $Sweat for different skills
-- **Skill Trees** - Progressive unlocking of contribution opportunities
+- **Skill Development** - Progressive access to contribution opportunities
 
 ---
 
-*"This isn't sweatshop labor—this is sweat equity in the future we're building."* 🌀
+*"This isn't sweatshop labor—this is sweat equity in the future we're building."*

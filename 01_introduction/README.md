@@ -1,6 +1,6 @@
 # 📜 INTRODUCTION
 
-**WELCOME** to the TDF Game Guide introduction. This section will help you understand how our community works.
+**WELCOME** to the TDF Community Guide introduction. This section will help you understand how our community works.
 
 > *"Regenerate more than you consume."*
 
@@ -22,9 +22,9 @@ This guide documents how our community functions and evolves over time.
 
 | IF YOU WANT TO... | CHECK THESE SECTIONS |
 |-------------------|----------------------|
-| **Get Started** | [How to Play](how_to_play.md), [FAQ](faq.md) |
+| **Get Started** | [Getting Started](getting_started.md), [FAQ](faq.md) |
 | **Visit TDF** | [Roles](../02_roles-and-stakeholders/README.md), [Community Living](../06_community-living/README.md) |
-| **Become a Citizen** | [Citizenship](../04_citizenship/README.md), [Token Economy](../05_token-economy/README.md) |
+| **Become a Citizen** | [Citizenship](../04_citizenship/README.md), [Token System](../05_token-economy/README.md) |
 | **Participate in Governance** | [Governance](../03_governance/README.md), [Decision Process](../03_governance/decision_process.md) |
 
 ## 🔄 GUIDE UPDATES

@@ -1,4 +1,4 @@
-# 💰 TOKEN ECONOMY
+# 💰 COMMUNITY TOKEN SYSTEM
 
 **OVERVIEW** The TDF community uses three token types to track participation, enable governance, and manage resources.
 
@@ -7,8 +7,8 @@
 | TOKEN | PURPOSE | PROPERTIES |
 |-------|---------|------------|
 | **$TDF** | Core utility token | Transferable, represents stay rights and governance |
-| **[$Presence](./\$presence.md)** | Presence tracker | Non-transferable, decaying, time-weighted |
-| **[$Sweat](./\$sweat.md)** | Contribution tracker | Non-transferable, decaying, effort-weighted |
+| **[$Presence](./\$presence.md)** | Attendance tracker | Non-transferable, decreasing over time, time-weighted |
+| **[$Sweat](./\$sweat.md)** | Contribution tracker | Non-transferable, decreasing over time, effort-weighted |
 
 ## 📊 TOKEN FUNCTIONS
 

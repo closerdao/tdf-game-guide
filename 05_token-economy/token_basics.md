@@ -1,19 +1,19 @@
 # 🪙 $TDF TOKEN BASICS
 
-**CORE RESOURCE** The $TDF token is the primary currency in the TDF Game—a versatile resource that powers your adventure.
+**CORE RESOURCE** The $TDF token is the primary currency in the TDF community—a versatile resource that supports participation.
 
-> *"Not all treasure glitters. Some of it regenerates."*
+> *"Not all value is monetary. Some of it regenerates."*
 
-## 🧙‍♂️ MAGICAL PROPERTIES
+## 🌱 KEY CHARACTERISTICS
 
-$TDF is a utility token with unique enchantments:
+$TDF is a utility token with unique features:
 
-- **Transferable** - Can be traded between players
+- **Transferable** - Can be exchanged between community members
 - **Utility-Backed** - Each token grants 1 night of stay per year
 - **Governance-Powered** - Provides voting weight in the DAO
 - **Regenerative** - Designed to support ecological restoration
 
-## 🎮 GAMEPLAY MECHANICS
+## 📊 SYSTEM FUNCTIONS
 
 ### Using $TDF
 - **Stay Rights** - 1 token = 1 night per year at utility cost
@@ -22,8 +22,8 @@ $TDF is a utility token with unique enchantments:
 
 ### Acquiring $TDF
 - **Purchase** - Via bonding curve (transparent pricing)
-- **Earning** - Through contributions and bounties
-- **Gifting** - Received from other players
+- **Earning** - Through contributions and community work
+- **Gifting** - Received from other community members
 
 ## ⚠️ BOUNDARY CONDITIONS
 
@@ -50,4 +50,4 @@ $TDF stay rights renew annually:
 
 ---
 
-*"In the TDF Game, tokens aren't for hoarding—they're for circulating."* 🌀
+*"In the TDF community, tokens aren't for hoarding—they're for circulating."* 🌀
