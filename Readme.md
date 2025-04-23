@@ -1,42 +1,42 @@
 # 🌱 THE REGENERATION GAME 🌱
 ## Traditional Dream Factory Adventure Guide
 
-**WELCOME, DREAMER!** You've just entered a living game world where your actions shape the future.
+**WELCOME, BRAVE ADVENTURER!** You've entered a living game world where your actions shape the future of our shared planet.
 
 > *"In a world where many play to win, we play to regenerate."*
 
 ## 🎮 GAME OVERVIEW
 
-**Traditional Dream Factory** is not just a place in Portugal—it's a living game world where players (like you!) collaborate to create a regenerative future. This isn't about virtual points or digital badges—it's about real-world impact, community building, and ecological restoration.
+**Traditional Dream Factory** isn't just a place in Portugal—it's a living game world where players (like you!) collaborate to create a regenerative future. This isn't about virtual points or digital badges—it's about real-world impact, community building, and ecological restoration.
 
-### YOUR MISSION
+### YOUR QUEST
 
 Transform a piece of land in Abela, Portugal into a thriving ecosystem where:
-- Humans and nature flourish together
-- Resources flow in circular patterns
-- Governance happens through consent and contribution
-- Work feels like play, and play creates meaningful work
+- Humans and nature flourish together in harmony
+- Resources flow in circular, regenerative patterns
+- Decisions emerge through consent and contribution
+- Work feels like play, and play creates meaningful change
 
-## 🗺️ HOW TO USE THIS GUIDE
+## 🗺️ ADVENTURE MAP
 
-This Adventure Guide contains everything you need to navigate the TDF game world:
+This guide contains everything you need to navigate the TDF game world:
 
-| GAME SECTION | WHAT YOU'LL FIND |
-|-------------|------------------|
-| [📜 Game Rules](01_introduction/) | How to read this guide & FAQ |
-| [👥 Character Classes](02_roles-and-stakeholders/) | Roles you can play in the game |
-| [🏛️ Game Mechanics](03_governance/) | How decisions are made |
-| [🐑 Player Progression](04_citizenship/) | How to level up from visitor to Citizen |
-| [💰 Resource System](05_token-economy/) | How the token economy works |
-| [🏡 Village Gameplay](06_community-living/) | Daily life in the game world |
-| [🌳 World Building](07_land-stewardship/) | How we care for the game environment |
+| REALM | WHAT YOU'LL DISCOVER | PATH |
+|-------------|------------------|------|
+| [📜 GAME RULES](01_introduction/) | How to play, read this guide & FAQ | [Begin Adventure](01_introduction/) |
+| [👥 CHARACTER CLASSES](02_roles-and-stakeholders/) | Roles you can play in the game | [Choose Your Path](02_roles-and-stakeholders/) |
+| [🏛️ GAME MECHANICS](03_governance/) | How decisions are made | [Master the Rules](03_governance/) |
+| [🐑 PLAYER PROGRESSION](04_citizenship/) | How to level up from visitor to Citizen | [Advance Your Character](04_citizenship/) |
+| [💰 RESOURCE SYSTEM](05_token-economy/) | How the token economy works | [Gather Resources](05_token-economy/) |
+| [🏡 VILLAGE GAMEPLAY](06_community-living/) | Daily life in the game world | [Join the Village](06_community-living/) |
+| [🌳 WORLD BUILDING](07_land-stewardship/) | How we care for the game environment | [Shape the World](07_land-stewardship/) |
 
 ## 🌀 A LIVING GAME
 
-Like any great game, this one evolves. Rules are refined, new quests emerge, and the world expands through the contributions of its players. Your feedback and participation make the game better for everyone.
+Like any great adventure, this one evolves. Rules are refined, new quests emerge, and the world expands through the contributions of its players. Your feedback and participation make the game better for everyone.
 
-**Ready to play?** Turn the page and begin your regenerative adventure!
+**Ready to play?** Choose a realm and begin your regenerative adventure!
 
 ---
 
-*"The game is never over; it just keeps getting more interesting."*
+*"The game is never over; it just keeps getting more interesting."* 🌀

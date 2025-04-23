@@ -1,21 +1,21 @@
-# 🕒 $Presence Token Overview
+# 🕒 $PRESENCE POWER
 
-The **$Presence Token** is a custom ERC-20 utility token designed to reflect **time-weighted physical presence** at a regenerative land-based project. It introduces continuous decay to reward recent participation while maintaining a cryptographic memory of contribution.
+**TRACK YOUR FOOTSTEPS!** The $Presence token is your digital footprint in the game world—a magical record of your physical journey through time and space.
 
-This document outlines its function, implementation, and role in governance at Traditional Dream Factory.
+> *"Your presence is power. Every moment on the land leaves a trace in the digital realm."*
 
----
+## 🧙‍♂️ MAGICAL PROPERTIES
 
-## 🌿 Core Features
-- **Non-transferrable**: Tokens cannot be transferred or approved — only minted or burned.
-- **Continuous Decay**: Token balances decay automatically over time.
-- **Time-Weighted Governance**: Recent presence holds more governance weight.
-- **Role-Based Access**: Only authorized roles can mint and burn tokens.
+$Presence is a special token with unique enchantments:
 
----
+- **Soulbound** - Cannot be transferred or traded to other players
+- **Time-Weighted** - Recent presence carries more power than distant past
+- **Decaying** - Gradually fades over time, encouraging continued engagement
+- **Verifiable** - Cryptographically secured proof of your physical presence
 
-## ⚙️ Technical Design
-The $Presence token is built using an **Upgradeable Proxy** architecture with OpenZeppelin contracts.
+## ⚙️ TECHNICAL ESSENCE
+
+$Presence is an ERC-20 token with custom modifications:
 
 ```solidity
 contract PresenceToken is ERC20Upgradeable, Ownable2StepUpgradeable {
@@ -23,74 +23,44 @@ contract PresenceToken is ERC20Upgradeable, Ownable2StepUpgradeable {
 }
 ```
 
-### 🧮 Decay Mechanism
-Applies exponential decay to balances:
-```text
+### 🧮 DECAY FORMULA
+
+Your presence fades through exponential decay:
+
+```
 decayedAmount = initialAmount * (1 - decayRatePerDay)^numberOfDays
 ```
-- **decayRatePerDay**: Configurable (e.g. 0.03% ≈ 10% per year)
-- **lastDecayTimestamp**: Tracks when an account’s balance was last updated
-- **lastDecayedBalance**: Used to compute updated balance before mint/burn
+
+| Time Elapsed | Remaining Power (0.03% daily decay) |
+|--------------|-------------------------------------|
+| 30 days      | ~99% of original strength           |
+| 180 days     | ~95% of original strength           |
+| 365 days     | ~90% of original strength           |
+
+## 🎮 GAMEPLAY MECHANICS
+
+### Earning $Presence
+- **Physical Stay** - Automatically minted for each day on-site
+- **Retroactive Minting** - Can be awarded for past stays (with verification)
+
+### Using $Presence
+- **Governance Weight** - Amplifies your voting power (5× multiplier)
+- **Community Recognition** - Visible indicator of your time investment
+- **Quest Requirements** - Some quests require minimum $Presence
+
+## 🛡️ ACCESS CONTROL
+
+Only specific roles can mint or burn $Presence:
+- `BOOKING_PLATFORM_ROLE` - Automated systems tracking stays
+- `BOOKING_MANAGER_ROLE` - Human verification of special cases
+- `CONTRACT_OWNER` - Ultimate oversight (DAO multisig)
+
+## 🔮 FUTURE EVOLUTION
+
+- **Zero-Knowledge Proofs** - Enhanced privacy while maintaining verifiability
+- **Cross-Project Recognition** - Interoperability with other regenerative communities
+- **Enhanced Visualization** - Better ways to see your presence impact
 
 ---
 
-## 🎟 Minting
-Citizens earn $Presence when they **stay on-site**:
-```solidity
-function mint(address account, uint256 amount, uint256 daysAgo) external
-```
-- `account`: Address of the Citizen
-- `amount`: Tokens to mint
-- `daysAgo`: How long ago the stay occurred (if retroactive)
-
----
-
-## 🔥 Burning
-Adjustments (e.g. canceled stays) use:
-```solidity
-function burn(address account, BurnData[] calldata burnDataArray) external returns (uint256 finalBalance)
-```
-- Removes tokens according to age and decay
-
-
-
-## 🧰 Access Control
-Minting and burning requires specific roles:
-- `BOOKING_PLATFORM_ROLE`
-- `BOOKING_MANAGER_ROLE`
-- Contract Owner (e.g. DAO Multisig)
-
-**Future goal:** Migrate $Sweat to a zero knowledge proof to allow apps to verify work done, but maintain privacy for user.
-
-
-
-## 🗳 Governance Integration
-$Presence balances are used to compute voting power:
-- **More recent presence = higher voting weight**
-- Combines with $TDF Tokens and $Sweat in the full weight formula
-
-Example decay timeline (0.03% daily decay):
-| Time Elapsed | Remaining Balance (of 1.00) |
-|--------------|-------------------------------|
-| 30 days      | ~0.99                         |
-| 180 days     | ~0.95                         |
-| 365 days     | ~0.90                         |
-
----
-
-## ⚠️ Limitations & Considerations
-- Transfers and approvals are disabled
-- High-precision math used to prevent rounding errors
-- Small tolerance (~100,000 wei) allowed during burns
-
----
-
-## 🚀 Deployment
-$Presence is deployed per project using an **Upgradeable Proxy pattern**, allowing:
-- Future logic updates
-- Data preservation
-- Governance modularity
-
----
-
-$Presence isn't just a number — it's a memory of your footsteps on the land 🌀
+*"Your presence isn't just counted—it's felt throughout the ecosystem."* 🌀
