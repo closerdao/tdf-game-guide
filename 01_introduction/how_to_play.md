@@ -28,7 +28,7 @@
 5. **Evening Reflection** - Celebrate achievements and plan next steps
 
 ### Long-term Progression
-1. **Visitor → Contributor → Citizen** - Level up your character class
+1. **Visitor → Volunteer/Resident/Steward → Citizen** - Level up your character class
 2. **Skill Development** - Master various regenerative practices
 3. **Relationship Building** - Form alliances and friendships
 4. **Project Creation** - Launch your own regenerative initiatives

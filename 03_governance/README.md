@@ -15,12 +15,12 @@ The governance system at TDF combines several powerful mechanics:
 
 ## 🧙‍♂️ SPECIAL ABILITIES
 
-| ABILITY | DESCRIPTION | UNLOCK REQUIREMENTS |
-|---------|-------------|---------------------|
-| **Proposal Creation** | Craft new quests and initiatives | Citizen status |
-| **Voting Power** | Influence collective decisions | Hold governance tokens |
-| **Delegation** | Transfer voting power to trusted allies | Any token holder |
-| **Team Election** | Join the coordinating council | Community nomination + election |
+| ABILITY               | DESCRIPTION                             | UNLOCK REQUIREMENTS             |
+| --------------------- | --------------------------------------- | ------------------------------- |
+| **Proposal Creation** | Craft new quests and initiatives        | Citizen status                  |
+| **Voting Power**      | Influence collective decisions          | Hold governance tokens          |
+| **Delegation**        | Transfer voting power to trusted allies | Any token holder                |
+| **Team Election**     | Join the coordinating council           | Community nomination + election |
 
 ## 🛡️ PROTECTED ACTIONS
 

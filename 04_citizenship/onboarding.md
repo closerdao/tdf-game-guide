@@ -14,7 +14,8 @@ Citizenship is not granted lightly—it's earned through demonstrated commitment
 - **Learn the Basics** - Understand core systems and values
 - **Make Initial Contributions** - Participate in simple quests
 
-### Phase 2: Contributor Path
+### Phase 2: Engagement Path
+- **Choose Your Role** - Volunteer, Resident, or Steward
 - **Extended Stay** - Spend more time in the game world
 - **Deeper Engagement** - Take on more complex quests
 - **Skill Development** - Learn specific abilities needed by the community

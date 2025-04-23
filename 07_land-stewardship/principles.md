@@ -40,13 +40,13 @@ These principles form the foundation of our approach to land stewardship:
 
 ## 🎮 PRACTICAL APPLICATION
 
-| PRINCIPLE | GAME MECHANICS | PLAYER ACTIONS |
-|-----------|----------------|----------------|
-| **Observe Before Acting** | Site analysis quests, observation logs | Mapping, journaling, phenology tracking |
-| **Stack Functions** | Design challenges, system integration | Creating multi-purpose elements, connecting systems |
-| **Work With Nature** | Biomimicry quests, succession planning | Forest gardening, companion planting |
+| PRINCIPLE                  | GAME MECHANICS                               | PLAYER ACTIONS                                         |
+| -------------------------- | -------------------------------------------- | ------------------------------------------------------ |
+| **Observe Before Acting**  | Site analysis quests, observation logs       | Mapping, journaling, phenology tracking                |
+| **Stack Functions**        | Design challenges, system integration        | Creating multi-purpose elements, connecting systems    |
+| **Work With Nature**       | Biomimicry quests, succession planning       | Forest gardening, companion planting                   |
 | **Capture & Store Energy** | Resource management, infrastructure building | Water system design, soil building, solar installation |
-| **Value Diversity** | Biodiversity quests, cultural exchange | Planting diverse species, sharing knowledge |
+| **Value Diversity**        | Biodiversity quests, cultural exchange       | Planting diverse species, sharing knowledge            |
 
 ## 🌀 REGENERATIVE ETHICS
 

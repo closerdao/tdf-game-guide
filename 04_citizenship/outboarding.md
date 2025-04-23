@@ -38,7 +38,7 @@ There are several ways a Citizen's journey may evolve:
 ### For Inactive Transitions
 1. **Status Notification** - Formal notice of inactive status
 2. **Grace Period** - 30-day window to address participation issues
-3. **Status Change** - Shift to Contributor or Visitor status if unresolved
+3. **Status Change** - Shift to Volunteer, Resident, Steward, or Visitor status if unresolved
 4. **Path to Return** - Clear criteria for regaining Citizenship if desired
 5. **Resource Reallocation** - Reassignment of responsibilities
 

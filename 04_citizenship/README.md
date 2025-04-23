@@ -15,12 +15,12 @@ Becoming a Citizen is a meaningful progression that requires demonstrating align
 
 ## 🎖️ CITIZEN PRIVILEGES
 
-| PRIVILEGE | DESCRIPTION | UNLOCK REQUIREMENTS |
-|-----------|-------------|---------------------|
-| **Voting Rights** | Shape the future of the game world | Full Citizenship |
-| **Proposal Power** | Create new quests and initiatives | Full Citizenship |
-| **Extended Stays** | Longer presence in the game world | Full Citizenship + $TDF Tokens |
-| **Resource Access** | Special tools and community assets | Full Citizenship |
+| PRIVILEGE           | DESCRIPTION                        | UNLOCK REQUIREMENTS            |
+| ------------------- | ---------------------------------- | ------------------------------ |
+| **Voting Rights**   | Shape the future of the game world | Full Citizenship               |
+| **Proposal Power**  | Create new quests and initiatives  | Full Citizenship               |
+| **Extended Stays**  | Longer presence in the game world  | Full Citizenship + $TDF Tokens |
+| **Resource Access** | Special tools and community assets | Full Citizenship               |
 
 ## ⚔️ CITIZEN RESPONSIBILITIES
 

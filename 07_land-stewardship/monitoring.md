@@ -63,7 +63,7 @@ Our monitoring follows open science principles:
 - **Open Data** - Accessible datasets for community use
 - **Citizen Science** - Participation open to all players
 - **Knowledge Sharing** - Regular workshops on findings
-- **Carbon Verification** - We track carbon sequestration through [Open Forest Protocol](https://atlas.openforestprotocol.org/1660749236393) while aiming to implement various other biodiversity methods
+- **Carbon Verification** - We track carbon sequestration through [Open Forest Protocol](https://atlas.openforestprotocol.org/1660749236393)
 
 ---
 

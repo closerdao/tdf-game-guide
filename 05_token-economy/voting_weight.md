@@ -1,63 +1,58 @@
 # 🗳️ VOTING WEIGHT
 
-**BALANCED PARTICIPATION** In the TDF Game, your governance power comes from a unique formula that balances different forms of contribution.
+**HOW GOVERNANCE WORKS** The TDF community uses a voting weight formula that balances different forms of participation.
 
-> *"True power comes not just from what you own, but from how you show up."*
-
-## 🧙‍♂️ THE POWER FORMULA
-
-Your voting weight combines three magical elements:
+## 📊 VOTING FORMULA
 
 ```
 Voting Power = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5)
 ```
 
-This formula ensures that active contributors have significant say in governance, even with fewer tokens.
+This formula ensures active contributors have meaningful input in governance decisions.
 
-## 🎮 POWER DYNAMICS
+## 🔢 TOKEN WEIGHTS
 
-| CONTRIBUTION | WEIGHT | PHILOSOPHY |
-|--------------|--------|------------|
-| **$TDF Tokens** | 1× | Financial skin in the game |
-| **$Presence** | 1× | Physical presence and time investment |
-| **$Sweat** | 5× | Active work and meaningful contribution |
+| TOKEN TYPE | WEIGHT | RATIONALE |
+|------------|--------|-----------|
+| **$TDF** | 1× | Financial participation |
+| **$Presence** | 1× | Physical presence |
+| **$Sweat** | 5× | Active contribution |
 
-## ⚖️ BALANCING FORCES
+## ⚖️ BALANCING PRINCIPLES
 
-This weighted system creates several powerful effects:
+This system creates:
 
-- **Contribution > Capital** - Active players have more say than passive investors
-- **Presence Matters** - Being physically present increases your influence
-- **Work Is Valued** - Your sweat equity translates to governance power
-- **Balanced Inputs** - Multiple paths to gaining influence in the game
+- **Contribution Focus** - Active participation has significant impact
+- **Presence Value** - Being physically present matters
+- **Work Recognition** - Contributions are valued in governance
+- **Multiple Paths** - Different ways to participate in decision-making
 
-## 🎯 STRATEGIC GAMEPLAY
+## 📈 PARTICIPATION APPROACHES
 
-Different player strategies for gaining voting weight:
+Different ways to gain voting weight:
 
-- **Token Holder** - Acquire and hold $TDF tokens
-- **Resident** - Maximize physical presence on the land
-- **Contributor** - Complete bounties and projects to earn $Sweat
-- **Balanced Player** - Combine all three approaches for maximum impact
+- Holding $TDF tokens
+- Spending time at TDF
+- Contributing work and skills
+- Combining all three approaches
 
-## 🔮 PRACTICAL EXAMPLES
+## 🧮 EXAMPLES
 
-| PLAYER TYPE        | $TDF | $PRESENCE | $SWEAT | TOTAL VOTING WEIGHT |
-| ------------------ | ---- | --------- | ------ | ------------------- |
-| New Visitor        | 10   | 0         | 0      | 10                  |
-| Token Investor     | 100  | 0         | 0      | 100                 |
-| Regular Resident   | 20   | 30        | 0      | 170                 |
-| Active Contributor | 20   | 10        | 30     | 220                 |
-| Balanced Citizen   | 50   | 20        | 20     | 250                 |
+| PARTICIPANT TYPE | $TDF | $PRESENCE | $SWEAT | TOTAL VOTING WEIGHT |
+|------------------|------|-----------|--------|---------------------|
+| New Visitor      | 10   | 0         | 0      | 10                  |
+| Token Holder     | 100  | 0         | 0      | 100                 |
+| Regular Resident | 20   | 30        | 0      | 50                  |
+| Active Volunteer | 20   | 10        | 30     | 180                 |
+| Balanced Citizen | 50   | 20        | 20     | 170                 |
 
-## 🛡️ DELEGATION MECHANICS
+## 🔄 DELEGATION
 
-You can delegate your voting power to trusted allies:
-- Maintain ownership of your tokens
-- Transfer voting rights temporarily
-- Revoke delegation at any time
-- Build voting blocks around shared values
+You can delegate your voting power to others:
+- You keep ownership of your tokens
+- Voting rights transfer temporarily
+- You can revoke delegation when needed
 
 ---
 
-*"In this game, showing up and contributing outweighs mere ownership."* 🌀
+*"Participation and contribution are valued in our governance system."*

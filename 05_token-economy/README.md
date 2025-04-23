@@ -1,43 +1,38 @@
-# 💰 RESOURCE SYSTEM
+# 💰 TOKEN ECONOMY
 
-**TOKEN ECONOMY** The TDF Game features a unique resource system that powers governance, rewards contribution, and enables sustainable growth.
-
-> *"Our tokens aren't just digital points—they're the lifeblood of our regenerative economy."*
+**OVERVIEW** The TDF community uses three token types to track participation, enable governance, and manage resources.
 
 ## 🪙 TOKEN TYPES
 
-The game features three interconnected token types:
+| TOKEN | PURPOSE | PROPERTIES |
+|-------|---------|------------|
+| **$TDF** | Core utility token | Transferable, represents stay rights and governance |
+| **[$Presence](./\$presence.md)** | Presence tracker | Non-transferable, decaying, time-weighted |
+| **[$Sweat](./\$sweat.md)** | Contribution tracker | Non-transferable, decaying, effort-weighted |
 
-| TOKEN                            | PURPOSE                   | PROPERTIES                                                          |
-| -------------------------------- | ------------------------- | ------------------------------------------------------------------- |
-| **$TDF**                         | Core utility token        | Transferable (after go-live), represents stay rights and governance |
-| **[$Presence](./\$presence.md)** | Physical presence tracker | Non-transferable, decaying, time-weighted                           |
-| **[$Sweat](./\$sweat.md)**       | Work contribution tracker | Non-transferable, decaying, effort-weighted                         |
-|                                  |                           |                                                                     |
+## 📊 TOKEN FUNCTIONS
 
-## 🎮 TOKEN MECHANICS
-
-These tokens work together to create a balanced game economy:
+These tokens work together in our community:
 
 - **Governance Weight** = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5)
 - **Stay Rights** = 1 $TDF = 1 night per year at utility cost
-- **Contribution Rewards** = Work → $Sweat + $TDF → Governance Weight
+- **Contribution Tracking** = Work → $Sweat + $TDF
 
-## 🧙‍♂️ TOKEN POWERS
+## 🔗 TOKEN DETAILS
 
-| TOKEN         | SPECIAL ABILITIES                                       | ACQUISITION                                            |
-| ------------- | ------------------------------------------------------- | ------------------------------------------------------ |
-| **$TDF**      | Stay rights, base governance weight, transferable value | [Purchase](distribution.md), earn through contribution |
-| **$Presence** | Enhanced governance weight, community recognition       | Physical presence at TDF                               |
-| **$Sweat**    | Enhanced governance weight, skill recognition           | Completing bounties and contributions                  |
+| TOKEN | FUNCTIONS | HOW TO GET |
+|-------|-----------|------------|
+| **$TDF** | Stay rights, governance weight | [Purchase](distribution.md), earn through contribution |
+| **$Presence** | Governance weight | Physical presence at TDF |
+| **$Sweat** | Governance weight | Completing contributions |
 
-## 📚 TOKEN LORE
+## 📚 LEARN MORE
 
-- [Token Basics](token_basics.md) - Core concepts and principles
-- [Distribution](distribution.md) - How tokens enter circulation
-- [Voting Weight](voting_weight.md) - How tokens affect governance
-- [Token Renewal](token_renewal.md) - Annual cycle mechanics
+- [Token Basics](token_basics.md) - Core concepts
+- [Distribution](distribution.md) - Token circulation
+- [Voting Weight](voting_weight.md) - Governance impact
+- [Token Renewal](token_renewal.md) - Annual cycles
 
 ---
 
-*"Our tokens measure what matters: presence, contribution, and commitment."* 🌀
+*"Our tokens help us measure what matters: presence, contribution, and commitment."*

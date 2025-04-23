@@ -63,7 +63,7 @@ New players are welcomed through:
 
 - **Orientation** - Introduction to systems and norms
 - **Buddy System** - Pairing with experienced players
-- **Contribution Path** - Clear ways to participate
+- **Engagement Path** - Clear ways to participate as Volunteer, Resident, or Steward
 - **Integration Circles** - Regular welcome sessions
 
 ---

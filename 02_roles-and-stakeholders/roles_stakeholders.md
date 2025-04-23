@@ -12,10 +12,25 @@
 - **Gameplay Focus:** Exploration, learning, short-term contribution
 - **Limitations:** No voting rights, limited resource access
 
-### Contributor (Level 2)
+### Volunteer (Level 2)
 - **Special Abilities:** Access to quests, ability to earn $Sweat
-- **Unlock Requirements:** Complete onboarding, contribute to projects
+- **Unlock Requirements:** 2-week commitment, 4h/day contribution
 - **Gameplay Focus:** Skill development, project participation
+- **Benefits:** Free accommodation (food not included)
+- **Limitations:** Limited governance participation
+
+### Resident (Level 2.5)
+- **Special Abilities:** Extended access, deeper project involvement
+- **Unlock Requirements:** 1+ month commitment, skill-based application
+- **Gameplay Focus:** Specialized contribution, community integration
+- **Benefits:** Free accommodation & food, opportunity to earn $TDF
+- **Limitations:** Limited governance participation
+
+### Steward (Level 2.5)
+- **Special Abilities:** Structured learning journey, cohort experience
+- **Unlock Requirements:** Acceptance to 12-week stewardship program
+- **Gameplay Focus:** Immersive learning, team integration, project contribution
+- **Benefits:** Workshops, accommodation & meals, $TDF tokens upon completion
 - **Limitations:** Limited governance participation
 
 ### Citizen (Level 3)
@@ -65,12 +80,12 @@
 ## 🔄 CHARACTER PROGRESSION
 
 ### Leveling Up
-1. **Visitor → Contributor**
+1. **Visitor → Volunteer/Resident/Steward**
    - Complete basic onboarding quests
    - Demonstrate alignment with community values
-   - Receive invitation from existing Contributor
+   - Apply for appropriate program
 
-2. **Contributor → Citizen**
+2. **Volunteer/Resident/Steward → Citizen**
    - Demonstrate consistent contribution
    - Complete citizenship quest
    - Acquire minimum $TDF tokens
