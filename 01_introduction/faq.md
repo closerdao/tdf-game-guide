@@ -10,7 +10,7 @@
 A regenerative community and living laboratory in Abela, Portugal where people collaborate to create a thriving ecosystem for humans and nature.
 
 ### Is this structured like a game?
-No. While we previously used some game-like language, our focus is on creating real-world regenerative systems. The community operates with transparent structures that anyone can understand and participate in.
+Kind of. While we previously used some game-like language, our focus is on creating real-world regenerative systems. The community operates with transparent structures that anyone can understand and participate in.
 
 ### Do I need special skills to participate?
 No special skills required to start! You'll learn as you participate. Bring curiosity, openness, and willingness to contribute.
