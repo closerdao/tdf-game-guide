@@ -1,7 +1,7 @@
-# 🌱 TDF COMMUNITY GUIDE 🌱
+# 🌱 TDF Game Guide 🌱
 ## Traditional Dream Factory
 
-**WELCOME** to the Traditional Dream Factory (TDF) Community Guide. This document explains how our community works together to create a regenerative future.
+**WELCOME** to the Traditional Dream Factory (TDF) Game Guide. This document explains how our community works together to create a regenerative future.
 
 ## 📋 OVERVIEW
 
