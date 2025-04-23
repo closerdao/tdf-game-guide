@@ -1,7 +1,7 @@
-# 🌱 THE REGENERATION GAME 🌱
+# 🌱 THE TDF GAME 🌱
 ## Traditional Dream Factory Adventure Guide
 
-**WELCOME, BRAVE ADVENTURER!** You've entered a living game world where your actions shape the future of our shared planet.
+**WELCOME, ADVENTURER!** You've entered a living game world where your actions shape the future of our shared planet.
 
 > *"In a world where many play to win, we play to regenerate."*
 

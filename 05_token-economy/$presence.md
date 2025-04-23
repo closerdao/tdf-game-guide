@@ -1,6 +1,6 @@
 # 🕒 $PRESENCE POWER
 
-**TRACK YOUR FOOTSTEPS!** The $Presence token is your digital footprint in the game world—a magical record of your physical journey through time and space.
+**DIGITAL FOOTPRINTS** The $Presence token is your digital record in the TDF Game—tracking your physical journey through time and space.
 
 > *"Your presence is power. Every moment on the land leaves a trace in the digital realm."*
 
@@ -44,7 +44,7 @@ decayedAmount = initialAmount * (1 - decayRatePerDay)^numberOfDays
 - **Retroactive Minting** - Can be awarded for past stays (with verification)
 
 ### Using $Presence
-- **Governance Weight** - Amplifies your voting power (5× multiplier)
+- **Governance Weight** - Amplifies your voting power (1× multiplier)
 - **Community Recognition** - Visible indicator of your time investment
 - **Quest Requirements** - Some quests require minimum $Presence
 

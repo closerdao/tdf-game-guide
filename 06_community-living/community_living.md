@@ -1,78 +1,71 @@
-# Community Living at TDF
+# 🏡 VILLAGE LIFE GUIDE
 
-Life at Traditional Dream Factory is a shared experiment in regenerative culture. We co-create rhythms, rituals, responsibilities — and leave space for magic, messiness, and growth.
+**LIVE THE ADVENTURE!** Daily life in the Regeneration Game blends ancient wisdom with modern innovation to create a vibrant, sustainable community experience.
 
-This guide gives you a snapshot of what to expect and how to show up.
+> *"The real magic happens in the everyday moments of connection and care."*
 
----
+## 🌞 DAILY RHYTHMS
 
-### 🧼 Shared Responsibilities
-We all contribute to the daily flow of the space. That means:
-- Participating in **food prep and clean-up rotations**
-- Caring for shared spaces (kitchen, compost, bathrooms, common areas)
-- Taking on a "fairy job" — a small stewardship task that brings beauty or order to the space
-- Respecting kitchen systems and **washing your own dishes** if outside shared meal times
+Life at TDF follows natural cycles that honor both individual needs and collective well-being:
 
----
+### Morning Rituals (7-10am)
+- **Silent Hours** - Quiet time for personal practices
+- **Movement Circle** - Optional group exercise and stretching
+- **Breakfast** - Self-serve or community meal depending on the day
 
-### 🧒 Children & Families
-- Kids are welcome and celebrated!
-- Parents/guardians are responsible for their safety and well-being
-- Children should be supported in learning the rhythms of community life
-- Everyone is encouraged to support an intergenerational atmosphere of patience, curiosity, and inclusion
+### Work Cycles (10am-1pm, 3-6pm)
+- **Morning Circle** - Brief check-in and coordination (10am)
+- **Focus Blocks** - Dedicated time for projects and contributions
+- **Skill Sharing** - Learning from fellow players
 
----
+### Community Time (1-3pm, 6pm onwards)
+- **Shared Lunch** - Main community meal (1pm)
+- **Rest Period** - Siesta and personal time (2-3pm)
+- **Evening Activities** - Workshops, music, games, discussions
 
-### 🧘 Wellness & Boundaries
-- Quiet hours are respected, especially around sleeping areas
-- Nudity is welcome in designated zones (e.g. sauna, pool) — always with **consent**
-- Substances:
-  - Alcohol is allowed in moderation and with **awareness** — no excessive intoxication
-  - Cannabis and psychedelics may be used intentionally, not publicly, and always with **respect for group energy**
-  - No hard drugs or reckless behavior allowed
+## 🧩 VILLAGE SYSTEMS
 
----
+| SYSTEM | DESCRIPTION | YOUR ROLE |
+|--------|-------------|-----------|
+| **Food** | Regenerative agriculture, community meals | Cook shifts, garden work, food forest care |
+| **Energy** | Solar power, mindful consumption | Monitor usage, system maintenance |
+| **Water** | Rainwater harvesting, greywater systems | Conservation, system upkeep |
+| **Waste** | Composting, recycling, upcycling | Proper sorting, creative reuse |
+| **Shelter** | Natural building, shared spaces | Construction, maintenance, beautification |
 
-### 🗣 Consent & Communication
-TDF is built on trust and interdependence:
-- Always ask before touching, hugging, or entering someone’s space
-- Use clear and direct communication — and listen deeply
-- Conflict is natural: we transform it, not suppress it. Mediation support is available
-- Practice giving and receiving feedback with kindness
+## 🎭 SOCIAL DYNAMICS
 
----
+### Communication Practices
+- **Nonviolent Communication** - Express needs without blame
+- **Circle Practice** - Structured group discussions
+- **Check-ins** - Regular emotional and project updates
+- **Feedback Loops** - Constructive reflection and growth
 
-### 🎨 Culture & Play
-We host regular:
-- Sharing circles, sauna nights, celebrations, and jams
-- Workshops, skillshares, and collaborative art
-- Monthly themes curated by **Cultural Citizens**
+### Conflict Transformation
+- **Direct Dialogue** - Address issues with the person involved
+- **Mediation** - Request support from neutral third party
+- **Council** - Bring complex issues to community wisdom
+- **Restorative Justice** - Focus on healing, not punishment
 
-You’re encouraged to:
-- Initiate your own offerings
-- Be spontaneous and co-create beauty
+## 🎪 SPECIAL EVENTS
 
----
+The game world comes alive through regular special events:
 
-### 📖 The Game Rules
-Here’s a summary of essential community agreements:
-- Respect everyone’s **bodily autonomy** and **consent**
-- Contribute to shared meals and clean-up (if you're eating, you're helping)
-- Keep kitchen and communal areas clean
-- Use substances intentionally, never to escape or dominate space
-- Nudity is welcome where appropriate, not performative
-- Children are part of the community, not ignored or tokenized
-- If you break something, clean it up or fix it
-- Leave spaces **better than you found them**
-- Ask for help. Offer help. Don’t wait to be told
+- **New Moon Councils** - Vision-setting and strategic planning
+- **Full Moon Celebrations** - Gratitude and celebration
+- **Seasonal Festivals** - Marking the turning of the wheel
+- **Work Parties** - Collaborative building and land regeneration
+- **Knowledge Exchanges** - Workshops and skill-sharing
 
----
+## 🧙‍♂️ VISITOR INTEGRATION
 
-### 🧳 When You Arrive
-- Join the **daily check-in** or ask for a Steward to guide you
-- Read the **Visitor Guide** and sync with ongoing tasks
-- Ask how you can support the flow — there's always a way
+New players are welcomed through:
+
+- **Orientation** - Introduction to systems and norms
+- **Buddy System** - Pairing with experienced players
+- **Contribution Path** - Clear ways to participate
+- **Integration Circles** - Regular welcome sessions
 
 ---
 
-Living at TDF is about finding your place in the ecology of community — and remembering: how you show up shapes the world around you 🌀
+*"The village isn't just where we live—it's how we live."* 🌀

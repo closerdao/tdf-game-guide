@@ -1,6 +1,6 @@
 # 💰 RESOURCE SYSTEM
 
-**UNLOCK THE POWER OF TOKENS!** The Regeneration Game features a unique resource system that powers governance, rewards contribution, and enables sustainable growth.
+**TOKEN ECONOMY** The TDF Game features a unique resource system that powers governance, rewards contribution, and enables sustainable growth.
 
 > *"Our tokens aren't just digital points—they're the lifeblood of our regenerative economy."*
 
@@ -19,7 +19,7 @@ The game features three interconnected token types:
 
 These tokens work together to create a balanced game economy:
 
-- **Governance Weight** = ($TDF × 1) + ($$Presence × 1) + ($Sweat × 5)
+- **Governance Weight** = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5)
 - **Stay Rights** = 1 $TDF = 1 night per year at utility cost
 - **Contribution Rewards** = Work → $Sweat + $TDF → Governance Weight
 

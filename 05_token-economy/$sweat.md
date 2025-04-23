@@ -1,6 +1,6 @@
 # 💪 $SWEAT POWER
 
-**FORGE YOUR LEGACY!** The $Sweat token transforms your labor into lasting impact—a magical record of your contributions to the regenerative quest.
+**CONTRIBUTION TRACKER** The $Sweat token transforms your work into lasting impact—a record of your contributions to the TDF Game.
 
 > *"Every drop of sweat you pour into the land becomes power in the digital realm."*
 

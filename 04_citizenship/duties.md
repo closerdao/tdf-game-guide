@@ -1,43 +1,77 @@
-# Citizenship Duties at TDF
+# ⚔️ CITIZENSHIP DUTIES
 
-Being a Citizen at Traditional Dream Factory means contributing actively to the health of the whole system — the land, the people, and the process.
+**ACCEPT THE CALL!** With the special powers of Citizenship come important responsibilities to the game world and its players.
 
-With the privilege of participation comes shared responsibility. Here’s what’s expected of Citizens:
+> *"A Citizen's true power lies not in rights claimed, but in duties fulfilled."*
+
+## 🧙‍♂️ CORE RESPONSIBILITIES
+
+As a Citizen, you are entrusted with these essential duties:
+
+### Active Governance
+- **Regular Voting** - Participate in DAO decisions
+- **Proposal Review** - Provide thoughtful feedback on proposals
+- **Working Group Participation** - Join at least one governance team
+- **Delegation Management** - If delegating votes, choose representatives wisely
+
+### Community Contribution
+- **Sweat Equity** - Regular contribution of skills and labor
+- **Knowledge Sharing** - Teaching and mentoring other players
+- **Culture Cultivation** - Upholding and evolving community values
+- **Conflict Transformation** - Helping resolve tensions constructively
+
+### Financial Commitment
+- **Token Holding** - Maintain minimum required $TDF tokens
+- **Resource Stewardship** - Responsible use of community assets
+- **Economic Participation** - Support the regenerative economy
+- **Transparent Accounting** - Clear tracking of resource use
+
+### Land Stewardship
+- **Ecological Care** - Active participation in regenerative land practices
+- **Infrastructure Maintenance** - Help maintain physical systems
+- **Monitoring Support** - Assist with ecological impact tracking
+- **Regenerative Design** - Contribute to land planning and development
+
+## 🎮 ACTIVITY REQUIREMENTS
+
+To maintain active Citizenship status:
+
+- **Governance Participation** - Vote in at least 70% of proposals annually
+- **Physical Presence** - Minimum 14 days on-site per year
+- **Contribution Hours** - At least 100 hours of tracked contribution annually
+- **Token Maintenance** - Hold minimum 5 $TDF tokens
+- **Communication** - Respond to official communications within 7 days
+
+## 🛡️ ACCOUNTABILITY SYSTEM
+
+Citizens hold each other accountable through:
+
+- **Peer Feedback** - Regular constructive feedback
+- **Transparency Dashboards** - Public tracking of participation
+- **Annual Review** - Reflection on contribution and engagement
+- **Conflict Resolution** - Clear process for addressing concerns
+- **Citizenship Renewal** - Periodic reaffirmation of commitment
+
+## 🔄 CITIZENSHIP MAINTENANCE
+
+To remain in good standing:
+
+1. **Meet Activity Requirements** - Fulfill minimum participation thresholds
+2. **Uphold Values** - Demonstrate alignment with community principles
+3. **Address Concerns** - Respond constructively to feedback
+4. **Renew Commitment** - Participate in annual renewal ritual
+5. **Evolve Practices** - Adapt to changing community needs
+
+## 🌱 GROWTH PATH
+
+As you deepen your Citizenship journey:
+
+- **Increased Responsibility** - Take on leadership roles
+- **Mentorship** - Guide new Citizens in their duties
+- **System Design** - Help evolve the Citizenship system itself
+- **External Representation** - Represent TDF to the wider world
+- **Legacy Creation** - Develop lasting contributions to the community
 
 ---
 
-### ⏳ Presence
-- Spend at least **14 days at TDF every 2 years** to remain an active Citizen
-- Log your stay to accumulate **Proof of Presence**, which increases your governance power
-
----
-
-### 🛠 Contribution
-- Participate in **1–2 land or community projects** when on-site
-- These might include: gardening, infrastructure maintenance, event hosting, documentation, care roles, etc.
-
----
-
-### 📞 Participation
-- Join at least **1 Citizens call per season** (online or hybrid)
-- Stay updated through governance threads, Charmverse, or email summaries
-
----
-
-### 📜 Alignment
-- Abide by the:
-  - **This Game Guide** (TDF’s constitution)
-  - **Visitor Guide** (on-site rituals and rhythms)
-  - **Principles of Regeneration and Land Stewardship** (OASA’s guiding ethics)
-
----
-
-### 🫂 Culture Building
-- Support new Citizens through the **vouching process**
-- Engage in **conflict transformation** when tensions arise
-- Model values like consent, inclusion, transparency, and care
-
----
-
-Being a Citizen is less about holding a title — and more about holding the community.
-Thank you for showing up 🙏
+*"The duties of Citizenship aren't burdens—they're the very actions that create the world we wish to live in."* 🌀

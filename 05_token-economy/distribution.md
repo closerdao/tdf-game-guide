@@ -1,6 +1,6 @@
 # 🏆 TOKEN DISTRIBUTION
 
-**CLAIM YOUR SHARE!** The $TDF token supply is carefully balanced to support the game's regenerative economy and physical capacity.
+**SUPPLY MECHANICS** The $TDF token supply is carefully balanced to support the TDF Game's regenerative economy and physical capacity.
 
 > *"Every token represents a night under the stars and a voice in our shared future."*
 

@@ -1,6 +1,6 @@
 # 📜 GAME RULES
 
-**GREETINGS, ADVENTURER!** You've discovered the sacred scrolls of the Regeneration Game.
+**GREETINGS, ADVENTURER!** You've discovered the guide to the TDF Game.
 
 > *"The rules are simple: regenerate more than you consume."*
 

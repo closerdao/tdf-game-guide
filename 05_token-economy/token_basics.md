@@ -1,6 +1,6 @@
 # 🪙 $TDF TOKEN BASICS
 
-**YOUR FIRST GAME RESOURCE!** The $TDF token is the primary currency in the Regeneration Game—a versatile resource that powers your adventure.
+**CORE RESOURCE** The $TDF token is the primary currency in the TDF Game—a versatile resource that powers your adventure.
 
 > *"Not all treasure glitters. Some of it regenerates."*
 
@@ -50,4 +50,4 @@ $TDF stay rights renew annually:
 
 ---
 
-*"In the Regeneration Game, tokens aren't for hoarding—they're for circulating."* 🌀
+*"In the TDF Game, tokens aren't for hoarding—they're for circulating."* 🌀

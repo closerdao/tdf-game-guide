@@ -1,6 +1,6 @@
 # 📖 HOW TO READ THIS GUIDE
 
-**GREETINGS, LORE SEEKER!** This scroll contains wisdom on navigating the sacred texts of the Regeneration Game.
+**GREETINGS, READER!** This guide contains tips on navigating the TDF Game Guide.
 
 > *"The map is not the territory, but a good map makes all the difference."*
 
