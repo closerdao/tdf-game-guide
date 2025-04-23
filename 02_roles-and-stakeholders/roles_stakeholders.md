@@ -26,19 +26,20 @@ At Traditional Dream Factory, roles are fluid, collaborative, and grounded in sh
 
 ### 👋 Guests
 **Short-term visitors participating in the culture.**
-- Book stays via TDF website (usually via subscription)
+- Book stays via TDF website
 - Join community life through shared meals, events, and offerings
 - May apply for deeper involvement after their stay
 
 ### 💪 Volunteers
 **Short-term contributors in exchange for accommodation.**
 - Help with land, kitchen, builds, cleaning, etc.
-- Typically contribute 4 hours per weekday (morning shifts)
+- Stays for 2 weeks or more
+- Contribute 4 hours per weekday (morning shifts)
 - Encouraged to participate in cultural and social activities
 
 ### 🎨 Event hosts
 **Citizens facilitating arts and cultural programming.**
-- Propose and lead monthly themes, workshops, or residencies
+- Propose and lead events, workshops, or residencies
 - Can invite artists or teachers into the space
 - Help cultivate TDF’s vibrancy and creative essence
 

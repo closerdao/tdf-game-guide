@@ -12,8 +12,7 @@ The $TDF Token is a **regenerative utility token** — it renews annually and re
 ---
 
 ### 📆 When Is the Reset?
-- Annual renewal is tied to the DAO’s defined **"season cycle"** (typically from the "go-live" event date)
-- Citizens are notified when new cycles begin
+- The token automatically reset after 365 days
 
 ---
 

@@ -1,53 +1,42 @@
-# Welcome to the TDF Game Guide
+# 🌱 THE REGENERATION GAME 🌱
+## Traditional Dream Factory Adventure Guide
 
-Welcome, dreamer 🐑
+**WELCOME, DREAMER!** You've just entered a living game world where your actions shape the future.
 
-Whether you've just arrived or have been around since the chicken farm days, this guide is for you. It’s here to help you understand the culture, rules, processes, and magic of Traditional Dream Factory (TDF).
+> *"In a world where many play to win, we play to regenerate."*
 
-TDF is not just a place — it's a living, breathing prototype of a regenerative future. Together, we’re co-creating a new story of community, creativity, care, and land stewardship. This Game Guide is your handbook for playing along.
+## 🎮 GAME OVERVIEW
 
-### 🌱 What is TDF?
+**Traditional Dream Factory** is not just a place in Portugal—it's a living game world where players (like you!) collaborate to create a regenerative future. This isn't about virtual points or digital badges—it's about real-world impact, community building, and ecological restoration.
 
-Traditional Dream Factory is a regenerative village prototype based in Abela, Portugal. It’s the first land-based project of the OASA network — a web3-powered nature conservancy designed to empower regenerative living. 
+### YOUR MISSION
 
-TDF exists to prove that it’s possible to live joyfully, regeneratively, and cooperatively. It weaves together coliving, land stewardship, creative expression, and decentralized governance to form a “playground” for the future we want to live in.
-
-It’s a place where:
-- Work and rest dance together
+Transform a piece of land in Abela, Portugal into a thriving ecosystem where:
+- Humans and nature flourish together
+- Resources flow in circular patterns
 - Governance happens through consent and contribution
-- People collaborate with nature — not against it
-- Tokens, tools, and technology support thriving ecosystems
+- Work feels like play, and play creates meaningful work
+
+## 🗺️ HOW TO USE THIS GUIDE
+
+This Adventure Guide contains everything you need to navigate the TDF game world:
+
+| GAME SECTION | WHAT YOU'LL FIND |
+|-------------|------------------|
+| [📜 Game Rules](01_introduction/) | How to read this guide & FAQ |
+| [👥 Character Classes](02_roles-and-stakeholders/) | Roles you can play in the game |
+| [🏛️ Game Mechanics](03_governance/) | How decisions are made |
+| [🐑 Player Progression](04_citizenship/) | How to level up from visitor to Citizen |
+| [💰 Resource System](05_token-economy/) | How the token economy works |
+| [🏡 Village Gameplay](06_community-living/) | Daily life in the game world |
+| [🌳 World Building](07_land-stewardship/) | How we care for the game environment |
+
+## 🌀 A LIVING GAME
+
+Like any great game, this one evolves. Rules are refined, new quests emerge, and the world expands through the contributions of its players. Your feedback and participation make the game better for everyone.
+
+**Ready to play?** Turn the page and begin your regenerative adventure!
 
 ---
 
-### 🌍 What is the Game?
-
-We’re playing the long game of regeneration — with land, people, and systems. This guide maps out how we:
-- Make decisions together
-- Share responsibilities and resources
-- Cultivate rituals, habits, and magic
-- Navigate governance and group living
-
-It’s not about control. It’s about *coordination with consent.*
-
----
-
-### 📖 What’s Inside?
-This Game Guide includes:
-- Cultural values and norms
-- How to become a Citizen
-- Governance and decision-making
-- Roles, responsibilities, and rituals
-- Conflict resolution pathways
-- Regenerative economics and token use
-
-Every section is modular and can be read on its own or in sequence.
-
----
-
-### 🌀 A Living Document
-This guide is never final. It evolves like a food forest — organically, in seasons, with contributions from many hands and hearts. Your feedback is welcomed and valued.
-
-Let’s build the dream, together.
-
-Welcome to the game 💫
+*"The game is never over; it just keeps getting more interesting."*

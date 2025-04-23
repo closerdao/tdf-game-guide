@@ -11,10 +11,11 @@ The total supply and distribution of $TDF Tokens are designed to reflect the phy
 ---
 
 ### 🪣 Distribution Categories
-| Category          | Description                                   | Share       |
-| ----------------- | --------------------------------------------- | ----------- |
-| **Public Sale**   | Via bonding curve (transparent pricing model) | ~80%        |
-| **Sweat Reserve** | Earned by contributors and Citizens           | 20% (3,720) |
+| Category          | Description                                   | Share        |
+| ----------------- | --------------------------------------------- | ------------ |
+| **Public Sale**   | Via bonding curve (transparent pricing model) | 80% (14,880) |
+| **Sweat Reserve** | Earned by contributors and Citizens           | 20% (3,720)  |
+|                   |                                               |              |
 
 ---
 

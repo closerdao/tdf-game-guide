@@ -6,13 +6,13 @@ At TDF, we believe governance should be participatory, transparent, and regenera
 
 ### 🧭 Decision Types
 
-| Type                   | Who Decides              | Examples                                                  |
-|------------------------|---------------------------|-----------------------------------------------------------|
-| **Do-ocracy**         | Any Citizen               | Rearranging a kitchen space, starting a new compost pile  |
-| **DAO Proposal**      | TDF DAO                   | Budgeting for new infrastructure, updating the Pink Paper |
-| **Constitutional**    | OASA General Meeting      | Amending the Principles, onboarding new projects          |
-| **Executive**         | Elected Team              | Scheduling staff shifts, managing guests, paying invoices |
-| **Reserved**          | Outside TDF DAO Authority | Land sales, profit distribution, violating core values    |
+| Type               | Who Decides               | Examples                                                  |
+| ------------------ | ------------------------- | --------------------------------------------------------- |
+| **Do-ocracy**      | Any Citizen               | Rearranging a kitchen space, starting a new compost pile  |
+| **DAO Proposal**   | TDF DAO                   | Budgeting for new infrastructure, updating the Pink Paper |
+| **Constitutional** | OASA General Meeting      | Amending the Principles, onboarding new projects          |
+| **Executive**      | Elected Team              | Scheduling staff shifts, managing guests, paying invoices |
+| **Reserved**       | Outside TDF DAO Authority | Land sales, profit distribution, violating core values    |
 
 ---
 
