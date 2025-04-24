@@ -1,38 +1,40 @@
-# 👥 CHARACTER CLASSES
+# 👥 Roles and Stakeholders
 
-**CHOOSE YOUR PATH!** In the Regeneration Game, different character classes bring unique abilities and responsibilities.
+**Community Participation** The TDF community includes various roles with different responsibilities and contributions.
 
-> *"Every role is essential in the grand quest of regeneration."*
+> *"Every role is essential in our regenerative work."*
 
-## 🎭 PLAYER TYPES
+## 🎭 Community Roles
 
-| CHARACTER CLASS | ABILITIES & TRAITS | UNLOCK REQUIREMENTS |
+| Role | Description | Learn More |
 |-----------------|-------------------|---------------------|
-| **Visitor** | Temporary access to game world, basic interaction | Book a stay, respect community guidelines |
-| **Volunteer** | Access to quests, ability to earn $Sweat | 2-week commitment, 4h/day contribution |
-| **Resident** | Extended access, deeper project involvement | 1+ month commitment, skill-based application |
-| **Steward** | Structured learning journey, cohort experience | Acceptance to 12-week stewardship program |
-| **Citizen** | Full voting rights, proposal creation, governance weight | Complete citizenship quest, hold $TDF tokens |
-| **Team Member** | Special administrative powers, quest coordination | Election by DAO, specific skill mastery |
-| **Guardian** | Land stewardship powers, ecological wisdom | Appointment by community, demonstrated care |
+| **[Visitor](visitor.md)** | Temporary participants who come to experience and learn about the community | [Visitor Role](visitor.md) |
+| **[Volunteer](volunteer.md)** | Active contributors who commit to a defined period of contribution | [Volunteer Role](volunteer.md) |
+| **[Resident](resident.md)** | Medium to long-term members who bring specific skills | [Resident Role](resident.md) |
+| **[Steward](steward.md)** | Participants in a structured learning program focused on regenerative skills | [Steward Role](steward.md) |
+| **[Citizen](citizen.md)** | Full community members with governance rights and responsibilities | [Citizen Role](citizen.md) |
+| **[Team Member](team_member.md)** | Operational leaders who take on specific responsibilities | [Team Member Role](team_member.md) |
+| **[Guardian](guardian.md)** | Land protectors with special responsibility for ecological health | [Guardian Role](guardian.md) |
 
-## 🌱 STAKEHOLDER FACTIONS
+## 🌱 Key Stakeholders
 
-The game world is influenced by various factions, each with their own interests and powers:
+The community is influenced by various stakeholders, each with their own interests and responsibilities:
 
 - **The DAO** - Digital governance collective of all Citizens
 - **OASA** - The legal entity that holds the land
-- **Local Community** - NPCs and allies in the surrounding region
+- **Local Community** - Neighbors and allies in the surrounding region
 - **Nature Itself** - The ultimate stakeholder we serve
 
-## 🔄 CHANGING CLASSES
+## 🔄 Role Progression
 
-Character progression is fluid - you can level up through contribution and commitment:
+Community involvement can evolve through contribution and commitment:
 
-1. **Visitor → Volunteer/Resident/Steward**: Complete basic onboarding quests, apply for appropriate program
-2. **Volunteer/Resident/Steward → Citizen**: Demonstrate alignment, complete citizenship quest
+1. **Visitor → Volunteer/Resident/Steward**: Complete basic onboarding, apply for appropriate program
+2. **Volunteer/Resident/Steward → Citizen**: Demonstrate alignment, complete citizenship process
 3. **Citizen → Team Member**: Master specific skills, be elected by the DAO
+
+For comprehensive information about becoming a Citizen, see the [Citizenship Guide](citizenship.md).
 
 ---
 
-*"Your class doesn't define your worth - your impact does."* 🌀
+*"Your role doesn't define your worth - your impact does."*

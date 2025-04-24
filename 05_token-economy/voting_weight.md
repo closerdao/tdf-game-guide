@@ -1,4 +1,4 @@
-# 🗳️ VOTING WEIGHT
+# 🗳️ Voting Weight
 
 **HOW GOVERNANCE WORKS** The TDF community uses a voting weight formula that balances different forms of participation.
 

@@ -1,8 +1,8 @@
-# 🌱 REGENERATIVE PRINCIPLES
+# 🌱 Regenerative Principles
 
-**MASTER THE ELEMENTS!** The Regeneration Game is guided by powerful principles that shape how we interact with the land and each other.
+**ECOLOGICAL FOUNDATION** The TDF community is guided by powerful principles that shape how we interact with the land and each other.
 
-> *"We aren't just playing on the land—we're playing with the land as our most important ally."*
+> *"We work with the land as our most important ally."*
 
 ## 🧙‍♂️ CORE PRINCIPLES
 
@@ -38,15 +38,15 @@ These principles form the foundation of our approach to land stewardship:
 - **Functional Diversity** - Include elements that serve different roles
 - **Genetic Diversity** - Preserve heirloom and local varieties
 
-## 🎮 PRACTICAL APPLICATION
+## 🔄 PRACTICAL APPLICATION
 
-| PRINCIPLE                  | GAME MECHANICS                               | PLAYER ACTIONS                                         |
+| PRINCIPLE                  | METHODS                                      | ACTIVITIES                                             |
 | -------------------------- | -------------------------------------------- | ------------------------------------------------------ |
-| **Observe Before Acting**  | Site analysis quests, observation logs       | Mapping, journaling, phenology tracking                |
+| **Observe Before Acting**  | Site analysis, observation logs              | Mapping, journaling, phenology tracking                |
 | **Stack Functions**        | Design challenges, system integration        | Creating multi-purpose elements, connecting systems    |
-| **Work With Nature**       | Biomimicry quests, succession planning       | Forest gardening, companion planting                   |
+| **Work With Nature**       | Biomimicry, succession planning              | Forest gardening, companion planting                   |
 | **Capture & Store Energy** | Resource management, infrastructure building | Water system design, soil building, solar installation |
-| **Value Diversity**        | Biodiversity quests, cultural exchange       | Planting diverse species, sharing knowledge            |
+| **Value Diversity**        | Biodiversity initiatives, cultural exchange  | Planting diverse species, sharing knowledge            |
 
 ## 🌀 REGENERATIVE ETHICS
 
@@ -58,4 +58,4 @@ These principles are guided by three core ethics:
 
 ---
 
-*"These principles aren't just rules—they're the magic that transforms the game world."* 🌀
+*"These principles aren't just guidelines—they're the foundation that transforms our relationship with the land."*

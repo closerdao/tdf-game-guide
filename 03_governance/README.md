@@ -1,30 +1,30 @@
-# 🏛️ GAME MECHANICS
+# 🏛️ Governance
 
-**FORGE YOUR DESTINY!** The Regeneration Game operates through unique decision-making mechanics that balance power, participation, and purpose.
+**Decision-Making** TDF operates through unique decision-making processes that balance power, participation, and purpose.
 
-> *"In this game, governance isn't a chore—it's where the real magic happens."*
+> *"Governance isn't a chore—it's where we shape our shared future."*
 
-## 🎮 CORE MECHANICS
+## 🔄 Core Processes
 
-The governance system at TDF combines several powerful mechanics:
+The governance system at TDF combines several approaches:
 
 - **Do-ocracy** - Take action without permission when impact is reversible
 - **Consent-Based Decisions** - Proposals pass unless there are substantiated objections
 - **Token-Weighted Voting** - Governance weight based on tokens, presence, and contribution
-- **Delegation** - Empower other players to vote on your behalf
+- **Delegation** - Empower other members to vote on your behalf
 
-## 🧙‍♂️ SPECIAL ABILITIES
+## 🧙‍♂️ Governance Rights
 
-| ABILITY               | DESCRIPTION                             | UNLOCK REQUIREMENTS             |
+| Right                 | Description                             | Requirements                    |
 | --------------------- | --------------------------------------- | ------------------------------- |
-| **Proposal Creation** | Craft new quests and initiatives        | Citizen status                  |
+| **Proposal Creation** | Create new projects and initiatives     | Citizen status                  |
 | **Voting Power**      | Influence collective decisions          | Hold governance tokens          |
-| **Delegation**        | Transfer voting power to trusted allies | Any token holder                |
+| **Delegation**        | Transfer voting power to trusted members | Any token holder                |
 | **Team Election**     | Join the coordinating council           | Community nomination + election |
 
-## 🛡️ PROTECTED ACTIONS
+## 🛡️ Protected Decisions
 
-Some actions in the game world are protected by special rules:
+Some decisions are protected by special rules:
 
 - **Principles** - Can only be changed through OASA General Meeting
 - **Land Decisions** - Protected by legal guardians and stewards
@@ -34,4 +34,4 @@ For the complete decision-making process, see [Decision Process](decision_proces
 
 ---
 
-*"The best decisions emerge when all voices are heard and valued."* 🌀
+*"The best decisions emerge when all voices are heard and valued."*

@@ -1,14 +1,14 @@
-# 🎲 DECISION-MAKING QUEST
+# 🎲 Decision-Making Process
 
-**SHAPE THE WORLD!** In the Regeneration Game, governance isn't a boring chore—it's a collaborative adventure where players forge the future together.
+**COMMUNITY GOVERNANCE** At TDF, governance is a collaborative process where community members work together to shape the future.
 
 > *"The best decisions emerge when all voices are heard and valued."*
 
 ## 🧙‍♂️ DECISION TYPES
 
-Different decisions follow different magical paths:
+Different decisions follow different processes:
 
-| TYPE | WHO DECIDES | EXAMPLES | POWER LEVEL |
+| TYPE | WHO DECIDES | EXAMPLES | IMPACT LEVEL |
 |------|-------------|----------|-------------|
 | **Do-ocracy** | Any Citizen | Rearranging kitchen space, starting a compost pile | Low Impact |
 | **DAO Proposal** | TDF DAO | Budgeting for infrastructure, updating rules | Medium Impact |
@@ -16,9 +16,9 @@ Different decisions follow different magical paths:
 | **Executive** | Elected Team | Daily operations, guest management, payments | Operational |
 | **Protected** | Outside TDF Authority | Land sales, profit distribution, core values | Restricted |
 
-## 🎮 DAO DECISION QUEST
+## 🔄 DAO DECISION PROCESS
 
-The main governance quest follows these steps:
+The main governance process follows these steps:
 
 1. **Proposal Crafting**
    - Created by a Citizen
@@ -27,7 +27,7 @@ The main governance quest follows these steps:
 
 2. **Community Feedback**
    - 1-2 week comment period
-   - Players offer insights and refinements
+   - Members offer insights and refinements
    - Proposal evolves through collaboration
 
 3. **Refinement**
@@ -35,7 +35,7 @@ The main governance quest follows these steps:
    - Optional roundtable discussions
    - Final version prepared for voting
 
-4. **Voting Ritual**
+4. **Voting Process**
    - Snapshot vote initiated
    - Quorum: 500 $TDF equivalent
    - Approval: >50% of votes cast
@@ -46,7 +46,7 @@ The main governance quest follows these steps:
    - Progress updates to community
    - Impact measured and shared
 
-## 🛡️ PROTECTED REALMS
+## 🛡️ PROTECTED AREAS
 
 Some decisions are protected by special rules:
 
@@ -63,4 +63,4 @@ Some decisions are protected by special rules:
 
 ---
 
-*"In this game, governance isn't about power—it's about collective wisdom."* 🌀
+*"In our community, governance isn't about power—it's about collective wisdom."*

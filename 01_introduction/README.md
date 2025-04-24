@@ -1,10 +1,10 @@
-# 📜 INTRODUCTION
+# 📜 Introduction
 
-**WELCOME** to the TDF Community Guide introduction. This section will help you understand how our community works.
+**Welcome** to the TDF Community Guide introduction. This section will help you understand how our community works.
 
 > *"Regenerate more than you consume."*
 
-## 📖 ABOUT THIS GUIDE
+## 📖 About This Guide
 
 This guide documents how our community functions and evolves over time.
 
@@ -18,16 +18,16 @@ This guide documents how our community functions and evolves over time.
 - A legal contract (see the Operating Agreement for that)
 - A substitute for direct community interaction
 
-## 🧭 QUICK LINKS
+## 🧭 Quick Links
 
-| IF YOU WANT TO... | CHECK THESE SECTIONS |
+| If You Want To... | Check These Sections |
 |-------------------|----------------------|
 | **Get Started** | [Getting Started](getting_started.md), [FAQ](faq.md) |
 | **Visit TDF** | [Roles](../02_roles-and-stakeholders/README.md), [Community Living](../06_community-living/README.md) |
-| **Become a Citizen** | [Citizenship](../04_citizenship/README.md), [Token System](../05_token-economy/README.md) |
+| **Become a Citizen** | [Citizenship](../02_roles-and-stakeholders/citizenship.md), [Token System](../05_token-economy/README.md) |
 | **Participate in Governance** | [Governance](../03_governance/README.md), [Decision Process](../03_governance/decision_process.md) |
 
-## 🔄 GUIDE UPDATES
+## 🔄 Guide Updates
 
 This guide improves through:
 - Community feedback

@@ -1,21 +1,21 @@
-# 🏡 VILLAGE GAMEPLAY
+# 🏡 Community Living
 
-**WELCOME TO DAILY LIFE!** The Regeneration Game isn't just about big decisions—it's about the everyday magic of community living.
+**Daily Life** Community living at TDF is about the everyday practices that create connection and regeneration.
 
-> *"The real gameplay happens in the small moments of connection and care."*
+> *"The real magic happens in the small moments of connection and care."*
 
-## 🌞 DAILY RHYTHMS
+## 🌞 Daily Schedule
 
-Life at TDF follows natural cycles that blend work, play, and rest:
+Life at TDF follows natural cycles that blend work, rest, and community:
 
 - **Morning Rituals** - Meditation, movement, and intention-setting
-- **Work Cycles** - Focused contribution periods with clear boundaries
-- **Community Meals** - Breaking bread together as a core social practice
+- **Work Periods** - Focused contribution times with clear boundaries
+- **Community Meals** - Sharing food together as a core social practice
 - **Evening Activities** - Skill-sharing, music, storytelling, and celebration
 
-## 🧩 COMMUNITY SYSTEMS
+## 🧩 Community Systems
 
-| SYSTEM      | DESCRIPTION                               | PLAYER INTERACTION                         |
+| System      | Description                               | Participation Opportunities                 |
 | ----------- | ----------------------------------------- | ------------------------------------------ |
 | **Food**    | Regenerative agriculture, community meals | Cook shifts, garden work, food forest care |
 | **Energy**  | Solar power, mindful consumption          | Monitoring usage, system maintenance       |
@@ -23,7 +23,7 @@ Life at TDF follows natural cycles that blend work, play, and rest:
 | **Waste**   | Composting, recycling, upcycling          | Proper sorting, creative reuse             |
 | **Shelter** | Natural building, shared spaces           | Construction, maintenance, beautification  |
 
-## 🎭 SOCIAL DYNAMICS
+## 🎭 Social Dynamics
 
 Community living is a skill that develops through practice:
 
@@ -32,15 +32,15 @@ Community living is a skill that develops through practice:
 - **Celebration** - Marking milestones, seasons, and achievements
 - **Care** - Supporting each other through challenges
 
-## 🎪 SPECIAL EVENTS
+## 🎪 Special Events
 
-The game world comes alive through regular special events:
+The community comes together through regular special events:
 
-- **Seasonal Festivals** - Marking the turning of the wheel
+- **Seasonal Festivals** - Marking the turning of the year
 - **Work Parties** - Collaborative building and land regeneration
 - **Knowledge Exchanges** - Workshops and skill-sharing
-- **Integration Ceremonies** - Welcoming new Citizens
+- **Integration Gatherings** - Welcoming new Citizens
 
 ---
 
-*"The village is both the setting and the purpose of our game."* 🌀
+*"The community is both the setting and the purpose of our work."*

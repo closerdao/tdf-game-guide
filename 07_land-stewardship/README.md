@@ -1,10 +1,10 @@
-# 🌳 WORLD BUILDING
+# 🌳 Land Stewardship
 
-**SHAPE THE LANDSCAPE!** In the Regeneration Game, the physical world is your canvas for ecological restoration and regenerative design.
+**Ecological Care** At TDF, we practice ecological restoration and regenerative design to heal the land and create abundance.
 
-> *"We aren't just playing on the land—we're playing with the land as our most important ally."*
+> *"We work with the land as our most important ally."*
 
-## 🌱 REGENERATIVE PRINCIPLES
+## 🌱 Regenerative Principles
 
 Our approach to land stewardship follows core regenerative principles:
 
@@ -16,9 +16,9 @@ Our approach to land stewardship follows core regenerative principles:
 
 For a deeper dive into these principles, see [Principles](principles.md).
 
-## 🧙‍♂️ STEWARDSHIP PRACTICES
+## 🧙‍♂️ Stewardship Practices
 
-| PRACTICE | DESCRIPTION | PLAYER INTERACTION |
+| Practice | Description | Participation Opportunities |
 |----------|-------------|-------------------|
 | **Food Forests** | Multi-layered edible ecosystems | Planting, maintenance, harvesting |
 | **Water Management** | Swales, ponds, and rainwater systems | Design, implementation, monitoring |
@@ -26,7 +26,7 @@ For a deeper dive into these principles, see [Principles](principles.md).
 | **Habitat Creation** | Wildlife corridors and biodiversity zones | Construction, observation, protection |
 | **Carbon Sequestration** | Trees, perennials, and soil organic matter | Planting, management, measurement |
 
-## 🔍 ECOLOGICAL MONITORING
+## 🔍 Ecological Monitoring
 
 We track our impact through careful observation and measurement:
 
@@ -37,9 +37,9 @@ We track our impact through careful observation and measurement:
 
 For details on our monitoring practices, see [Monitoring](monitoring.md).
 
-## 🎮 PLAYER IMPACT
+## 🌿 Community Impact
 
-Every player action affects the game world:
+Every action affects the ecosystem:
 
 - **Regenerative** → Increases biodiversity, soil health, water retention
 - **Extractive** → Decreases ecosystem health and resilience
@@ -47,4 +47,4 @@ Every player action affects the game world:
 
 ---
 
-*"The true measure of our game success is the thriving of all life forms in our care."* 🌀
+*"The true measure of our success is the thriving of all life forms in our care."*

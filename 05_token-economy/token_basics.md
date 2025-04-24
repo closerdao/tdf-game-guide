@@ -50,4 +50,4 @@ $TDF stay rights renew annually:
 
 ---
 
-*"In the TDF community, tokens aren't for hoarding—they're for circulating."* 🌀
+*"In the TDF community, tokens aren't for hoarding—they're for circulating."*

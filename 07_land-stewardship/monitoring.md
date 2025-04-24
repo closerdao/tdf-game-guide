@@ -1,10 +1,10 @@
-# 🔍 ECOLOGICAL MONITORING
+# 🔍 Ecological Monitoring
 
-**TRACK YOUR IMPACT!** In the Regeneration Game, we measure what matters—the health and vitality of the living systems we steward.
+**MEASURING IMPACT** At TDF, we measure what matters—the health and vitality of the living systems we steward.
 
 > *"What gets measured gets managed. What gets monitored gets regenerated."*
 
-## 🧙‍♂️ MONITORING QUESTS
+## 🧙‍♂️ MONITORING ACTIVITIES
 
 Our ecological monitoring system tracks key indicators of ecosystem health:
 
@@ -16,9 +16,9 @@ Our ecological monitoring system tracks key indicators of ecosystem health:
 | **Carbon Sequestration** | Biomass, soil carbon                  | Open Forest Protocol, soil tests     | Annual    |
 | **Ecosystem Function**   | Pollination, predation, decomposition | Observation plots, indicator species | Seasonal  |
 
-## 🎮 PLAYER PARTICIPATION
+## 🔄 COMMUNITY PARTICIPATION
 
-Every player can join monitoring quests:
+Every community member can join monitoring activities:
 
 - **Biodiversity Surveys** - Document plants and animals you encounter
 - **Soil Sampling** - Collect and prepare soil for testing
@@ -61,10 +61,10 @@ Our monitoring follows open science principles:
 
 - **Transparent Methods** - Clear documentation of how we measure
 - **Open Data** - Accessible datasets for community use
-- **Citizen Science** - Participation open to all players
+- **Citizen Science** - Participation open to all community members
 - **Knowledge Sharing** - Regular workshops on findings
 - **Carbon Verification** - We track carbon sequestration through [Open Forest Protocol](https://atlas.openforestprotocol.org/1660749236393)
 
 ---
 
-*"Every measurement tells a story about our relationship with the land."* 🌀
+*"Every measurement tells a story about our relationship with the land."*

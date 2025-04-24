@@ -1,6 +1,6 @@
 # 🔄 TOKEN RENEWAL
 
-**ANNUAL CYCLES** In the TDF Game, $TDF tokens follow a unique annual cycle that keeps the economy dynamic and sustainable.
+**ANNUAL CYCLES** In the TDF community, $TDF tokens follow a unique annual cycle that keeps the economy dynamic and sustainable.
 
 > *"Like the seasons, our tokens renew—ensuring resources flow where they're needed most."*
 
@@ -12,7 +12,7 @@ $TDF tokens grant stay rights that follow a natural cycle:
 - **Annual Reset** on a fixed date (January 1st)
 - **No Rollover** to subsequent years
 
-## 🎮 GAMEPLAY MECHANICS
+## 🔄 SYSTEM DYNAMICS
 
 The renewal system creates several interesting dynamics:
 
@@ -31,7 +31,7 @@ The renewal system is implemented through:
 
 ## 🧙‍♂️ STRATEGIC CONSIDERATIONS
 
-Players should consider several factors in their token strategy:
+Members should consider several factors in their token strategy:
 
 - **Seasonal Planning** - Different seasons offer different experiences
 - **Token Quantity** - How many nights you wish to stay each year
@@ -40,7 +40,7 @@ Players should consider several factors in their token strategy:
 
 ## 🔮 PRACTICAL EXAMPLES
 
-| SCENARIO                                  | MECHANICS                     | OUTCOME                                           |
+| SCENARIO                                  | MECHANISM                     | OUTCOME                                           |
 | ----------------------------------------- | ----------------------------- | ------------------------------------------------- |
 | **Hold 10 tokens, stay 5 nights**         | 5/10 rights used              | 5 unused rights expire at year end                |
 | **Hold 5 tokens, want to stay 10 nights** | Need to acquire 5 more tokens | Purchase or earn additional tokens                |
@@ -49,4 +49,4 @@ Players should consider several factors in their token strategy:
 
 ---
 
-*"The renewal cycle ensures that our tokens remain in flow, just like nature itself."* 🌀
+*"The renewal cycle ensures that our tokens remain in flow, just like nature itself."*

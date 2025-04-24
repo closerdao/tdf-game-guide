@@ -1,6 +1,6 @@
 # 🏆 TOKEN DISTRIBUTION
 
-**SUPPLY MECHANICS** The $TDF token supply is carefully balanced to support the TDF Game's regenerative economy and physical capacity.
+**SUPPLY MECHANICS** The $TDF token supply is carefully balanced to support the TDF community's regenerative economy and physical capacity.
 
 > *"Every token represents a night under the stars and a voice in our shared future."*
 
@@ -19,7 +19,7 @@ The total $TDF supply is designed with purpose:
 | **Public Sale** | 80% (14,880) | Community ownership through transparent bonding curve |
 | **Sweat Reserve** | 20% (3,720) | Rewards for contributors and Citizens |
 
-## 📈 BONDING CURVE MAGIC
+## 📈 BONDING CURVE MECHANICS
 
 The bonding curve creates a transparent, algorithmic pricing model:
 
@@ -41,15 +41,15 @@ Tokens follow a careful release schedule:
 - **Transferability** - Subject to applicable regulations
 - **Annual Renewal** - Stay rights reset each year (non-rollover)
 
-## 🎮 ACQUISITION QUESTS
+## 🔄 ACQUISITION METHODS
 
 Ways to acquire $TDF tokens:
 
 - **Purchase** - Buy directly through the bonding curve
-- **Earn** - Complete bounties and receive from Sweat Reserve
-- **Receive** - Gifts from other players or the DAO
+- **Earn** - Complete contributions and receive from Sweat Reserve
+- **Receive** - Gifts from other members or the DAO
 - **Delegate** - Borrow voting power (not token ownership)
 
 ---
 
-*"Our token distribution isn't just fair—it's regenerative by design."* 🌀
+*"Our token distribution isn't just fair—it's regenerative by design."*

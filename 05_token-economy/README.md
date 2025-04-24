@@ -1,16 +1,16 @@
-# 💰 COMMUNITY TOKEN SYSTEM
+# 💰 Community Token System
 
-**OVERVIEW** The TDF community uses three token types to track participation, enable governance, and manage resources.
+**Overview** The TDF community uses three token types to track participation, enable governance, and manage resources.
 
-## 🪙 TOKEN TYPES
+## 🪙 Token Types
 
-| TOKEN | PURPOSE | PROPERTIES |
+| Token | Purpose | Properties |
 |-------|---------|------------|
 | **$TDF** | Core utility token | Transferable, represents stay rights and governance |
 | **[$Presence](./\$presence.md)** | Attendance tracker | Non-transferable, decreasing over time, time-weighted |
 | **[$Sweat](./\$sweat.md)** | Contribution tracker | Non-transferable, decreasing over time, effort-weighted |
 
-## 📊 TOKEN FUNCTIONS
+## 📊 Token Functions
 
 These tokens work together in our community:
 
@@ -18,15 +18,15 @@ These tokens work together in our community:
 - **Stay Rights** = 1 $TDF = 1 night per year at utility cost
 - **Contribution Tracking** = Work → $Sweat + $TDF
 
-## 🔗 TOKEN DETAILS
+## 🔗 Token Details
 
-| TOKEN | FUNCTIONS | HOW TO GET |
+| Token | Functions | How to Get |
 |-------|-----------|------------|
 | **$TDF** | Stay rights, governance weight | [Purchase](distribution.md), earn through contribution |
 | **$Presence** | Governance weight | Physical presence at TDF |
 | **$Sweat** | Governance weight | Completing contributions |
 
-## 📚 LEARN MORE
+## 📚 Learn More
 
 - [Token Basics](token_basics.md) - Core concepts
 - [Distribution](distribution.md) - Token circulation
