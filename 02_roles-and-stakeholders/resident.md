@@ -1,12 +1,17 @@
 # 🏡 Resident
 
-**Skilled Contributor** Residents are medium to long-term community members who bring specific skills and consistent contribution.
+**Skilled Contributor** Residents are community members who bring specific skills and consistent contribution, with both short-term and long-term options.
 
 > *"Residency is where personal purpose meets community needs."*
 
 ## Role Description
 
-Residents are individuals with specific skills valuable to the community who commit to staying at TDF for extended periods, typically one month or longer. They take on more responsibility than volunteers and often lead or manage specific areas of community operations or projects based on their expertise.
+Residents are individuals with specific skills valuable to the community who commit to staying at TDF for extended periods. There are two types of residents:
+
+- **Short-term Residents** - Artists, project-specific contributors, and temporary specialists
+- **Long-term Residents** - Individuals with deep involvement and ongoing commitment to community development
+
+They take on more responsibility than volunteers and often lead or manage specific areas of community operations or projects based on their expertise.
 
 ## Responsibilities
 
@@ -17,6 +22,7 @@ As a Resident, you are expected to:
 - **Knowledge Transfer** - Share your skills with other community members
 - **Community Support** - Help maintain daily operations and systems
 - **Active Participation** - Engage fully in community life and activities
+- **Weekly Check-in** - Meet with team weekly to align contributions and goals
 
 ## Opportunities
 
@@ -37,21 +43,6 @@ To become a Resident:
 - **Minimum Commitment** - Agree to stay for at least one month
 - **Work Agreement** - Establish clear expectations for your contribution
 - **Skill Assessment** - Demonstrate the skills you're bringing to the community
-
-## Typical Duration
-
-- **Short-term Residency**: 1-3 months
-- **Medium-term Residency**: 3-6 months
-- **Long-term Residency**: 6+ months
-
-## Progression Path
-
-As a Resident, your potential next steps include:
-
-1. **Extended Residency** - Continue developing your role and projects
-2. **Citizenship Application** - Begin the process of becoming a full community member
-3. **Team Member Role** - Apply for formal positions within the community structure
-4. **Project Development** - Initiate your own projects aligned with community needs
 
 ## Practical Information
 

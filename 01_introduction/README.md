@@ -2,8 +2,6 @@
 
 **Welcome** to the TDF Community Guide introduction. This section will help you understand how our community works.
 
-> *"Regenerate more than you consume."*
-
 ## 📖 About This Guide
 
 This guide documents how our community functions and evolves over time.
@@ -29,12 +27,7 @@ This guide documents how our community functions and evolves over time.
 
 ## 🔄 Guide Updates
 
-This guide improves through:
-- Community feedback
-- Governance decisions
-- Ongoing documentation efforts
-
-Have suggestions for improvement? Please share them with the community.
+Changes to the guide must go through governance (Chalmers discussion → Snapshot vote). See the [Governance section](../03_governance/) for details on how to propose changes.
 
 ---
 

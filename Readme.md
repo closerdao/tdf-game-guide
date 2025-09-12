@@ -1,7 +1,7 @@
 # 🌱 TDF Community Guide 🌱
 ## Traditional Dream Factory
 
-**Welcome** to the Traditional Dream Factory (TDF) Community Guide. This document explains how our community works together to create a regenerative future.
+**Welcome** to the Traditional Dream Factory Community Guide. This document explains how our community works together to create a regenerative future.
 
 ## 📋 Overview
 
@@ -22,10 +22,6 @@ TDF is a community in Abela, Portugal working to:
 | [Community Living](06_community-living/) | Daily life at TDF | [View](06_community-living/) |
 | [Land Stewardship](07_land-stewardship/) | Ecological practices | [View](07_land-stewardship/) |
 
-## 🔄 Living Document
+## 🔄 Guide Updates
 
-This guide evolves as our community learns and grows. Your feedback and participation help improve it for everyone.
-
----
-
-*"Regenerate more than you consume."*
+This guide evolves as our community learns and grows. Changes to the guide must go through governance (Chalmers discussion → Snapshot vote). See the [Governance section](03_governance/) for details on how to propose changes.

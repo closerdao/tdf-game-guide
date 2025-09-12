@@ -6,7 +6,7 @@
 
 ## Role Description
 
-Team Members are Citizens who have been elected or appointed to take on specific operational responsibilities within the community. They lead key functional areas, manage resources, coordinate projects, and ensure the smooth functioning of community systems. Team Members combine practical skills with leadership abilities to serve the community's needs.
+Team Members are individuals who have been elected or appointed to take on specific operational responsibilities within the community. They lead key functional areas, manage resources, coordinate projects, and ensure the smooth functioning of community systems. Team Members combine practical skills with leadership abilities to serve the community's needs.
 
 ## Responsibilities
 
@@ -33,10 +33,11 @@ In the Team Member role, you can:
 
 To become a Team Member:
 
-- **Citizenship** - Must be a Citizen in good standing
 - **Skill Mastery** - Demonstrate expertise in the relevant area
-- **Election/Appointment** - Be elected by the DAO or appointed by relevant body
-- **Commitment** - Agree to serve for a specified term (typically 6-12 months)
+- **Election Process** - DAO elects executive director → director hires team
+- **Commitment** - Minimum 6 months commitment
+- **Seasonal Presence** - Team present for full seasons (Aug–Dec, Jan–Jun; subject to change)
+- **Setup/Breakdown Support** - Some must support setup and breakdown
 - **Accountability** - Accept responsibility for outcomes in your area
 
 ## Common Team Member Roles
@@ -51,23 +52,7 @@ To become a Team Member:
 
 ## Governance Participation
 
-Team Members have special responsibilities in governance:
-
-- **Proposal Development** - Create proposals related to their area
-- **Implementation Planning** - Develop execution plans for approved proposals
-- **Resource Allocation** - Make recommendations on resource distribution
-- **Reporting** - Provide data and insights to inform community decisions
-- **Working Group Leadership** - Facilitate working groups in their domain
-
-## Support Systems
-
-Team Members are supported through:
-
-- **Mentorship** - Guidance from experienced community members
-- **Peer Support** - Regular Team Member coordination meetings
-- **Training** - Access to relevant skill development opportunities
-- **Resources** - Appropriate tools and resources for their role
-- **Compensation** - Recognition for their service through tokens or other means
+Team Members participate in governance through the DAO structure, with governance handled via the DAO rather than requiring separate governance participation.
 
 ## Term and Transition
 

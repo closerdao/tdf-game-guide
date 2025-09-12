@@ -6,7 +6,7 @@
 
 ## Role Description
 
-Volunteers are individuals who commit to a more substantial period of engagement with TDF, typically 2 weeks or more, with regular daily contributions to community projects and operations. This role offers a deeper immersion in community life and the opportunity to develop skills while supporting the community's needs.
+Volunteers are individuals who commit to a more substantial period of engagement with TDF, typically 2 weeks to 1 month, with regular daily contributions to community projects and operations. This role offers a way to get to know the community and see if you want to engage more deeply while supporting the community's needs.
 
 ## Responsibilities
 
@@ -22,35 +22,22 @@ As a Volunteer, you are expected to:
 
 During your volunteer period, you can:
 
-- **Earn $Sweat Tokens** - Receive recognition for your contributions
 - **Develop Skills** - Learn regenerative practices through hands-on experience
 - **Build Deeper Relationships** - Form stronger connections with community members
-- **Explore Potential Paths** - Consider longer-term involvement options
+- **Explore Community** - See if you want to engage more deeply
 - **Access Learning Resources** - Participate in workshops and training sessions
+
+**Note:** Volunteers do not earn $Sweat tokens.
 
 ## Requirements
 
 To become a Volunteer:
 
 - **Application** - Submit a volunteer application describing your skills and interests
-- **Minimum Commitment** - Agree to stay for at least 2 weeks
+- **Minimum Commitment** - Encouraged for 1 month, flexible for 2 weeks–1 month
 - **Work Agreement** - Commit to approximately 4 hours of contribution daily
 - **Orientation** - Complete the volunteer orientation process
 - **Community Agreement** - Align with community values and guidelines
-
-## Typical Duration
-
-- **Standard Program**: 2-4 weeks
-- **Extended Program**: 1-3 months
-
-## Progression Path
-
-After your volunteer period, potential next steps include:
-
-1. **Extended Volunteering** - Continue in the volunteer role for a longer period
-2. **Apply for Residency** - For those with valuable skills to offer the community
-3. **Join a Stewardship Cohort** - For a more structured learning experience
-4. **Begin Citizenship Journey** - Start the path toward full community membership
 
 ## Practical Information
 
@@ -62,9 +49,13 @@ After your volunteer period, potential next steps include:
 
 ## Common Volunteer Projects
 
+- **Space Holding** - Supporting community spaces and maintaining order
+- **Bed Making** - Preparing accommodations for visitors and residents
+- **Cleaning** - Maintaining cleanliness of shared spaces
+- **Care of Spaces** - General maintenance and care of community areas
+- **Land/Build Work** - Physical work on land and construction projects
 - **Garden & Food Forest** - Planting, maintenance, and harvesting
 - **Kitchen** - Food preparation and preservation
-- **Construction** - Building and maintenance projects
 - **Events** - Hosting and supporting community gatherings
 - **Administration** - Supporting operational tasks
 

@@ -1,12 +1,12 @@
 # 🌳 Guardian
 
-**Land Protector** Guardians hold special responsibility for the ecological health and regeneration of the land.
+**Land Protector** Guardians are external stakeholders tied to OASA principles who provide constitutional/ecological veto power.
 
 > *"To be a Guardian is to listen deeply to the land and speak on its behalf."*
 
 ## Role Description
 
-Guardians are community members who have demonstrated exceptional commitment to ecological stewardship and have been entrusted with special responsibilities related to land care and regeneration. They combine practical ecological knowledge with a deep connection to the land, serving as advocates for the non-human stakeholders of the TDF ecosystem.
+Guardians are external stakeholders who have demonstrated exceptional commitment to ecological stewardship and have been entrusted with special responsibilities related to land care and regeneration. They are tied to OASA principles and sometimes supported by AI ecological agents. They combine practical ecological knowledge with a deep connection to the land, serving as advocates for the non-human stakeholders of the TDF ecosystem.
 
 ## Responsibilities
 

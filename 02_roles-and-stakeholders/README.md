@@ -20,18 +20,15 @@
 
 The community is influenced by various stakeholders, each with their own interests and responsibilities:
 
-- **The DAO** - Digital governance collective of all Citizens
+- **DAO (Decentralized Autonomous Organization)** - Digital governance collective of citizens, token holders, team, sweat earners, and lenders
 - **OASA** - The legal entity that holds the land
+- **Investors/Lenders** - Financial supporters who provide capital for community development
 - **Local Community** - Neighbors and allies in the surrounding region
 - **Nature Itself** - The ultimate stakeholder we serve
 
-## 🔄 Role Progression
+## 🌳 Guardian Role
 
-Community involvement can evolve through contribution and commitment:
-
-1. **Visitor → Volunteer/Resident/Steward**: Complete basic onboarding, apply for appropriate program
-2. **Volunteer/Resident/Steward → Citizen**: Demonstrate alignment, complete citizenship process
-3. **Citizen → Team Member**: Master specific skills, be elected by the DAO
+Guardians are external stakeholders tied to OASA principles, sometimes supported by AI ecological agents. They provide constitutional/ecological veto power and are placed at the bottom of the roles menu due to their special external status.
 
 For comprehensive information about becoming a Citizen, see the [Citizenship Guide](citizenship.md).
 

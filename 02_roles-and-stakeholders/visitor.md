@@ -6,7 +6,7 @@
 
 ## Role Description
 
-Visitors are individuals who stay at TDF for short periods, typically ranging from a few days to a couple of weeks. They represent the first level of engagement with the community and have the opportunity to experience daily life, participate in activities, and learn about the community's systems and values.
+Visitors are individuals who stay at TDF for periods of 1 month or longer (except volunteers/events). They represent the first level of engagement with the community and have the opportunity to experience daily life, participate in activities, and learn about the community's systems and values.
 
 ## Responsibilities
 
@@ -15,7 +15,8 @@ As a Visitor, you are expected to:
 - **Respect Community Guidelines** - Follow the established norms and practices
 - **Participate in Orientation** - Learn about basic systems and safety protocols
 - **Engage in Community Life** - Join meals and community gatherings
-- **Contribute Minimally** - Help with basic tasks like kitchen cleanup
+- **Contribute 4h/week** - Provide meaningful contribution to community projects
+- **Join Cooking Shifts** - If in food program, participate in meal preparation
 - **Provide Feedback** - Share your observations and experiences
 
 ## Opportunities
@@ -37,24 +38,36 @@ To become a Visitor:
 - **Community Agreement** - Agree to respect community values and guidelines
 - **Contribution Fee** - Pay the daily rate that supports community operations
 
-## Typical Duration
+## Friends Booking System
 
-- **Short Stay**: 2-7 days
-- **Extended Visit**: 1-2 weeks
+Anyone with an active booking may invite a guest for a short stay. The inviter is responsible for:
+- **Onboarding** - Introducing the guest to community norms
+- **Bed Preparation** - Ensuring accommodation is ready
+- **Meals** - Providing or arranging meals
+- **Transport** - Handling transportation needs
 
-## Progression Path
+## Food Program
 
-If you enjoy your time as a Visitor and wish to deepen your involvement, you can:
+The food program is optional with a separate fee. Visitors can choose to:
+- **Join the Program** - Access to community meals and cooking shifts
+- **Opt Out** - Handle their own food needs independently
 
-1. **Return for Longer Visits** - Build familiarity with the community
-2. **Apply for Volunteer Program** - Commit to a 2+ week contribution period
-3. **Consider Residency** - For those with specific skills to offer
-4. **Join a Stewardship Cohort** - For structured learning and integration
+## Fee Comparison by Role
+
+| Role | Accommodation | Utilities | Food | Notes |
+|------|---------------|-----------|------|-------|
+| **Visitors** | ✓ | ✓ | ✓ (if joining program) | Separate food program fee |
+| **Volunteers** | Free | ✓ | ✓ | Utilities + food costs |
+| **Residents** | Free | Free | Free | No fees |
+| **Stewards** | Free | Free | Free | Except stewardship fee |
+| **Citizens** | Covered by tokens | ✓ | ✓ | Accommodation via tokens |
+| **Team** | Free | Free | Free | No fees |
+| **Guardians** | N/A | N/A | N/A | External role |
 
 ## Practical Information
 
 - **Accommodation** - Shared rooms or camping options
-- **Meals** - Access to community meals (usually included in stay fee)
+- **Meals** - Access to community meals (if joining food program)
 - **Facilities** - Use of common spaces and basic amenities
 - **Activities** - Welcome to join daily community activities
 - **Governance** - No formal voting rights, but feedback is valued

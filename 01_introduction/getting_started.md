@@ -1,10 +1,10 @@
-# 🌱 GETTING STARTED
+# 🌱 Getting Started
 
-**WELCOME TO TDF!** The Traditional Dream Factory is a community focused on creating a regenerative future.
+**Welcome to TDF!** Traditional Dream Factory is a community focused on creating a regenerative future.
 
 > *"This isn't just a community—it's a new way of living."*
 
-## 🧭 FIRST STEPS
+## 🧭 First Steps
 
 ### Preparing for Your Visit
 1. **Book a Stay** - Reserve your first visit to the community
@@ -16,16 +16,22 @@
 - **Orientation Tour** - Explore the physical space and facilities
 - **Community Meal** - Share food with fellow community members
 - **Contribution Activity** - Complete a small helpful task
-- **Evening Circle** - Join the community gathering
+- **Community Gatherings** - Join regular community rituals
 
-## 🔄 DAILY SCHEDULE
+## 🔄 Daily Schedule
 
 ### Daily Structure
 1. **Morning Gathering** - Set intentions for the day
 2. **Contribution Time** - Work on projects that match your skills
 3. **Learning Opportunities** - Develop new abilities and knowledge
 4. **Community Connection** - Share meals and experiences
-5. **Evening Reflection** - Discuss achievements and plan next steps
+5. **Community Gatherings** - Join regular community rituals
+
+### Community Rituals
+- **Sharing Circle** (Tuesdays) - Deep sharing and community connection
+- **Sauna** (Sundays) - Relaxation and community bonding
+- **Appreciation Circle / Happy Hour** (Fridays) - Celebrating community members
+- **All-hands Work Session** (Wednesdays) - Collaborative community projects
 
 ### Participation Pathways
 1. **Visitor → Volunteer/Resident/Steward → Citizen** - Progression of involvement
@@ -34,16 +40,16 @@
 4. **Project Creation** - Launch your own regenerative initiatives
 5. **Governance Participation** - Help shape the future of the community
 
-## 🌟 MEASURING SUCCESS
+## 🌟 Exploring Success
 
-Success at TDF looks different for each person:
+We invite you to explore 4 areas of growth and contribution:
 
 - **Personal Growth** - Developing new skills and awareness
 - **Community Impact** - Contributing to collective flourishing
 - **Ecological Regeneration** - Helping restore natural systems
 - **Cultural Creation** - Co-creating meaningful experiences and practices
 
-## 🌿 COMMON CHALLENGES
+## 🌿 Common Challenges
 
 Every community experience has challenges to navigate:
 
@@ -51,9 +57,9 @@ Every community experience has challenges to navigate:
 - **Skill Development** - Learning new abilities to contribute effectively
 - **Interpersonal Dynamics** - Navigating community relationships
 - **External Commitments** - Balancing community participation with outside life
-- **Seasonal Changes** - Adapting to weather and seasonal conditions
+- **Weather Adaptation** - Adapting to changing weather and seasonal conditions
 
-## 📊 COMMUNITY SYSTEMS
+## 📊 Community Systems
 
 ### Key Frameworks
 - **Token System** - $TDF, $Presence, and $Sweat track participation and contributions
