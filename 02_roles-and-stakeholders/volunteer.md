@@ -8,19 +8,14 @@
 
 Volunteers are individuals who commit to a defined period of engagement with TDF, typically 2 weeks to 1 month (friends booking may be shorter), with regular daily contributions to community projects and operations. This role offers a way to get to know the community and see if you want to engage more deeply while supporting the community's needs.
 
-## Volunteering Options
+## Volunteering Commitment
 
-Volunteers can choose between two commitment levels:
+Volunteers commit to a minimum 2-week period with the following arrangement:
 
-**Option 1: 4 hours/day + pay for food**
+**4 hours/day + pay for food**
 - 4 hours of daily contribution
 - Pay for your own food costs
-- More flexibility in schedule
-
-**Option 2: 6 hours/day + free meals**
-- 6 hours of daily contribution
-- Free access to community meals
-- Higher commitment level
+- Flexible schedule within community needs
 
 ## Responsibilities
 

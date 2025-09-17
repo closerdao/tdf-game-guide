@@ -37,16 +37,16 @@
 - Project approvals and resource allocation
 - Governance process improvements
 
-### Participants
-- **Citizens** - Full community members with voting rights
-- **Token Holders** - Individuals holding $TDF tokens
+### DAO Members (Voting Rights)
+- **TDF Token Holders** - Individuals holding $TDF tokens with voting power
+- **Citizens** - Subset of token holders with deeper responsibilities
 
-### Stakeholders (Non-Voting)
-- **Team Members** - Operational leaders
-- **Sweat Earners** - Contributors who have earned $Sweat
+### External Stakeholders (Non-Voting)
+- **Team Members** - Operational leaders elected by DAO
+- **Sweat Earners** - Contributors who have earned $Sweat (but do not hold voting tokens)
 - **Lenders** - Financial supporters providing capital
 
-## ⚙️ Layer 3: Team (Executive Director)
+## ⚙️ Layer 3: Team (Executive Team)
 **Day-to-Day Operational Decisions**
 
 ### Authority
@@ -61,9 +61,14 @@
 - Staff hiring and management
 - Emergency response and safety protocols
 
+### Legal Structure
+- The executive team is legally represented by a director
+- All team members are elected by the DAO
+- Team serves fixed terms with mandatory renewal votes
+
 ### Participants
-- **Executive Director** - Elected by DAO, manages team
-- **Team Members** - Hired by executive director
+- **Executive Team** - All members elected by DAO
+- **Legal Director** - Represents the team legally
 - **Operational Staff** - Daily community operations
 
 ## 🔄 Decision Flow

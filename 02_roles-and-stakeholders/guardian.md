@@ -6,7 +6,11 @@
 
 ## Role Description
 
-Guardians are external stakeholders under OASA oversight, not daily community members. They hold ecological veto power and may be appointed by OASA to ensure constitutional principles are maintained. They combine practical ecological knowledge with a deep connection to the land, serving as advocates for the non-human stakeholders of the TDF ecosystem.
+**OASA-Appointed Ecological Representatives** Guardians are individuals appointed by OASA to uphold ecological integrity and represent the rights of water, soil, air, fauna, and flora. They operate independently of the DAO and answer to OASA's General Meeting.
+
+**Constitutional Authority** As defined in the [OASA constitution](https://oasa.earth), guardians have the authority to flag or veto decisions that could harm ecological integrity. They combine practical ecological knowledge with a deep connection to the land, serving as advocates for the non-human stakeholders of the TDF ecosystem.
+
+**Independence** Guardians are external stakeholders, not daily community members, ensuring they maintain objective oversight of community activities.
 
 ## Responsibilities
 

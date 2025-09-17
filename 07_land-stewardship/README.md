@@ -2,7 +2,9 @@
 
 **Ecological Care** TDF is a human habitat that shares and interacts with surrounding ecosystems. At least 50% of land is reserved for rewilding, with safety and comfort for people as design goals.
 
-> *"We work with the land as our most important ally."*
+> *"We work with the land as our most important ally, within the bounds of ecological integrity."*
+
+**Constitutional Framework**: All land stewardship activities must comply with the [OASA constitution](https://oasa.earth) and may require approval by OASA's General Meeting for major changes.
 
 ## 🌱 Regenerative Principles
 

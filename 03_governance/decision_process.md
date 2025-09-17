@@ -15,19 +15,23 @@
 
 ### 2. DAO
 **Proposals, budgets, and elections**
-- Community proposals and voting
+- Community proposals and voting (by TDF token holders only)
 - Budget allocation and financial decisions
-- Election of executive director
+- Election of executive team (legally represented by a director)
 - Policy changes and rule updates
 - Any changes to the game guide must be proposed on Charmverse and voted on via Snapshot (with guardians' veto for ecological issues)
 
-### 3. Team (Executive Director)
+**DAO Membership:** The DAO comprises TDF token holders; sweat earners and lenders are stakeholders with influence but do not hold voting rights.
+
+### 3. Team (Executive Team)
 **Day-to-day operational decisions**
 - Daily operations and guest management
 - Resource allocation within approved budgets
 - Staff hiring and management
 - Implementation of DAO decisions
 - Emergency response and safety protocols
+
+**Team Term Limits:** The executive team serves fixed terms of 6-12 months with mandatory renewal votes by the DAO. The team is legally represented by a director.
 
 ## 🔄 DAO DECISION PROCESS
 

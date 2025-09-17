@@ -77,8 +77,7 @@ Voting Power = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5) + (Proof of Implem
 - [Full Guide](README.md) - Complete community guide
 - [Introduction](01_introduction/) - Getting started and FAQ
 - [Roles](02_roles-and-stakeholders/) - Community roles and citizenship
-- [Governance](03_governance/) - Decision-making processes
-- [Governance Structure](04_governance/) - DAO, OASA, legal entities
+- [Governance](03_governance/) - Decision-making processes and structure
 - [Token Economy](05_token-economy/) - Token system details
 - [Community Living](06_community-living/) - Daily life at TDF
 - [Land Stewardship](07_land-stewardship/) - Ecological practices

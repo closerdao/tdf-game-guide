@@ -4,6 +4,10 @@
 
 > *"Every community journey begins with a first visit."*
 
+## ⚠️ Important Notice
+
+**Minimum Stay Requirement:** Visitors must stay for a minimum of 1 month (except volunteer/event/friend bookings). Any references to shorter stays (3-14 days) in older documentation are outdated and no longer apply.
+
 ## Role Description
 
 Visitors are individuals who stay at TDF for a minimum of 1 month (except volunteer/event/friend bookings). They represent the first level of engagement with the community and have the opportunity to experience daily life, participate in activities, and learn about the community's systems and values.
@@ -53,12 +57,24 @@ To become a Visitor:
 
 ## Friends Booking System
 
-Anyone with an active booking may invite a guest for a short stay. **A host must onboard any friend booking** and is responsible for:
-- **Onboarding** - Introducing the guest to community norms and safety protocols
-- **Bed Preparation** - Ensuring accommodation is ready
-- **Meals** - Providing or arranging meals
-- **Transport** - Handling transportation needs
-- **Community Integration** - Ensuring the guest understands and follows community guidelines
+**Host Responsibilities**
+
+Anyone with an active booking (visitor or citizen) may invite a guest for a short stay. **The host is fully responsible for their guest** and must:
+
+- **Onboarding** - Introduce the guest to community norms and safety protocols
+- **Bed Preparation** - Ensure accommodation is ready and comfortable
+- **Meals** - Provide or arrange meals for the duration of the stay
+- **Transport** - Handle transportation needs to and from TDF
+- **Community Integration** - Ensure the guest understands and follows community guidelines
+- **Support** - Be available to support the guest throughout their stay
+
+**Guest Expectations**
+- Follow all community guidelines and safety protocols
+- Respect the host's guidance and community norms
+- Participate appropriately in community activities
+- Contribute to community life as appropriate
+
+**Cross-references:** [Learn about visitor requirements →](visitor.md) | [Understand token economy →](../05_token-economy/README.md)
 
 ## Food Program
 

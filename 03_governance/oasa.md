@@ -1,4 +1,4 @@
-# 🌱 OASA (Organization for the Advancement of Sustainable Agriculture)
+# 🌱 OASA
 
 **Ecological Oversight** OASA is our ecological oversight body that ensures all community activities align with regenerative principles and environmental protection.
 
@@ -55,7 +55,7 @@ OASA has authority over:
 
 ## 📚 Learn More
 
-- [Decision Process](../03_governance/decision_process.md) - How OASA fits into governance
+- [Decision Process](decision_process.md) - How OASA fits into governance
 - [Land Stewardship](../07_land-stewardship/README.md) - Ecological practices and principles
 - [Guardians](../02_roles-and-stakeholders/guardian.md) - Guardian role details
 

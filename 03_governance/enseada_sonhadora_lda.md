@@ -55,7 +55,7 @@ Enseada Sonhadora LDA serves as the legal foundation for TDF, providing:
 
 ## 📚 Learn More
 
-- [Decision Process](../03_governance/decision_process.md) - How LDA fits into governance
+- [Decision Process](decision_process.md) - How LDA fits into governance
 - [DAO](dao.md) - Governance structure and decision-making
 - [OASA](oasa.md) - Ecological oversight and land management
 

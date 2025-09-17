@@ -8,10 +8,26 @@
 
 Residents are individuals with specific skills valuable to the community who commit to staying at TDF for extended periods. There are two types of residents:
 
-- **Short-term Residents** - 1-3 months, typically artists or project-specific contributors
-- **Long-term Residents** - Multi-season commitment with deep community involvement
+- **Short-term Residents** - 1-3 months, typically artists, researchers, or project-specific contributors
+- **Long-term Residents** - Multi-season commitment with deep community involvement and ongoing projects
 
 They take on more responsibility than volunteers and often lead or manage specific areas of community operations or projects based on their expertise.
+
+## Resident Types & Expectations
+
+### Short-term Residents
+- **Duration:** 1-3 months
+- **Typical Roles:** Artists, researchers, project-specific contributors
+- **Compensation:** May earn $Sweat/TDF tokens only for approved projects
+- **Expectations:** Focused contribution to specific projects or research
+
+### Long-term Residents
+- **Duration:** Multi-season commitment
+- **Typical Roles:** Ongoing project managers, specialized skill holders
+- **Compensation:** May earn $Sweat/TDF tokens only for approved projects
+- **Expectations:** Deep community integration and ongoing project leadership
+
+**Transition Path:** Residents may transition into [steward roles](steward.md) for immersive learning or become [team members](team_member.md) or [citizens](citizen.md).
 
 ## Responsibilities
 

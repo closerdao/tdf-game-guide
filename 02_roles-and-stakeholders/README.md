@@ -10,7 +10,7 @@ The community is influenced by various stakeholders, each with their own interes
 
 ### External Stakeholders
 - **DAO (Decentralized Autonomous Organization)** - Digital governance collective that enables community members to propose, vote on, and implement decisions collectively
-- **OASA (Organization for the Advancement of Sustainable Agriculture)** - Ecological oversight body that ensures all community activities align with regenerative principles and environmental protection
+- **OASA** - Ecological oversight body that ensures all community activities align with regenerative principles and environmental protection
 - **Enseada Sonhadora LDA** - The legal entity that holds the land and manages property rights
 - **Investors/Lenders** - Financial supporters who provide capital for community development
 
@@ -30,6 +30,8 @@ The community is influenced by various stakeholders, each with their own interes
 
 ## 🎭 Community Roles
 
+**Roles describe how people participate in TDF:**
+
 | Role | Description | Example |
 |-----------------|-------------------|---------------------|
 | **[Visitor](visitor.md)** | Temporary participants who come to experience and learn about the community | *Sofia - a digital nomad citizen who visits TDF annually* |
@@ -41,11 +43,19 @@ The community is influenced by various stakeholders, each with their own interes
 
 ## 🔄 Multiple Roles
 
-Individuals can hold multiple roles simultaneously (e.g., citizen + resident, team member + steward). Roles describe modes of participation rather than exclusive identities, allowing for flexible engagement based on individual capacity and community needs.
+**People can occupy multiple roles simultaneously** (e.g., citizen + resident, citizen + steward, team member + steward). Roles describe modes of participation rather than exclusive identities, allowing for flexible engagement based on individual capacity and community needs.
+
+**Examples of role overlaps:**
+- **Citizen + Resident** - A citizen who takes on a specific project residency
+- **Citizen + Steward** - A citizen who becomes a land steward for a season
+- **Team Member + Steward** - A team member who also manages a specific area
+- **Visitor + Volunteer** - A visitor who decides to volunteer during their stay
 
 ## 🌳 Guardian Role
 
-Guardians are external stakeholders under OASA oversight, not daily community members. They hold ecological veto power and may be appointed by OASA to ensure constitutional principles are maintained. [Learn more about guardians →](guardian.md)
+**OASA-Appointed Ecological Representatives** Guardians are individuals appointed by OASA to uphold ecological integrity and represent the rights of water, soil, air, fauna, and flora. They operate independently of the DAO and answer to OASA's General Meeting.
+
+**Constitutional Authority** As defined in the [OASA constitution](https://oasa.earth), guardians have the authority to flag or veto decisions that could harm ecological integrity. [Learn more about guardians →](guardian.md)
 
 ---
 

@@ -1,64 +1,99 @@
-# 🌱 Regenerative Principles
+# 🌱 OASA Regenerative Principles
 
-**ECOLOGICAL FOUNDATION** The TDF community is guided by powerful principles that shape how we interact with the land and each other.
+**CONSTITUTIONAL FOUNDATION** TDF operates within the [OASA constitution](https://oasa.earth) framework, applying seven core regenerative principles that shape how we interact with the land and each other.
 
-> *"We work with the land as our most important ally."*
+> *"We work with the land as our most important ally, within the bounds of ecological integrity."*
 
-## 🧙‍♂️ CORE PRINCIPLES
+## 🌍 THE SEVEN REGENERATIVE PRINCIPLES
 
-These principles form the foundation of our approach to land stewardship:
+These principles mirror the [OASA constitution's regenerative principles](https://oasa.earth) and form the foundation of our approach to land stewardship:
 
-### 1. Observe Before Acting
-- **Watch & Interact** - Study patterns before intervening
-- **Seasonal Cycles** - Understand how the land changes through time
-- **Energy Flows** - Map how water, sunlight, and nutrients move
-- **Existing Life** - Identify what already thrives here
-- **Continued Observation** - Observation continues after interventions
+### 1. Soil: Life-filled and Fertile
+**Maintaining living plant cover and building soil health**
 
-### 2. Stack Functions
-- **Multiple Yields** - Design elements that serve many purposes
-- **Integrated Systems** - Connect outputs of one system to inputs of another
-- **Resource Efficiency** - Maximize value from each element
-- **Resilient Design** - Create redundancy through diversity
-- **Closed Loops** - Emphasize closed-loop systems and circular design
-
-### 3. Work With Nature
-- **Natural Patterns** - Mimic successful ecological designs
-- **Succession Planning** - Understand how ecosystems evolve over time
-- **Minimal Intervention** - Use the smallest change for the largest effect
-- **Biological Resources** - Prefer living solutions over technological ones
-- **Rotational Grazing** - Implement rotational grazing systems
-- **Reforestation** - Support natural forest regeneration
-- **Local Varieties** - Plant locally adapted and native species
-
-### 4. Capture & Store Energy
-- **Water Harvesting** - Slow, spread, and sink water into the landscape
+- **Living Plant Cover** - Maintain continuous plant cover to protect soil from erosion
+- **Minimize Disturbance** - Avoid unnecessary soil disruption and compaction
+- **Avoid Synthetic Fertilizers** - Use only natural, organic soil amendments
+- **Compost and Nutrient Recycling** - Encourage composting and nutrient cycling systems
+- **Biomass Return** - Commit to returning at least 30% of pruned biomass to the soil
+- **Biochar and Vermicomposting** - Build soil through biochar application and vermicomposting
 - **Soil Building** - Increase organic matter to store carbon and nutrients
-- **Perennial Systems** - Establish plants that produce for many years
-- **Appropriate Technology** - Use renewable energy and passive design
-- **Geothermal & Wind** - Utilize geothermal and wind energy (e.g., kite systems)
-- **Waste Heat Reuse** - Reuse waste heat from various processes
 
-### 5. Value Diversity
-- **Biodiversity** - Cultivate many species for ecosystem resilience
-- **Cultural Diversity** - Honor different perspectives and knowledge systems
-- **Functional Diversity** - Include elements that serve different roles
-- **Genetic Diversity** - Preserve heirloom and local varieties
-- **Non-invasive Species** - Focus on non-invasive, locally suitable species
-- **Pest Management** - Implement integrated pest management strategies
+### 2. Water: Healthy Systems and Cycles
+**Capturing, storing, and treating water sustainably**
+
+- **Rainfall Capture** - Capture and store rainfall via swales, ponds, and terraces
+- **Greywater Treatment** - Separate and biologically treat greywater and blackwater
+- **Rainwater Priority** - Prioritize rainwater harvesting over aquifer extraction
+- **Greywater Recycling** - Implement comprehensive greywater recycling systems
+- **No Chlorine** - Discourage chlorine use in water treatment
+- **Water Harvesting** - Slow, spread, and sink water into the landscape
+
+### 3. Air: Clean and Restorative
+**Promoting clean air and carbon sequestration**
+
+- **No Toxic Burning** - Ban open burning of toxic materials
+- **Reforestation** - Promote reforestation and afforestation for carbon sequestration
+- **Biochar Carbon Lock** - Use biochar to lock carbon and improve soil water retention
+- **Clean Energy** - Ensure energy systems avoid emitting harmful pollutants
+- **Carbon Sequestration** - Track and maximize carbon storage in soil and biomass
+
+### 4. Waste: A Non-Waste Mentality
+**Eliminating waste and promoting circular systems**
+
+- **Zero Waste Goal** - Seek to eliminate waste through design and behavior
+- **No Single-Use Plastics** - Avoid single-use plastics and synthetic materials
+- **Accessible Recycling** - Provide comprehensive recycling systems
+- **Upcycling** - Transform waste materials into useful products
+- **Organic Waste Recovery** - Recover organic waste through composting
+- **Pollution Prevention** - Prevent pollution at the source
+
+### 5. Rewilding and Biodiversity
+**Protecting and enhancing natural ecosystems**
+
+- **50% Wild Land** - Keep at least 50% of TDF's land wild or rewilded
+- **Native Species** - Plant native species and support local biodiversity
+- **Diverse Crops** - Employ diverse crops and food forests
+- **Ancient Tree Conservation** - Conserve and protect ancient trees
+- **Invasive Species Removal** - Remove invasive species systematically
+- **Rotational Grazing** - Use rotational or mob grazing to improve diversity
 - **Balanced Diversity** - Balance diversity with suitability and safety
+- **Wildlife Corridors** - Maintain corridors for wildlife connectivity
 
-**Note**: Diversity must be balanced with suitability and safety to ensure ecosystem health and human well-being.
+### 6. Resources: Renewable and Sustainable
+**Using renewable resources and sustainable materials**
+
+- **Renewable Energy** - Emphasize solar, wind, and biomass energy systems
+- **5% Building Limit** - Limit built structures to 5% of total land area
+- **Local Natural Materials** - Select local natural materials (wood, straw, clay, cork)
+- **Biodiversity-Supporting Buildings** - Design buildings with green roofs and vertical gardens
+- **Local Sourcing** - Source food and materials locally when possible
+- **Reduced Meat Consumption** - Promote plant-based diets and sustainable protein sources
+- **Geothermal and Wind** - Utilize geothermal and kite wind systems
+
+### 7. Community: Equitable, Resilient and Open
+**Building equitable and resilient community systems**
+
+- **Equivalence** - Stress equivalence and consent-based decision-making
+- **Rule-Making Power** - Empower those affected by rules to propose them
+- **Restorative Justice** - Use restorative justice and mediation for conflicts
+- **Open Knowledge** - Share knowledge openly and transparently
+- **Local Collaboration** - Collaborate with local communities and stakeholders
+- **Mutual Aid** - Cultivate resilience through mutual aid and local economies
+- **Safety and Good Neighborliness** - Maintain safety and positive community relationships
+- **Active Governance** - Encourage active engagement in governance processes
 
 ## 🔄 PRACTICAL APPLICATION
 
 | PRINCIPLE                  | METHODS                                      | ACTIVITIES                                             |
 | -------------------------- | -------------------------------------------- | ------------------------------------------------------ |
-| **Observe Before Acting**  | Site analysis, observation logs              | Mapping, journaling, phenology tracking                |
-| **Stack Functions**        | Design challenges, system integration        | Creating multi-purpose elements, connecting systems    |
-| **Work With Nature**       | Biomimicry, succession planning              | Forest gardening, companion planting                   |
-| **Capture & Store Energy** | Resource management, infrastructure building | Water system design, soil building, solar installation |
-| **Value Diversity**        | Biodiversity initiatives, cultural exchange  | Planting diverse species, sharing knowledge            |
+| **Soil**                   | Compost systems, biochar production          | Soil testing, biomass return, vermicomposting          |
+| **Water**                  | Swale construction, greywater systems        | Rainwater harvesting, infiltration testing             |
+| **Air**                    | Reforestation, biochar application           | Tree planting, carbon sequestration monitoring        |
+| **Waste**                  | Circular design, upcycling workshops         | Composting, material recovery, zero-waste events       |
+| **Biodiversity**           | Native planting, habitat creation            | Species surveys, wildlife corridor maintenance        |
+| **Resources**              | Renewable energy, local sourcing             | Solar installation, local material procurement        |
+| **Community**              | Consent processes, knowledge sharing         | Governance participation, skill exchanges              |
 
 ## 🌀 REGENERATIVE ETHICS
 

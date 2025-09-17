@@ -1,48 +1,54 @@
 # 🏛️ Governance
 
-**Decision-Making** TDF operates through unique decision-making processes that balance power, participation, and purpose.
+**Community Decision-Making** TDF operates through a multi-layered governance system that balances community participation with ecological oversight.
 
-> *"Governance isn't a chore—it's where we shape our shared future."*
+> *"Good governance is the foundation of a thriving community."*
 
-## 🔄 Core Processes
+## 🏗️ Governance Structure
 
-The governance system at TDF combines several approaches:
+TDF's governance operates through three distinct layers:
 
-- **Do-ocracy** - Take action without permission when impact is reversible
-- **Consent-Based Decisions** - Proposals pass unless there are substantiated objections
-- **Token-Weighted Voting** - Governance weight based on tokens, presence, and contribution
-- **DAO Structure** - Decentralized Autonomous Organization of citizens and token holders
+### 1. OASA & Guardians
+**Ecological oversight and constitutional principles**
+- [OASA](oasa.md) - Ecological oversight body within the [OASA network](https://oasa.earth)
+- [Guardians](../02_roles-and-stakeholders/guardian.md) - Ecological veto power, appointed by OASA
+- Constitutional principles and core values aligned with [OASA constitution](https://oasa.earth)
+- Environmental protection standards and regenerative principles
 
-## 🏛️ DAO Structure
+### 2. DAO
+**Proposals, budgets, and elections**
+- [DAO](dao.md) - Digital governance collective of TDF token holders
+- Community proposals and voting
+- Budget allocation and financial decisions
+- Election of executive team (legally represented by a director)
 
-The DAO (Decentralized Autonomous Organization) is made up exclusively of:
-- **Citizens** - Full community members with governance rights and voting power
-- **Token Holders** - Individuals holding TDF tokens with voting power proportional to their holdings
+### 3. Team (Executive Team)
+**Day-to-day operational decisions**
+- [Team Members](../02_roles-and-stakeholders/team_member.md) - Operational leaders elected by DAO
+- Daily operations and guest management
+- Resource allocation within approved budgets
+- Implementation of DAO decisions
 
-### Stakeholders (Non-Voting)
-These groups participate as stakeholders but are not voting members of the DAO:
-- **Team Members** - Operational leaders hired by the executive director
-- **Sweat Earners** - Contributors who have earned $Sweat through major projects
-- **Lenders** - Financial supporters providing capital
+## 🔗 Legal Framework
 
-## 🧙‍♂️ Governance Rights
+- [Enseada Sonhadora LDA](enseada_sonhadora_lda.md) - Legal entity for land ownership
+- Property rights and legal compliance
+- Contract management and asset protection
 
-| Right                 | Description                             | Requirements                    |
-| --------------------- | --------------------------------------- | ------------------------------- |
-| **Proposal Creation** | Create new projects and initiatives     | Citizen status                  |
-| **Voting Power**      | Influence collective decisions          | Hold governance tokens          |
-| **Delegation**        | Transfer voting power to trusted members | Any token holder                |
-| **Team Election**     | Join the coordinating council           | Community nomination + election |
+## 📋 Decision-Making Process
 
-## 🛡️ Protected Decisions
+- [Decision Process](decision_process.md) - How decisions are made
+- [Voting Weight](../05_token-economy/voting_weight.md) - Voting system details
+- Proposal creation and community feedback
+- Implementation and monitoring
 
-Some decisions are protected by special rules:
+## 🎯 Key Principles
 
-- **Principles** - Can only be changed through OASA General Meeting
-- **Land Decisions** - Protected by legal guardians and stewards
-- **Core Values** - Cannot be overridden by any governance process
-
-For the complete decision-making process, see [Decision Process](decision_process.md).
+- **Transparency** - All decisions are publicly recorded
+- **Participation** - Community members have meaningful input
+- **Ecological Protection** - Land health is always prioritized
+- **Accountability** - Clear responsibility for outcomes
+- **Adaptability** - Systems evolve with community needs
 
 ---
 
