@@ -6,7 +6,14 @@
 
 ## Role Description
 
-Visitors are individuals who stay at TDF for periods of 1 month or longer (except volunteers/events). They represent the first level of engagement with the community and have the opportunity to experience daily life, participate in activities, and learn about the community's systems and values.
+Visitors are individuals who stay at TDF for a minimum of 1 month (except volunteer/event/friend bookings). They represent the first level of engagement with the community and have the opportunity to experience daily life, participate in activities, and learn about the community's systems and values.
+
+## Open-Day Programme
+
+TDF offers monthly open-day tours and lunch for short visits:
+- **Monthly Tours** - Guided exploration of the community and land
+- **Community Lunch** - Shared meal and conversation with community members
+- **Information Sessions** - Learn about TDF's mission and participation opportunities
 
 ## Responsibilities
 
@@ -15,9 +22,15 @@ As a Visitor, you are expected to:
 - **Respect Community Guidelines** - Follow the established norms and practices
 - **Participate in Orientation** - Learn about basic systems and safety protocols
 - **Engage in Community Life** - Join meals and community gatherings
-- **Contribute 4h/week** - Provide meaningful contribution to community projects
+- **Contribute 4 hours/week** - Provide meaningful contribution to community projects
 - **Join Cooking Shifts** - If in food program, participate in meal preparation
 - **Provide Feedback** - Share your observations and experiences
+
+## Contributions & Fees
+
+**Weekly Contribution**: 4 hours of meaningful work per week
+**Cooking Shifts**: Required if participating in the food program
+**Fee Structure**: Daily rate covers accommodation and utilities; separate fee for food program participation
 
 ## Opportunities
 
@@ -40,11 +53,12 @@ To become a Visitor:
 
 ## Friends Booking System
 
-Anyone with an active booking may invite a guest for a short stay. The inviter is responsible for:
-- **Onboarding** - Introducing the guest to community norms
+Anyone with an active booking may invite a guest for a short stay. **A host must onboard any friend booking** and is responsible for:
+- **Onboarding** - Introducing the guest to community norms and safety protocols
 - **Bed Preparation** - Ensuring accommodation is ready
 - **Meals** - Providing or arranging meals
 - **Transport** - Handling transportation needs
+- **Community Integration** - Ensuring the guest understands and follows community guidelines
 
 ## Food Program
 

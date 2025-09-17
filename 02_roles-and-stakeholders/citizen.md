@@ -69,157 +69,45 @@ To qualify for Citizenship, participants must demonstrate:
 4. **Decision** - Consensus-based approval by Citizens
 5. **Onboarding** - If approved, complete final integration steps
 
-## 🎖️ Citizen Privileges and Benefits
+## 🎖️ Citizen Perks
 
 Upon becoming a Citizen, you gain:
 
-### Governance Powers
-
-As a Citizen, you gain significant influence over the community:
-
+### Governance Rights
 - **Voting Rights** - Direct say in all DAO decisions
 - **Proposal Creation** - Ability to initiate new governance projects
 - **Citizen-Only Programs** - Access to exclusive community programs
+
+### Stay Benefits
 - **Instant Booking** - Immediate access to accommodation booking
-- **Advanced Booking** - Ability to book 1 year in advance
+- **Year-Ahead Booking** - Ability to book 1 year in advance
 - **Extended Stays** - Up to 180 days maximum stay
-- **Stay Credits** - Earn stay credits through volunteering
+- **Stay Credits ("Carrots")** - One-time credits that can be gifted or used to extend stays
+
+### Community Access
 - **Proof-of-Presence Weighting** - Enhanced voting weight for physical presence
-
-### Community Integration
-
-Citizens become core members of the living community:
-
 - **Telegram Group** - Access to citizen-only communication channels
-- **NFT Proof of Citizenship** - Digital credential of membership
+- **NFT Proof** - Digital credential of membership
 - **Member Page Listing** - Public recognition of citizenship status
-- **Deep Relationships** - Sustained connections with other members
-- **Knowledge Access** - Deeper understanding of systems and processes
-- **Identity Recognition** - Acknowledged role in the community story
-- **Legacy Creation** - Opportunity to leave lasting impact
 
 ## ⚔️ Citizen Responsibilities
 
 With privileges come responsibilities:
 
-### Core Responsibilities
-
-As a Citizen, you are entrusted with these essential duties:
-
-#### Active Governance
-- **Regular Voting** - Participate in DAO decisions
-- **Proposal Review** - Provide thoughtful feedback on proposals
-- **Active Participation** - Vote in at least 70% of proposals annually
-
-#### Community Contribution
-- **4h/week Contribution** - When on site, contribute at least 4 hours weekly
-- **Knowledge Sharing** - Teaching and mentoring other members
-- **Culture Cultivation** - Upholding and evolving community values
-- **Conflict Transformation** - Helping resolve tensions constructively
-
-#### Financial Commitment
+### Core Requirements
 - **Token Holding** - Maintain minimum 30 $TDF tokens
-- **Resource Stewardship** - Responsible use of community assets
-- **Economic Participation** - Support the regenerative economy
-- **Transparent Accounting** - Clear tracking of resource use
-
-#### Land Stewardship
-- **Ecological Care** - Active participation in regenerative land practices
-- **Infrastructure Maintenance** - Help maintain physical systems
-- **Monitoring Support** - Assist with ecological impact tracking
-- **Regenerative Design** - Contribute to land planning and development
-
-### Activity Requirements
-
-To maintain active Citizenship status:
-
 - **Governance Participation** - Vote in at least 70% of proposals annually
+- **4h/week Contribution** - When on site, contribute at least 4 hours weekly
 - **Physical Presence** - Minimum 14 days on-site per year
-- **Token Maintenance** - Hold minimum 30 $TDF tokens
 - **Communication** - Respond to official communications within 7 days
 
-### Accountability System
+## 🔄 Citizenship Maintenance
 
-Citizens hold each other accountable through:
-
-- **Peer Feedback** - Regular constructive feedback
-- **Transparency Dashboards** - Public tracking of participation
-- **Annual Review** - Reflection on contribution and engagement
-- **Conflict Resolution** - Clear process for addressing concerns
-- **Citizenship Renewal** - Periodic reaffirmation of commitment
-
-### Citizenship Maintenance
-
-To remain in good standing:
-
-1. **Meet Activity Requirements** - Fulfill minimum participation thresholds
-2. **Uphold Values** - Demonstrate alignment with community principles
-3. **Address Concerns** - Respond constructively to feedback
-4. **Renew Commitment** - Participate in annual renewal ritual
-5. **Evolve Practices** - Adapt to changing community needs
-
-## 🔄 Citizenship Lifecycle
-
-Citizenship is not permanent—it requires ongoing engagement:
-
-### Departure Paths
-
-There are several ways a Citizen's journey may evolve:
-
-#### Voluntary Transition
-- **Life Changes** - Personal circumstances require moving on
-- **New Adventures** - Pursuing different projects or locations
-- **Role Evolution** - Shifting to supporter or ally status
-- **Temporary Pause** - Taking a sabbatical with intent to return
-
-#### Inactive Status
-- **Reduced Engagement** - Unable to meet minimum participation requirements
-- **Extended Absence** - Long period without physical presence
-- **Communication Lapse** - Failure to respond to community communications
-- **Token Reduction** - Falling below minimum $TDF holding requirement
-
-#### Community-Initiated
-- **Values Misalignment** - Persistent actions contrary to community principles
-- **Unresolved Conflicts** - Inability to transform tensions constructively
-- **Trust Breakdown** - Loss of community confidence
-- **Harmful Behavior** - Actions that damage community or land
-
-### Outboarding Process
-
-#### For Voluntary Transitions
-1. **Notification** - Inform the community of intention to transition
-2. **Handover Planning** - Identify responsibilities needing transfer
-3. **Knowledge Documentation** - Record critical information and insights
-4. **Relationship Closure** - Address any unresolved tensions
-5. **Celebration Ritual** - Honor the Citizen's contributions and journey
-
-#### For Inactive Transitions
-1. **Status Notification** - Formal notice of inactive status
-2. **Grace Period** - 30-day window to address participation issues
-3. **Status Change** - Shift to Volunteer, Resident, Steward, or Visitor status if unresolved
-4. **Path to Return** - Clear criteria for regaining Citizenship if desired
-5. **Resource Reallocation** - Reassignment of responsibilities
-
-#### For Community-Initiated Transitions
-1. **Concern Documentation** - Clear articulation of issues
-2. **Dialogue Process** - Structured conversation to address concerns
-3. **Improvement Plan** - Opportunity to realign with community expectations
-4. **Decision Point** - Community determination on continued Citizenship
-5. **Transition Support** - Respectful process regardless of outcome
-
-### Rights & Responsibilities During Transition
-
-#### During Transition
-- **Voting Rights** - Maintained until transition complete
-- **Resource Access** - Gradually transferred according to timeline
-- **Communication Access** - Phased reduction of access to internal channels
-- **Financial Obligations** - Clear resolution of any outstanding matters
-
-#### Post-Citizenship Status
-- **Alumni Network** - Option to join former Citizens network
-- **Visitor Privileges** - Continued ability to visit as a guest
-- **Knowledge Contribution** - Opportunities to share expertise
-- **Relationship Maintenance** - Ongoing connection at appropriate level
+To remain in good standing, Citizens must:
+- **Meet Activity Requirements** - Fulfill minimum participation thresholds
+- **Uphold Values** - Demonstrate alignment with community principles
+- **Address Concerns** - Respond constructively to feedback
+- **Renew Commitment** - Participate in annual renewal ritual
 
 ---
 

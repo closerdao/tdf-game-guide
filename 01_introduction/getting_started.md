@@ -25,13 +25,25 @@
 2. **Contribution Time** - Work on projects that match your skills
 3. **Learning Opportunities** - Develop new abilities and knowledge
 4. **Community Connection** - Share meals and experiences
-5. **Community Gatherings** - Join regular community rituals
+5. **Weekly Community Gatherings** - Join regular community rituals
 
-### Community Rituals
+### Weekly Community Gatherings
 - **Sharing Circle** (Tuesdays) - Deep sharing and community connection
 - **Sauna** (Sundays) - Relaxation and community bonding
 - **Appreciation Circle / Happy Hour** (Fridays) - Celebrating community members
 - **All-hands Work Session** (Wednesdays) - Collaborative community projects
+
+## 🎯 Orientation Process
+
+**Mandatory Orientation** is required for all new visitors and is essential for understanding community protocols, safety procedures, and participation expectations. The orientation process includes:
+
+- **Community Tour** - Explore the physical space and facilities
+- **Safety Briefing** - Learn about weather adaptation and emergency procedures
+- **Protocol Introduction** - Understand community agreements and participation requirements
+- **Contribution Matching** - Identify ways to contribute based on your skills and interests
+- **Integration Support** - Connect with community members and ongoing support
+
+[Learn more about community living →](../06_community-living/README.md)
 
 ### Participation Pathways
 1. **Visitor → Volunteer/Resident/Steward → Citizen** - Progression of involvement
@@ -48,6 +60,17 @@ We invite you to explore 4 areas of growth and contribution:
 - **Community Impact** - Contributing to collective flourishing
 - **Ecological Regeneration** - Helping restore natural systems
 - **Cultural Creation** - Co-creating meaningful experiences and practices
+
+## 🌦️ Weather Adaptation
+
+TDF operates in the Alentejo region of Portugal, where weather conditions can be extreme and variable. All community members must be prepared for:
+
+- **Hot, Dry Summers** - Temperatures exceeding 40°C, requiring hydration, sun protection, and heat management
+- **Heavy Rainfall** - Occasional flooding and water management challenges
+- **Strong Winds** - Dust storms and wind protection needs
+- **Seasonal Variations** - Water availability and agricultural cycles that affect daily life
+
+**Safety Protocols**: Weather adaptation strategies and emergency procedures are covered during orientation and must be followed by all community members.
 
 ## 🌿 Common Challenges
 

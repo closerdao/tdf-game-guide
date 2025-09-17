@@ -1,37 +1,35 @@
-# 📖 USING THIS GUIDE
+# 📖 Using This Guide
 
-**WELCOME!** This document provides tips on navigating the TDF Community Guide.
+**Welcome!** This document explains how to navigate the TDF Community Guide effectively.
 
 > *"The map is not the territory, but a good map makes all the difference."*
 
-## 📚 ENGAGEMENT LEVELS
+## 🚀 How to Use This Guide
 
-This guide can be read at multiple levels of engagement:
+**Start with the introductory pages** to understand TDF's mission and basic concepts, then dive deeper into specific topic files that interest you. Follow governance procedures for proposing changes to the guide.
 
-| ENGAGEMENT LEVEL | APPROACH | BEST FOR |
-|---------------|----------|----------|
+## 📚 Reading Approaches
+
+| APPROACH | DESCRIPTION | BEST FOR |
+|----------|-------------|----------|
 | **Overview** | Browse section intros and headings | Getting a quick understanding |
 | **Core Concepts** | Read README files in each section | Understanding fundamental principles |
 | **Comprehensive** | Read every file in sequence | Learning all community systems |
 | **Specific Topics** | Use search to find specific topics | Answering particular questions |
 
-## 🧩 DOCUMENT STRUCTURE
+## 🧩 Document Structure
 
-Each section of the guide follows a consistent pattern:
+Each section follows a consistent pattern:
 
 1. **README.md** - Section introduction and core concepts
 2. **Topic Files** - Detailed explanations of specific systems
 3. **Cross-References** - Links to related topics in other sections
 
-## 🔄 LIVING DOCUMENT
+## 🔄 Living Document
 
-This guide evolves through:
+This guide evolves through community feedback, governance decisions, and system updates as we learn and grow together.
 
-- **Community Feedback** - Suggestions from members
-- **Governance Decisions** - Formal changes approved by Citizens
-- **System Updates** - New processes and frameworks as they emerge
-
-## 📋 READING STRATEGIES
+## 📋 Reading Strategies
 
 **For New Visitors:**
 1. Start with the main [README.md](../README.md)
@@ -40,7 +38,7 @@ This guide evolves through:
 4. Browse other sections as needed
 
 **For Prospective Citizens:**
-1. Study the [Citizenship](../04_citizenship/README.md) section
+1. Study the [Citizenship](../02_roles-and-stakeholders/citizen.md) section
 2. Dive deep into [Governance](../03_governance/README.md)
 3. Understand the [Token System](../05_token-economy/README.md)
 

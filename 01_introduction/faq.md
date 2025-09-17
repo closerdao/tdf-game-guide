@@ -6,17 +6,17 @@
 
 ## 🌱 Community Basics
 
-### What is Traditional Dream Factory?
+### What is TDF?
 A regenerative community and living laboratory in Abela, Portugal where people collaborate to create a thriving ecosystem for humans and nature.
 
 ### Is this structured like a game?
 Kind of. While we previously used some game-like language, our focus is on creating real-world regenerative systems. The community operates with transparent structures that anyone can understand and participate in.
 
 ### Do I need special skills to participate?
-No special skills required to start! You'll learn as you participate. Bring curiosity, openness, and willingness to contribute.
+No special skills required! You'll learn as you participate. Bring curiosity, openness, and willingness to contribute.
 
 ### How long can I be involved?
-The TDF community is ongoing. People can engage for days, weeks, or years depending on their level of interest and commitment. Staying requires "playing the game" - active participation in community life.
+Stays can be days, weeks, or years depending on your alignment with the community. Participation flexibility requires "playing the game" - active engagement in community life and following community protocols.
 
 ## 🔄 Participation
 
@@ -56,16 +56,19 @@ Options range from camping to shared rooms to private cabins *(coming soon)*, de
 
 ### What should I bring?
 **Detailed Packing List:**
-- Practical clothing for outdoor work and variable weather
-- Personal items and toiletries
-- Work gloves and sturdy shoes
-- Headlamp or flashlight
-- Water bottle
-- Personal medications
-- An open mind and collaborative spirit
+- **Clothing**: Lightweight, breathable clothes for hot weather; warm layers for cool evenings; rain gear; work clothes that can get dirty
+- **Footwear**: Sturdy closed-toe shoes for work; sandals for hot weather; waterproof boots if visiting during rainy season
+- **Personal Items**: Toiletries, personal medications, sunscreen, hat, sunglasses
+- **Work Equipment**: Work gloves, headlamp or flashlight, water bottle, small backpack
+- **Optional**: Camera, journal, musical instruments, books, personal projects
+- **Essentials**: An open mind, collaborative spirit, and willingness to learn
 
 ### How do I get there?
-From Lisbon, take a train to Grândola or Ermidas-Sado, or a bus to Santiago do Cacém. Pickups can be arranged from these stations.
+**Travel Instructions:**
+- **From Lisbon**: Take a train to Grândola or Ermidas-Sado, or a bus to Santiago do Cacém
+- **Pickup Service**: Community members can arrange pickups from these stations (advance notice required)
+- **Driving**: GPS coordinates will be provided upon booking confirmation
+- **International**: Fly to Lisbon Airport, then follow above ground transport options
 
 ## 🌱 Regenerative Aspects
 

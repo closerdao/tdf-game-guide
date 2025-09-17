@@ -14,9 +14,16 @@
 
 These tokens work together in our community:
 
-- **Governance Weight** = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5)
+- **Governance Weight** = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5) + (Proof of Implementation × 1)
 - **Stay Rights** = 1 $TDF = 1 night per year at utility cost
 - **Contribution Tracking** = Work → $Sweat + $TDF
+
+## 🥕 Carrots (Stay Credits)
+
+Citizens can earn stay credits called "carrots" through volunteering:
+- **One-time Credits** - Can be gifted or used to extend stays
+- **Non-renewable** - Carrots don't renew annually
+- **Volunteering Reward** - Earned through community service
 
 ## 🔗 Token Details
 
