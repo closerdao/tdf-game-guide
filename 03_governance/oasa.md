@@ -1,4 +1,4 @@
-# 🌱 OASA (Organization for the Advancement of Sustainable Agriculture)
+# 🌱 OASA
 
 **Ecological Oversight** OASA is our ecological oversight body that ensures all community activities align with regenerative principles and environmental protection.
 

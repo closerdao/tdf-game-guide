@@ -20,11 +20,11 @@ TDF's governance operates through three distinct layers:
 - [DAO](dao.md) - Digital governance collective of TDF token holders
 - Community proposals and voting
 - Budget allocation and financial decisions
-- Election of executive director
+- Election of executive team (legally represented by a director)
 
-### 3. Team (Executive Director)
+### 3. Team (Executive Team)
 **Day-to-day operational decisions**
-- [Team Members](../02_roles-and-stakeholders/team_member.md) - Operational leaders
+- [Team Members](../02_roles-and-stakeholders/team_member.md) - Operational leaders elected by DAO
 - Daily operations and guest management
 - Resource allocation within approved budgets
 - Implementation of DAO decisions

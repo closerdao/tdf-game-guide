@@ -1,6 +1,6 @@
 # 🏡 Community Living
 
-**OASA-Aligned Daily Life** Community living at TDF is about the everyday practices that create connection and regeneration according to [OASA regenerative principles](https://oasa.earth).
+**Daily Life** Community living at TDF is about the everyday practices that create connection and regeneration.
 
 > *"The real magic happens in the small moments of connection and care, within the bounds of ecological integrity."*
 

@@ -10,7 +10,7 @@ The community is influenced by various stakeholders, each with their own interes
 
 ### External Stakeholders
 - **DAO (Decentralized Autonomous Organization)** - Digital governance collective that enables community members to propose, vote on, and implement decisions collectively
-- **OASA (Organization for the Advancement of Sustainable Agriculture)** - Ecological oversight body that ensures all community activities align with regenerative principles and environmental protection
+- **OASA** - Ecological oversight body that ensures all community activities align with regenerative principles and environmental protection
 - **Enseada Sonhadora LDA** - The legal entity that holds the land and manages property rights
 - **Investors/Lenders** - Financial supporters who provide capital for community development
 

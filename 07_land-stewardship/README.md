@@ -1,6 +1,6 @@
 # 🌳 Land Stewardship
 
-**OASA-Aligned Ecological Care** TDF is a human habitat that shares and interacts with surrounding ecosystems according to [OASA regenerative principles](https://oasa.earth). At least 50% of land is reserved for rewilding, with safety and comfort for people as design goals.
+**Ecological Care** TDF is a human habitat that shares and interacts with surrounding ecosystems. At least 50% of land is reserved for rewilding, with safety and comfort for people as design goals.
 
 > *"We work with the land as our most important ally, within the bounds of ecological integrity."*
 
