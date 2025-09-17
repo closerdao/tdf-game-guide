@@ -1,4 +1,4 @@
-# 🪙 $TDF TOKEN BASICS
+# 🪙 $TDF Token Basics
 
 **CORE RESOURCE** The $TDF token is the primary currency in the TDF community—a versatile resource that supports participation.
 

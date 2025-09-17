@@ -1,8 +1,10 @@
 # 🏡 Community Living
 
-**Daily Life** Community living at TDF is about the everyday practices that create connection and regeneration.
+**OASA-Aligned Daily Life** Community living at TDF is about the everyday practices that create connection and regeneration according to [OASA regenerative principles](https://oasa.earth).
 
-> *"The real magic happens in the small moments of connection and care."*
+> *"The real magic happens in the small moments of connection and care, within the bounds of ecological integrity."*
+
+**Constitutional Framework**: All community activities must comply with the [OASA constitution](https://oasa.earth) and may require approval by OASA's General Meeting for major changes.
 
 ## 🌞 Daily Schedule
 
@@ -56,11 +58,23 @@ TDF operates in the Alentejo region of Portugal, where weather conditions can be
 
 The community comes together through regular special events:
 
-- **Monthly Open-Day Programme** - Tours and lunch for short visits
 - **Seasonal Festivals** - Marking the turning of the year
 - **Work Parties** - Collaborative building and land regeneration
 - **Knowledge Exchanges** - Workshops and skill-sharing
 - **Integration Gatherings** - Welcoming new Citizens
+
+## 🌅 Open-Day Programme
+
+**Making TDF Accessible to Casual Visitors**
+
+For those who want to experience TDF without committing to the minimum 1-month stay:
+
+- **Monthly Tours** - Guided exploration of the community and land
+- **Community Lunch** - Shared meal and conversation with community members
+- **Information Sessions** - Learn about TDF's mission and participation opportunities
+- **No Commitment Required** - Perfect for those curious about regenerative living
+
+**Booking:** Open days are available monthly and can be booked through our visitor system. [Learn more about visiting →](../02_roles-and-stakeholders/visitor.md)
 
 ## 🎯 Orientation Process
 

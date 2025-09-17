@@ -1,4 +1,4 @@
-# 💪 $SWEAT TOKEN
+# 💪 $Sweat Token
 
 **CONTRIBUTION TRACKER** The $Sweat token transforms your work into lasting impact—a record of your contributions to the TDF community.
 
@@ -23,9 +23,9 @@ $Sweat is issued only for defined large projects. Volunteers do not earn $Sweat 
 - **Bounties** - Specific tasks with clear deliverables and compensation
 
 ### Using $Sweat
-- **Governance Weight** - Amplifies your voting power (5× multiplier)
+- **Governance Weight Amplification** - $Sweat is a supplementary metric that amplifies a token holder's governance weight but is not a separate membership class
+- **Voting Power Enhancement** - Sweat tokens increase a token holder's influence in decision-making but do not grant voting rights on their own
 - **Skill Recognition** - Visible indicator of your contribution areas
-- **Participation Requirements** - Some activities require minimum $Sweat
 - **Community Recognition** - Acknowledgment of your ongoing commitment
 
 ## 🧮 DECAY FORMULA

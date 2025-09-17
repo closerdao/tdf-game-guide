@@ -1,4 +1,4 @@
-# 🕒 $PRESENCE TOKEN
+# 🕒 $Presence Token
 
 **ATTENDANCE RECORD** The $Presence token is your digital record in the TDF community—tracking your physical time spent on the land.
 

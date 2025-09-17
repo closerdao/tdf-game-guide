@@ -1,4 +1,4 @@
-# 🔄 TOKEN RENEWAL
+# 🔄 Token Renewal
 
 **ANNUAL CYCLES** In the TDF community, $TDF tokens follow a unique annual cycle that keeps the economy dynamic and sustainable.
 

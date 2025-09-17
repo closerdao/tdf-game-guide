@@ -10,7 +10,7 @@ Volunteers are individuals who commit to a defined period of engagement with TDF
 
 ## Volunteering Options
 
-Volunteers can choose between two commitment levels:
+Volunteers can choose between two commitment levels, both requiring a minimum 2-week commitment:
 
 **Option 1: 4 hours/day + pay for food**
 - 4 hours of daily contribution
@@ -21,6 +21,8 @@ Volunteers can choose between two commitment levels:
 - 6 hours of daily contribution
 - Free access to community meals
 - Higher commitment level
+
+**Important:** Volunteers no longer earn $Sweat tokens through routine work. [Learn more about token earning →](../05_token-economy/$sweat.md)
 
 ## Responsibilities
 

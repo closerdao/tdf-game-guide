@@ -6,16 +6,20 @@
 
 ## 🧙‍♂️ MONITORING ACTIVITIES
 
-Our ecological monitoring system tracks key indicators of ecosystem health:
+Our ecological monitoring system tracks key indicators aligned with [OASA regenerative principles](https://oasa.earth):
 
 | INDICATOR                | WHAT WE MEASURE                       | HOW WE MEASURE                       | FREQUENCY |
 | ------------------------ | ------------------------------------- | ------------------------------------ | --------- |
-| **Biodiversity**         | Species presence and abundance        | Surveys, camera traps, iNaturalist   | Seasonal  |
-| **Soil Health**          | Organic matter, nutrients, biology, water content, pH | Lab tests, sensors, in-field observations | Bi-annual |
-| **Water Systems**        | Quality, quantity, infiltration       | Water tests, flow sensors, telemetry | Monthly   |
-| **Carbon Sequestration** | Biomass, soil carbon, biochar, woodchip additions | Open Forest Protocol, soil tests, measurement | Annual    |
-| **Ecosystem Function**   | Pollination, predation, decomposition | Observation plots, indicator species | Seasonal  |
-| **Acoustic Monitoring**  | Birds, insects, ecosystem sounds      | Sound recording devices, analysis    | Continuous |
+| **Soil Health**          | Organic matter, microbiology, pH, water content | Lab tests, sensors, in-field observations | Bi-annual |
+| **Soil Building**        | Chop-and-drop activities, compost application, biochar volumes | Measurement, tracking, biomass calculations | Monthly   |
+| **Water Systems**        | Rainfall capture, greywater treatment, infiltration rates | Water tests, flow sensors, telemetry | Monthly   |
+| **Water Self-Sufficiency** | Aquifer use, rainwater harvesting capacity | Usage tracking, storage monitoring | Monthly   |
+| **Air Quality**          | Carbon sequestration rates, no-burn compliance | Tree growth measurement, biochar tracking | Annual    |
+| **Waste Management**     | Waste generation, recycling rates, compost output | Waste audits, tracking systems | Monthly   |
+| **Biodiversity**         | Species presence, 50% wild land maintenance | Surveys, camera traps, iNaturalist | Seasonal  |
+| **Wildlife Corridors**   | Habitat connectivity, agricultural protection | Mapping, monitoring, fence maintenance | Seasonal  |
+| **Resources**            | Renewable energy production, building footprint, local sourcing | Energy monitoring, material tracking | Monthly   |
+| **Community**            | Governance participation, equity perception | Surveys, participation tracking | Quarterly |
 
 ## 🔄 COMMUNITY PARTICIPATION
 
@@ -41,13 +45,49 @@ We transform monitoring data into accessible insights:
 
 ## 🎯 REGENERATIVE TARGETS
 
-Our monitoring helps track progress toward specific goals:
+Our monitoring helps track progress toward [OASA-aligned goals](https://oasa.earth):
 
-- **Increase biodiversity** by 30% within 5 years
+### Soil Targets
 - **Build soil organic matter** to 5%+ in agricultural areas
-- **Achieve water self-sufficiency** through rainwater harvesting
+- **Return 30% of pruned biomass** to soil annually
+- **Increase biochar application** to 2 tons per hectare annually
+- **Maintain living plant cover** on 90%+ of land year-round
+
+### Water Targets
+- **Achieve water self-sufficiency** through rainwater harvesting (prioritize over aquifer use)
+- **Treat 100% of greywater** through biological systems
+- **Capture 80% of rainfall** in landscape features
+- **Minimize aquifer extraction** to <10% of total water use
+
+### Air Targets
 - **Sequester 10+ tons of carbon** per hectare annually
-- **Create habitat corridors** connecting all parts of the land while fencing or protecting agricultural areas to prevent pest/wildlife incursions
+- **Maintain zero toxic burning** policy compliance
+- **Increase forest cover** by 20% within 5 years
+- **Track biochar carbon storage** annually
+
+### Waste Targets
+- **Achieve 90% waste diversion** from landfill
+- **Eliminate single-use plastics** from community operations
+- **Compost 100% of organic waste** generated on-site
+- **Maintain zero hazardous materials** on land
+
+### Biodiversity Targets
+- **Maintain 50% wild/rewilded land** minimum
+- **Increase native species** by 30% within 5 years
+- **Create wildlife corridors** connecting all land areas
+- **Remove invasive species** from 90% of affected areas
+
+### Resource Targets
+- **Generate 100% renewable energy** for community needs
+- **Limit building footprint** to 5% of total land area
+- **Source 80% of materials** locally or sustainably
+- **Increase plant-based meals** to 70% of community food
+
+### Community Targets
+- **Achieve 80% governance participation** among eligible members
+- **Maintain 90%+ satisfaction** with equity and inclusion
+- **Complete 100% of training** requirements for new members
+- **Conduct quarterly outreach** to local communities
 
 ## 🔮 ADAPTIVE MANAGEMENT
 

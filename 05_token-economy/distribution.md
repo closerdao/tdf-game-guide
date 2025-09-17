@@ -1,4 +1,4 @@
-# 🏆 TOKEN DISTRIBUTION
+# 🏆 Token Distribution
 
 **SUPPLY MECHANICS** The $TDF token supply is carefully balanced to support the TDF community's regenerative economy and physical capacity.
 

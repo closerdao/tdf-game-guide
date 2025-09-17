@@ -37,13 +37,13 @@
 - Project approvals and resource allocation
 - Governance process improvements
 
-### Participants
-- **Citizens** - Full community members with voting rights
-- **Token Holders** - Individuals holding $TDF tokens
+### DAO Members (Voting Rights)
+- **TDF Token Holders** - Individuals holding $TDF tokens with voting power
+- **Citizens** - Subset of token holders with deeper responsibilities
 
-### Stakeholders (Non-Voting)
-- **Team Members** - Operational leaders
-- **Sweat Earners** - Contributors who have earned $Sweat
+### External Stakeholders (Non-Voting)
+- **Team Members** - Operational leaders hired by executive director
+- **Sweat Earners** - Contributors who have earned $Sweat (but do not hold voting tokens)
 - **Lenders** - Financial supporters providing capital
 
 ## ⚙️ Layer 3: Team (Executive Director)

@@ -34,8 +34,9 @@ In the Team Member role, you can:
 To become a Team Member:
 
 - **Skill Mastery** - Demonstrate expertise in the relevant area
-- **Hiring Process** - Executive director (elected by DAO) hires and manages team members
-- **Commitment** - 6-12 month term with clear selection criteria
+- **Hiring Process** - Only the executive director is elected by the DAO; all other team members are hired by the director based on expertise
+- **Open Calls** - Team roles can be advertised via open calls with clear selection criteria
+- **Commitment** - 6-12 month term with regular evaluation
 - **Seasonal Presence** - Team present for full seasons (Aug–Dec, Jan–Jun; subject to change)
 - **Setup/Breakdown Support** - Some must support setup and breakdown
 - **Accountability** - Accept responsibility for outcomes in your area

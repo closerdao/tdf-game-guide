@@ -1,6 +1,8 @@
 # 💰 Community Token System
 
-**Overview** The TDF community uses three token types to track participation, enable governance, and manage resources.
+**OASA-Aligned Overview** The TDF community uses three token types to track participation, enable governance, and manage resources within the [OASA constitutional framework](https://oasa.earth).
+
+**Constitutional Compliance**: All token issuance and economic decisions must comply with the [OASA constitution](https://oasa.earth) and may require approval by OASA's General Meeting for major changes.
 
 ## 🪙 Token Types
 
@@ -22,8 +24,15 @@ These tokens work together in our community:
 
 Citizens can earn stay credits called "carrots" through volunteering:
 - **One-time Credits** - Can be gifted or used to extend stays
-- **Non-renewable** - Carrots don't renew annually
+- **Non-renewable** - Carrots don't renew annually and do not accumulate
 - **Volunteering Reward** - Earned through community service
+- **Giftable** - Can be transferred to other community members
+- **Usage** - Can be used to extend stays beyond normal limits
+
+**Examples of carrot usage:**
+- Extending a stay by a few days
+- Gifting a stay credit to a friend
+- Using credits for special events or workshops
 
 ## 🔗 Token Details
 
