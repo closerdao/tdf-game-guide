@@ -69,24 +69,20 @@ The main governance process follows these steps:
 The DAO manages community finances through:
 
 1. **Annual Budget Planning**
-   - Executive director proposes annual budget
-   - Community reviews and provides feedback
-   - DAO votes on budget allocation
+   - DAO votes on executive mandate
+   - Executive team generates annual report summarizing financial, social, ecological outcomes
+   - Community reviews and provides feedback on outcomes
 
-2. **Quarterly Reviews**
-   - Financial performance assessment
+2. **Quarterly Reviews** (Optional)
+   - Team provides transparency on financial situation
    - Budget adjustments as needed
-   - Transparency reports to community
+   - Community can request financial updates
 
 3. **Project Funding**
    - Individual project proposals with budget requests
    - Community evaluation of project value
    - DAO approval for project funding
 
-4. **Emergency Funds**
-   - Reserved for unexpected needs
-   - Requires DAO approval for use
-   - Transparent reporting on emergency expenditures
 
 ## ⏰ Director Term Limits
 

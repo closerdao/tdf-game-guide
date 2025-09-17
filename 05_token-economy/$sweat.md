@@ -4,6 +4,10 @@
 
 > *"Every contribution you make to the land becomes recognized in our system."*
 
+## ⚠️ Implementation Status
+
+**The $Sweat token is not yet being distributed and isn't fully implemented yet.** This page describes the planned functionality and design principles for when the system goes live.
+
 ## 🧪 TOKEN PROPERTIES
 
 $Sweat is a special token with unique characteristics:
@@ -16,7 +20,7 @@ $Sweat is a special token with unique characteristics:
 ## 🔄 HOW IT WORKS
 
 ### Earning $Sweat
-$Sweat is issued only for defined large projects. Volunteers do not earn $Sweat through regular participation.
+$Sweat is earned by Team Members & Residents, although the team can choose to distribute to contractors (external team) and to anyone contributing work to the project, at the discretion of the team within reasonable limits. Note that 20% of the tokens are earmarked for sweat reserve.
 
 - **Defined Major Projects** - Large-scale infrastructure, building, land restoration
 - **Special Initiatives** - Community-wide projects with significant impact
@@ -46,12 +50,6 @@ Decay Rate: 10% annually (approximately 0.03%/day)
 | **Special Initiatives** | Community-wide projects, system development | Team Member verification |
 | **Bounties** | Specific tasks with clear deliverables | Bounty completion verification |
 
-## 🛡️ ACCESS CONTROL
-
-Only specific roles can create $Sweat tokens:
-- **Team Members** - For verified major project contributions
-- **DAO Treasury** - For special allocations and bounties
-- **Project Managers** - For defined large project completion
 
 ## 🔮 FUTURE DEVELOPMENT
 

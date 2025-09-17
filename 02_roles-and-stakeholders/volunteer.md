@@ -6,7 +6,7 @@
 
 ## Role Description
 
-Volunteers are individuals who commit to a defined period of engagement with TDF, typically 2 weeks to 1 month (friends booking may be shorter), with regular daily contributions to community projects and operations. This role offers a way to get to know the community and see if you want to engage more deeply while supporting the community's needs.
+Volunteers are individuals who commit to a defined period of engagement with TDF, typically 2 weeks to 1 month, with regular daily contributions to community projects and operations. This role offers a way to get to know the community and see if you want to engage more deeply while supporting the community's needs.
 
 ## Volunteering Commitment
 
@@ -17,11 +17,13 @@ Volunteers commit to a minimum 2-week period with the following arrangement:
 - Pay for your own food costs
 - Flexible schedule within community needs
 
+*Note: Residents work 6 hours/day, volunteers work 4 hours/day.*
+
 ## Responsibilities
 
 As a Volunteer, you are expected to:
 
-- **Regular Contribution** - Provide 4-6 hours of work daily (depending on chosen option)
+- **Regular Contribution** - Provide 4 hours of work daily
 - **Project Participation** - Join ongoing community projects
 - **Skill Sharing** - Offer your existing skills to benefit the community
 - **Community Engagement** - Actively participate in community life and events
@@ -36,15 +38,13 @@ During your volunteer period, you can:
 - **Explore Community** - See if you want to engage more deeply
 - **Access Learning Resources** - Participate in workshops and training sessions
 
-**Note:** Volunteers do not earn $Sweat tokens (reserved for defined large projects only).
 
 ## Requirements
 
 To become a Volunteer:
 
 - **Application** - Submit a volunteer application describing your skills and interests
-- **Commitment Period** - 2 weeks to 1 month (friends booking may be shorter)
-- **Work Agreement** - Commit to 4-6 hours of contribution daily (depending on chosen option)
+- **Work Agreement** - Commit to 4 hours of contribution daily
 - **Orientation** - Complete the volunteer orientation process
 - **Community Agreement** - Align with community values and guidelines
 

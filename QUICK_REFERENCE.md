@@ -1,6 +1,6 @@
 # 🚀 Quick Reference Guide
 
-**TDF Community Guide - Key Information at a Glance**
+**TDF Game Guide - Key Information at a Glance**
 
 ## 🎯 Mission
 Traditional Dream Factory is a regenerative human habitat in Abela, Portugal, where people collaborate to create thriving ecosystems for humans and nature.
@@ -23,7 +23,7 @@ Traditional Dream Factory is a regenerative human habitat in Abela, Portugal, wh
 | Role | Duration | Requirements | Key Benefits |
 |------|----------|--------------|--------------|
 | **Visitor** | 1+ months | 4h/week contribution | Experience community life |
-| **Volunteer** | 2 weeks-1 month | 4-6h/day work | Learn regenerative practices |
+| **Volunteer** | 2 weeks-1 month | 4h/day work | Learn regenerative practices |
 | **Resident** | 1-3 months (short) / Multi-season (long) | Weekly check-ins | Apply specialized skills |
 | **Steward** | 1 season | Co-manage areas | Immersive learning experience |
 | **Citizen** | Ongoing | 30+ TDF tokens, 3 vouches | Governance rights, stay benefits |
@@ -39,7 +39,7 @@ Traditional Dream Factory is a regenerative human habitat in Abela, Portugal, wh
 
 ### Voting Weight
 ```
-Voting Power = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5) + (Proof of Implementation × 1)
+Voting Power = $TDF + $Presence + $Sweat
 ```
 
 ## 🌱 Regenerative Principles
@@ -58,11 +58,6 @@ Voting Power = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5) + (Proof of Implem
 - **Appreciation Circle** (Fridays) - Celebrating members
 - **All-hands Work** (Wednesdays) - Collaborative projects
 
-### Weather Adaptation
-- Hot, dry summers (40°C+)
-- Heavy rainfall and flooding
-- Strong winds and dust storms
-- Seasonal water variations
 
 ## 📋 Getting Started
 
@@ -81,7 +76,6 @@ Voting Power = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5) + (Proof of Implem
 - [Token Economy](05_token-economy/) - Token system details
 - [Community Living](06_community-living/) - Daily life at TDF
 - [Land Stewardship](07_land-stewardship/) - Ecological practices
-- [Diagrams](08_diagrams/) - Visual system representations
 
 ---
 

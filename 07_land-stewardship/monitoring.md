@@ -108,6 +108,7 @@ Our monitoring follows open science principles:
 - **Citizen Science** - Participation open to all community members
 - **Knowledge Sharing** - Regular workshops on findings
 - **Carbon Verification** - We track carbon sequestration through [Open Forest Protocol](https://atlas.openforestprotocol.org/1660749236393)
+- **Biodiversity Monitoring** - eDNA sequencing in partnership with SimplexDNA for comprehensive species detection
 - **University Partnerships** - We invite partnerships with universities and research institutes
 - **External Publishing** - We encourage publishing findings externally to contribute to scientific knowledge
 

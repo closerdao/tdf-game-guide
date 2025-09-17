@@ -45,7 +45,7 @@ These groups influence the project but do not participate in governance decision
 
 ### Voting Weight Formula
 ```
-Voting Power = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5) + (Proof of Implementation × 1)
+Voting Power = $TDF + $Presence + $Sweat
 ```
 
 ### Voting Requirements

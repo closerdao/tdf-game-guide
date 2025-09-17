@@ -61,16 +61,6 @@ We invite you to explore 4 areas of growth and contribution:
 - **Ecological Regeneration** - Helping restore natural systems
 - **Cultural Creation** - Co-creating meaningful experiences and practices
 
-## 🌦️ Weather Adaptation
-
-TDF operates in the Alentejo region of Portugal, where weather conditions can be extreme and variable. All community members must be prepared for:
-
-- **Hot, Dry Summers** - Temperatures exceeding 40°C, requiring hydration, sun protection, and heat management
-- **Heavy Rainfall** - Occasional flooding and water management challenges
-- **Strong Winds** - Dust storms and wind protection needs
-- **Seasonal Variations** - Water availability and agricultural cycles that affect daily life
-
-**Safety Protocols**: Weather adaptation strategies and emergency procedures are covered during orientation and must be followed by all community members.
 
 ## 🌿 Common Challenges
 
@@ -80,7 +70,6 @@ Every community experience has challenges to navigate:
 - **Skill Development** - Learning new abilities to contribute effectively
 - **Interpersonal Dynamics** - Navigating community relationships
 - **External Commitments** - Balancing community participation with outside life
-- **Weather Adaptation** - Adapting to changing weather and seasonal conditions
 
 ## 📊 Community Systems
 

@@ -5,19 +5,11 @@
 ## 📊 VOTING FORMULA
 
 ```
-Voting Power = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5) + (Proof of Implementation × 1)
+Voting Power = $TDF + $Presence + $Sweat
 ```
 
 This formula ensures active contributors have meaningful input in governance decisions. Note that sweat is earned only through defined major projects and decays 10% annually.
 
-## 🔢 TOKEN WEIGHTS
-
-| TOKEN TYPE | WEIGHT | RATIONALE |
-|------------|--------|-----------|
-| **$TDF** | 1× | Financial participation |
-| **$Presence** | 1× | Physical presence |
-| **$Sweat** | 5× | Active contribution (defined major projects only) |
-| **Proof of Implementation** | 1× | Successful project completion |
 
 ## ⚖️ BALANCING PRINCIPLES
 
