@@ -6,17 +6,17 @@
 
 ## Role Description
 
-Guardians are external stakeholders who have demonstrated exceptional commitment to ecological stewardship and have been entrusted with special responsibilities related to land care and regeneration. They are tied to OASA principles and sometimes supported by AI ecological agents. They combine practical ecological knowledge with a deep connection to the land, serving as advocates for the non-human stakeholders of the TDF ecosystem.
+Guardians are external stakeholders under OASA oversight, not daily community members. They hold ecological veto power and may be appointed by OASA to ensure constitutional principles are maintained. They combine practical ecological knowledge with a deep connection to the land, serving as advocates for the non-human stakeholders of the TDF ecosystem.
 
 ## Responsibilities
 
 As a Guardian, you are expected to:
 
+- **Ecological Veto Power** - Exercise constitutional/ecological veto power when community decisions threaten land health
 - **Ecological Monitoring** - Observe and track the health of land systems
 - **Regenerative Design** - Guide land-based decision-making and planning
 - **Knowledge Holding** - Maintain and share ecological wisdom
 - **Advocacy** - Represent the needs of the land in community decisions
-- **Mentorship** - Guide others in developing land connection and skills
 - **Long-term Vision** - Hold the multi-generational perspective for land health
 
 ## Opportunities
@@ -35,7 +35,7 @@ To become a Guardian:
 
 - **Demonstrated Care** - Show consistent commitment to land health
 - **Ecological Knowledge** - Possess practical and theoretical understanding of ecosystems
-- **Community Appointment** - Be recognized by the community for this role
+- **OASA Appointment** - Be appointed by OASA for this role
 - **Ethical Alignment** - Embody the values of regenerative stewardship
 - **Communication Skills** - Ability to translate ecological needs to the community
 

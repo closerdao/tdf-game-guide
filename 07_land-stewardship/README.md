@@ -1,6 +1,6 @@
 # 🌳 Land Stewardship
 
-**Ecological Care** At TDF, we practice ecological restoration and regenerative design to heal the land and create abundance.
+**Ecological Care** TDF is a human habitat that shares and interacts with surrounding ecosystems. At least 50% of land is reserved for rewilding, with safety and comfort for people as design goals.
 
 > *"We work with the land as our most important ally."*
 
@@ -9,10 +9,13 @@
 Our approach to land stewardship follows core regenerative principles:
 
 - **Observe Before Acting** - Learn the patterns before intervening
-- **Stack Functions** - Design elements that serve multiple purposes
-- **Work With Nature** - Align with natural processes rather than fighting them
-- **Capture & Store Energy** - Harvest and preserve resources when abundant
-- **Value Diversity** - Cultivate resilience through biological and cultural variety
+- **Stack Functions** - Design elements that serve multiple purposes, emphasizing closed loops
+- **Work With Nature** - Align with natural processes including reforestation, rotational grazing, and planting local varieties
+- **Capture & Store Energy** - Harvest and preserve resources when abundant, including geothermal and wind (e.g., kite systems) and reusing waste heat
+- **Value Diversity** - Cultivate resilience through non-invasive, locally suitable species and pest management
+- **Safety** - Ensure human safety and comfort in all land interactions
+- **Good Neighbourliness** - Maintain positive relationships with surrounding communities
+- **Balanced Diversity** - Balance diversity with suitability and safety
 
 For a deeper dive into these principles, see [Principles](principles.md).
 
@@ -39,11 +42,11 @@ For details on our monitoring practices, see [Monitoring](monitoring.md).
 
 ## 🌿 Community Impact
 
-Every action affects the ecosystem:
+TDF aims to be regenerative wherever possible, neutral if not, and never extractive. We recognize embodied impacts of imported materials and commit to closing loops. Every action affects the ecosystem:
 
 - **Regenerative** → Increases biodiversity, soil health, water retention
-- **Extractive** → Decreases ecosystem health and resilience
 - **Neutral** → Maintains current state without improvement or harm
+- **Never Extractive** → We avoid actions that decrease ecosystem health and resilience
 
 ---
 

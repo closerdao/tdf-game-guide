@@ -11,15 +11,18 @@ The governance system at TDF combines several approaches:
 - **Do-ocracy** - Take action without permission when impact is reversible
 - **Consent-Based Decisions** - Proposals pass unless there are substantiated objections
 - **Token-Weighted Voting** - Governance weight based on tokens, presence, and contribution
-- **DAO Structure** - Decentralized Autonomous Organization of citizens, token holders, team, sweat earners, and lenders
+- **DAO Structure** - Decentralized Autonomous Organization of citizens and token holders
 
 ## 🏛️ DAO Structure
 
-The DAO (Decentralized Autonomous Organization) includes:
-- **Citizens** - Full community members with governance rights
-- **Token Holders** - Individuals holding TDF tokens
-- **Team Members** - Operational leaders elected by the DAO
-- **Sweat Earners** - Community members earning through contributions
+The DAO (Decentralized Autonomous Organization) is made up exclusively of:
+- **Citizens** - Full community members with governance rights and voting power
+- **Token Holders** - Individuals holding TDF tokens with voting power proportional to their holdings
+
+### Stakeholders (Non-Voting)
+These groups participate as stakeholders but are not voting members of the DAO:
+- **Team Members** - Operational leaders hired by the executive director
+- **Sweat Earners** - Contributors who have earned $Sweat through major projects
 - **Lenders** - Financial supporters providing capital
 
 ## 🧙‍♂️ Governance Rights

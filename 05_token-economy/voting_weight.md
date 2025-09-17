@@ -5,10 +5,10 @@
 ## 📊 VOTING FORMULA
 
 ```
-Voting Power = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5)
+Voting Power = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5) + (Proof of Implementation × 1)
 ```
 
-This formula ensures active contributors have meaningful input in governance decisions.
+This formula ensures active contributors have meaningful input in governance decisions. Note that sweat is earned only through defined major projects and decays 10% annually.
 
 ## 🔢 TOKEN WEIGHTS
 
@@ -16,7 +16,8 @@ This formula ensures active contributors have meaningful input in governance dec
 |------------|--------|-----------|
 | **$TDF** | 1× | Financial participation |
 | **$Presence** | 1× | Physical presence |
-| **$Sweat** | 5× | Active contribution |
+| **$Sweat** | 5× | Active contribution (defined major projects only) |
+| **Proof of Implementation** | 1× | Successful project completion |
 
 ## ⚖️ BALANCING PRINCIPLES
 
@@ -45,13 +46,6 @@ Different ways to gain voting weight:
 | Regular Resident | 20   | 30        | 0      | 50                  |
 | Active Volunteer | 20   | 10        | 30     | 180                 |
 | Balanced Citizen | 50   | 20        | 20     | 170                 |
-
-## 🔄 DELEGATION
-
-You can delegate your voting power to others:
-- You keep ownership of your tokens
-- Voting rights transfer temporarily
-- You can revoke delegation when needed
 
 ---
 

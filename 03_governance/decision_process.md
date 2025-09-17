@@ -1,20 +1,33 @@
 # 🎲 Decision-Making Process
 
-**COMMUNITY GOVERNANCE** At TDF, governance is a collaborative process where community members work together to shape the future.
+**COMMUNITY GOVERNANCE** At TDF, governance operates through three distinct decision layers, each with specific responsibilities and authority.
 
 > *"The best decisions emerge when all voices are heard and valued."*
 
-## 🧙‍♂️ DECISION TYPES
+## 🏛️ Three Decision Layers
 
-Different decisions follow different processes:
+### 1. OASA & Guardians
+**Ecological oversight and constitutional principles**
+- Ecological veto power for land-related decisions
+- Constitutional principles and core values
+- Environmental protection and regeneration standards
+- Guardians appointed by OASA for ecological oversight
 
-| TYPE | WHO DECIDES | EXAMPLES | IMPACT LEVEL |
-|------|-------------|----------|-------------|
-| **Do-ocracy** | Any Citizen | Rearranging kitchen space, starting a compost pile | Low Impact |
-| **DAO Proposal** | TDF DAO | Budgeting for infrastructure, updating rules | Medium Impact |
-| **Constitutional** | OASA General Meeting | Amending Principles, onboarding new projects | High Impact |
-| **Executive** | Elected Team | Daily operations, guest management, payments | Operational |
-| **Protected** | Outside TDF Authority | Land sales, profit distribution, core values | Restricted |
+### 2. DAO
+**Proposals, budgets, and elections**
+- Community proposals and voting
+- Budget allocation and financial decisions
+- Election of executive director
+- Policy changes and rule updates
+- Any changes to the game guide must be proposed on Charmverse and voted on via Snapshot (with guardians' veto for ecological issues)
+
+### 3. Team (Executive Director)
+**Day-to-day operational decisions**
+- Daily operations and guest management
+- Resource allocation within approved budgets
+- Staff hiring and management
+- Implementation of DAO decisions
+- Emergency response and safety protocols
 
 ## 🔄 DAO DECISION PROCESS
 
@@ -40,21 +53,47 @@ The main governance process follows these steps:
    - Quorum: 500 $TDF equivalent
    - Approval: >50% of votes cast
    - Voting weight formula applied
+   - Guardians have veto power for ecological issues
 
 5. **Implementation**
    - Team and Enseada Sonhadora execute
    - Progress updates to community
    - Impact measured and shared
 
-## 🛡️ PROTECTED AREAS
+## 💰 Budgeting Process
 
-Some decisions are protected by special rules:
+The DAO manages community finances through:
 
-- **Principles** - Can only be changed through OASA General Meeting
-- **Land Decisions** - Protected by legal guardians
-- **Core Values** - Cannot be overridden by any governance process
+1. **Annual Budget Planning**
+   - Executive director proposes annual budget
+   - Community reviews and provides feedback
+   - DAO votes on budget allocation
 
-## 🎯 STRATEGIC TIPS
+2. **Quarterly Reviews**
+   - Financial performance assessment
+   - Budget adjustments as needed
+   - Transparency reports to community
+
+3. **Project Funding**
+   - Individual project proposals with budget requests
+   - Community evaluation of project value
+   - DAO approval for project funding
+
+4. **Emergency Funds**
+   - Reserved for unexpected needs
+   - Requires DAO approval for use
+   - Transparent reporting on emergency expenditures
+
+## ⏰ Director Term Limits
+
+The executive director serves for a defined term with mandatory renewal:
+
+- **Term Length** - 6-12 months with possibility of renewal
+- **Mandatory Renewal Votes** - Regular community evaluation of director performance
+- **Open Selection Process** - Clear criteria and transparent selection for new directors
+- **Succession Planning** - Smooth transition between directors
+
+## 🎯 Strategic Tips
 
 - **Build Consensus** - Strong proposals address concerns before voting
 - **Seek Feedback Early** - Share ideas informally before formal proposals

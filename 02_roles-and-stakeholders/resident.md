@@ -8,8 +8,8 @@
 
 Residents are individuals with specific skills valuable to the community who commit to staying at TDF for extended periods. There are two types of residents:
 
-- **Short-term Residents** - Artists, project-specific contributors, and temporary specialists
-- **Long-term Residents** - Individuals with deep involvement and ongoing commitment to community development
+- **Short-term Residents** - 1-3 months, typically artists or project-specific contributors
+- **Long-term Residents** - Multi-season commitment with deep community involvement
 
 They take on more responsibility than volunteers and often lead or manage specific areas of community operations or projects based on their expertise.
 
@@ -28,7 +28,7 @@ As a Resident, you are expected to:
 
 During your residency, you can:
 
-- **Earn $Sweat and $TDF Tokens** - Receive recognition and compensation for your contributions
+- **Earn Tokens** - May earn $Sweat/TDF tokens only for approved projects
 - **Develop Professional Practice** - Apply and enhance your skills in a regenerative context
 - **Build Deep Community Connections** - Form lasting relationships with community members
 - **Shape Community Systems** - Influence the development of your area of expertise
@@ -40,7 +40,7 @@ To become a Resident:
 
 - **Application** - Submit a detailed application highlighting your skills and proposed contribution
 - **Interview** - Discuss your application with relevant team members
-- **Minimum Commitment** - Agree to stay for at least one month
+- **Commitment Period** - 1-3 months for short-term, multi-season for long-term
 - **Work Agreement** - Establish clear expectations for your contribution
 - **Skill Assessment** - Demonstrate the skills you're bringing to the community
 

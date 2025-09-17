@@ -13,6 +13,15 @@ Life at TDF follows natural cycles that blend work, rest, and community:
 - **Community Meals** - Sharing food together as a core social practice
 - **Evening Activities** - Skill-sharing, music, storytelling, and celebration
 
+## 🎪 Weekly Community Gatherings
+
+Regular community rituals that bring everyone together:
+
+- **Sharing Circle** (Tuesdays) - Deep sharing and community connection
+- **Sauna** (Sundays) - Relaxation and community bonding
+- **Appreciation Circle / Happy Hour** (Fridays) - Celebrating community members
+- **All-hands Work Session** (Wednesdays) - Collaborative community projects
+
 ## 🧩 Community Systems
 
 | System      | Description                               | Participation Opportunities                 |
@@ -32,14 +41,36 @@ Community living is a skill that develops through practice:
 - **Celebration** - Marking milestones, seasons, and achievements
 - **Care** - Supporting each other through challenges
 
+## 🌦️ Weather Adaptation
+
+TDF operates in the Alentejo region of Portugal, where weather conditions can be extreme and variable. All community members must be prepared for:
+
+- **Hot, Dry Summers** - Temperatures exceeding 40°C, requiring hydration, sun protection, and heat management
+- **Heavy Rainfall** - Occasional flooding and water management challenges
+- **Strong Winds** - Dust storms and wind protection needs
+- **Seasonal Variations** - Water availability and agricultural cycles that affect daily life
+
+**Safety Protocols**: Weather adaptation strategies and emergency procedures are covered during orientation and must be followed by all community members.
+
 ## 🎪 Special Events
 
 The community comes together through regular special events:
 
+- **Monthly Open-Day Programme** - Tours and lunch for short visits
 - **Seasonal Festivals** - Marking the turning of the year
 - **Work Parties** - Collaborative building and land regeneration
 - **Knowledge Exchanges** - Workshops and skill-sharing
 - **Integration Gatherings** - Welcoming new Citizens
+
+## 🎯 Orientation Process
+
+**Mandatory Orientation** is required for all new visitors and is essential for understanding community protocols, safety procedures, and participation expectations. The orientation process includes:
+
+- **Community Tour** - Explore the physical space and facilities
+- **Safety Briefing** - Learn about weather adaptation and emergency procedures
+- **Protocol Introduction** - Understand community agreements and participation requirements
+- **Contribution Matching** - Identify ways to contribute based on your skills and interests
+- **Integration Support** - Connect with community members and ongoing support
 
 ---
 

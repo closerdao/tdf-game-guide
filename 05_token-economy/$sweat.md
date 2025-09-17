@@ -16,10 +16,11 @@ $Sweat is a special token with unique characteristics:
 ## 🔄 HOW IT WORKS
 
 ### Earning $Sweat
-- **Land Work** - Regenerative agriculture, building, maintenance
-- **Community Service** - Cooking, cleaning, hosting, coordination
-- **Governance** - Proposal creation, working groups, facilitation
-- **Special Projects** - Bounties, initiatives, creative contributions
+$Sweat is issued only for defined large projects. Volunteers do not earn $Sweat through regular participation.
+
+- **Defined Major Projects** - Large-scale infrastructure, building, land restoration
+- **Special Initiatives** - Community-wide projects with significant impact
+- **Bounties** - Specific tasks with clear deliverables and compensation
 
 ### Using $Sweat
 - **Governance Weight** - Amplifies your voting power (5× multiplier)
@@ -29,29 +30,28 @@ $Sweat is a special token with unique characteristics:
 
 ## 🧮 DECAY FORMULA
 
-Your contribution value decreases through exponential decay:
+$Sweat decays over time to encourage continued engagement:
 
 ```
 decayedAmount = initialAmount * (1 - decayRatePerDay)^daysSinceContribution
 ```
 
-Decay Rate: Configurable (suggested ~0.03%/day)
+Decay Rate: 10% annually (approximately 0.03%/day)
 
 ## 🏆 CONTRIBUTION TYPES
 
 | CONTRIBUTION | EXAMPLES | VERIFICATION |
 |--------------|----------|-------------|
-| **Physical Labor** | Building, planting, harvesting | Team Member verification |
-| **Skilled Work** | Design, coding, facilitation | Bounty completion |
-| **Care Work** | Cooking, cleaning, hosting | Shift completion |
-| **Governance** | Proposals, working groups | Participation records |
+| **Major Infrastructure** | Building construction, land restoration | Project completion verification |
+| **Special Initiatives** | Community-wide projects, system development | Team Member verification |
+| **Bounties** | Specific tasks with clear deliverables | Bounty completion verification |
 
 ## 🛡️ ACCESS CONTROL
 
 Only specific roles can create $Sweat tokens:
-- **Bounty Managers** - For completed bounties
-- **Team Members** - For verified contributions
-- **DAO Treasury** - For special allocations
+- **Team Members** - For verified major project contributions
+- **DAO Treasury** - For special allocations and bounties
+- **Project Managers** - For defined large project completion
 
 ## 🔮 FUTURE DEVELOPMENT
 

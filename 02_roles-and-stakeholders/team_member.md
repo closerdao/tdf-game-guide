@@ -6,7 +6,7 @@
 
 ## Role Description
 
-Team Members are individuals who have been elected or appointed to take on specific operational responsibilities within the community. They lead key functional areas, manage resources, coordinate projects, and ensure the smooth functioning of community systems. Team Members combine practical skills with leadership abilities to serve the community's needs.
+Team Members are individuals hired by the executive director (who is elected by the DAO) to take on specific operational responsibilities within the community. They lead key functional areas, manage resources, coordinate projects, and ensure the smooth functioning of community systems. Team Members combine practical skills with leadership abilities to serve the community's needs.
 
 ## Responsibilities
 
@@ -26,7 +26,7 @@ In the Team Member role, you can:
 - **Develop Leadership** - Grow your leadership and management skills
 - **Shape Systems** - Influence how key community functions operate
 - **Apply Expertise** - Use your specialized knowledge for community benefit
-- **Receive Recognition** - Earn compensation for your dedicated service
+- **Receive Compensation** - Salary + TDF tokens + proof-of-presence and proof-of-sweat weighting
 - **Create Legacy** - Leave lasting improvements to community systems
 
 ## Requirements
@@ -34,8 +34,8 @@ In the Team Member role, you can:
 To become a Team Member:
 
 - **Skill Mastery** - Demonstrate expertise in the relevant area
-- **Election Process** - DAO elects executive director → director hires team
-- **Commitment** - Minimum 6 months commitment
+- **Hiring Process** - Executive director (elected by DAO) hires and manages team members
+- **Commitment** - 6-12 month term with clear selection criteria
 - **Seasonal Presence** - Team present for full seasons (Aug–Dec, Jan–Jun; subject to change)
 - **Setup/Breakdown Support** - Some must support setup and breakdown
 - **Accountability** - Accept responsibility for outcomes in your area
@@ -49,14 +49,11 @@ To become a Team Member:
 - **Financial Steward** - Manages budgets and financial systems
 - **Communications Lead** - Handles internal and external communications
 - **Project Manager** - Coordinates specific community initiatives
-
-## Governance Participation
-
-Team Members participate in governance through the DAO structure, with governance handled via the DAO rather than requiring separate governance participation.
+- **Creative Director** - Handles narrative, aesthetics, and brand cohesion
 
 ## Term and Transition
 
-- **Term Length** - Typically 6-12 months, with possibility of renewal
+- **Term Length** - 6-12 months with open calls and clear selection criteria
 - **Evaluation** - Regular feedback and performance reviews
 - **Succession Planning** - Identifying and training future Team Members
 - **Knowledge Transfer** - Documenting processes and training successors
