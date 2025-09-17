@@ -33,6 +33,7 @@ Regular community rituals that bring everyone together:
 | **Water**   | Rainwater harvesting, greywater systems   | Conservation practices, system upkeep      |
 | **Waste**   | Composting, recycling, upcycling          | Proper sorting, creative reuse             |
 | **Shelter** | Natural building, shared spaces           | Construction, maintenance, beautification  |
+| **Ground Rules & Safety** | Community-agreed guidelines for shared spaces and respectful behavior | Follow rules, propose improvements through governance |
 
 ## 🎭 Social Dynamics
 
@@ -85,6 +86,63 @@ For those who want to experience TDF without committing to the minimum 1-month s
 - **Protocol Introduction** - Understand community agreements and participation requirements
 - **Contribution Matching** - Identify ways to contribute based on your skills and interests
 - **Integration Support** - Connect with community members and ongoing support
+- **Ground Rules Training** - Learn about shared spaces, personal items, and respectful behavior
+
+## 📋 Ground Rules
+
+These rules help everyone share space with respect and ease. They are managed by the TDF team in consultation with people on the ground. Citizens may overrule or amend them through the Game Guide (by creating a proposal and following the DAO voting process). By booking a stay at TDF, visitors and guests agree to respect these ground rules.
+
+### Shared Spaces
+
+**Kitchen** – No access unless you are on shift. Bring and enjoy your own snacks. Orientation includes training on kitchen protocol.
+
+**Pantry** – Off limits. If you need anything, ask the team.
+
+**Event Space** – No open cups and no shoes. Keep the space clean for workshops and gatherings.
+
+**Sound System** – Requires training. Ask the team before use; always turn it off and cover it after use.
+
+**Workshop** – Training required; consult the team before operating tools or machinery.
+
+**Shared Items** – Do not move yoga mats, carpets, or other common items without permission.
+
+**Pool and Sauna** – Shower before using the pool. The sauna requires training; it is operated by the team twice a week (Sunday and one additional day by popular demand). Bookings for private sauna use may be arranged for a fee (€50). Always use a towel (not the white TDF towels).
+
+### Personal Items & Hygiene
+
+**Cups** – Label your cup with your name and do not leave it lying around.
+
+**Dishes** – Wash and put away dishes after use. Communal living depends on everyone's participation in keeping shared areas clean.
+
+**Bedding & Towels** – Not for guest use. If you need extras, ask the team.
+
+**Laundry** – Facilities are available only in the afternoons and on weekends.
+
+**Camping Gear** – Rental requires a deposit (€20) and a small fee (€5); coordinate with the team.
+
+**Bath & Body Products** – Use the biodegradable soap and shampoo provided; do not bring non-biodegradable products onto the land.
+
+### Alcohol, Smoking & Substances
+
+**Alcohol** – Alcohol is not included in food programmes. You may purchase or gift alcohol to TDF, but not for personal consumption on site unless explicitly arranged.
+
+**Smoking** – Permitted only at designated smoking areas (the bar and patio); smoking is prohibited in the nursery café and other shared spaces.
+
+**Drugs** – Self-responsibility and mindful consumption are required. Any irresponsible use or distribution may result in a ban from the community.
+
+### Respect & Boundaries
+
+**Nudity** – Nudity is allowed on the land, but never in view of neighbours or public roads. Be mindful of privacy and cultural sensitivities.
+
+**Quiet Hours** – Respect quiet hours to ensure adequate rest for all community members.
+
+**Consent and Communication** – Engage in consent-based interactions and practice nonviolent communication; if unsure, ask. [Learn more about social dynamics →](#social-dynamics)
+
+### Implementation and Governance
+
+The TDF team is responsible for day-to-day enforcement and education around these rules. Violations may result in warnings or exclusion from certain facilities.
+
+Any community member (particularly Citizens) may propose amendments to these ground rules via the Game Guide update process: create a proposal, discuss it on Charmverse, and seek approval through a DAO vote. [Learn more about governance →](../03_governance/README.md)
 
 ---
 

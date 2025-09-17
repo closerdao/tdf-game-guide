@@ -26,6 +26,9 @@ New to TDF? Start with our [Quick Reference Guide](QUICK_REFERENCE.md) for key i
 - **[Stewards](02_roles-and-stakeholders/steward.md)** - Immersive learners co-managing areas
 - **[Team Members](02_roles-and-stakeholders/team_member.md)** - Operational leaders hired by director
 
+**Community Life:**
+- **[Ground Rules](06_community-living/README.md#-ground-rules)** - Community-agreed guidelines for shared spaces and respectful behavior
+
 ## 📋 Overview
 
 TDF is a community in Abela, Portugal working to:

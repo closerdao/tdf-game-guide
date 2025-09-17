@@ -37,6 +37,7 @@ As a Resident, you are expected to:
 - **Project Leadership** - Lead or significantly contribute to specific projects
 - **Knowledge Transfer** - Share your skills with other community members
 - **Community Support** - Help maintain daily operations and systems
+- **Follow Ground Rules** - Adhere to [ground rules](../06_community-living/README.md#-ground-rules) for shared spaces and respectful behavior
 - **Active Participation** - Engage fully in community life and activities
 - **Weekly Check-in** - Meet with team weekly to align contributions and goals
 

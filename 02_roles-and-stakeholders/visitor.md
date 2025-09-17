@@ -24,6 +24,7 @@ TDF offers monthly open-day tours and lunch for short visits:
 As a Visitor, you are expected to:
 
 - **Respect Community Guidelines** - Follow the established norms and practices
+- **Follow Ground Rules** - Adhere to [ground rules](../06_community-living/README.md#-ground-rules) for shared spaces and respectful behavior
 - **Participate in Orientation** - Learn about basic systems and safety protocols
 - **Engage in Community Life** - Join meals and community gatherings
 - **Contribute 4 hours/week** - Provide meaningful contribution to community projects
@@ -62,6 +63,7 @@ To become a Visitor:
 Anyone with an active booking (visitor or citizen) may invite a guest for a short stay. **The host is fully responsible for their guest** and must:
 
 - **Onboarding** - Introduce the guest to community norms and safety protocols
+- **Ground Rules** - Inform the guest about [ground rules](../06_community-living/README.md#-ground-rules) and ensure compliance
 - **Bed Preparation** - Ensure accommodation is ready and comfortable
 - **Meals** - Provide or arrange meals for the duration of the stay
 - **Transport** - Handle transportation needs to and from TDF
