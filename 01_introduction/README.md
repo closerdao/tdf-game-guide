@@ -52,15 +52,6 @@ We encourage exploration of four growth areas rather than focusing on traditiona
 - **Ecological Regeneration** - Helping restore natural systems and biodiversity
 - **Cultural Creation** - Co-creating meaningful experiences, practices, and knowledge
 
-## 🌦️ Weather Adaptation
-
-TDF operates in the Alentejo region of Portugal, where weather conditions can be extreme and variable. Community members must be prepared for:
-- Hot, dry summers with temperatures exceeding 40°C
-- Occasional heavy rainfall and flooding
-- Strong winds and dust storms
-- Seasonal variations that affect water availability and agricultural cycles
-
-Adaptation strategies and safety protocols are essential for all community activities. [Learn more about weather adaptation →](getting_started.md#weather-adaptation)
 
 ## 🔄 Guide Updates
 
