@@ -28,16 +28,14 @@ These tokens work together in our community:
 
 ## 🥕 Carrots (Stay Credits)
 
-Citizens can earn stay credits called "carrots" through volunteering:
-- **One-time Credits** - Can be gifted or used to extend stays
+Anyone can earn stay credits called "carrots" through volunteering, subscriptions, or referral programs:
+- **One-time Credits** - Enable booking at no accommodation cost
 - **Non-renewable** - Carrots don't renew annually
-- **Volunteering Reward** - Earned through community service
-- **Giftable** - Can be transferred to other community members
-- **Usage** - Can be used to extend stays beyond normal limits
+- **Earning Methods** - Volunteering, subscriptions, referral programs
+- **Usage** - Enable booking at no accommodation cost
 
 **Examples of carrot usage:**
-- Extending a stay by a few days
-- Gifting a stay credit to a friend
+- Booking accommodation without paying the daily rate
 - Using credits for special events or workshops
 
 ## 🔗 Token Details
