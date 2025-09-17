@@ -44,16 +44,6 @@ Community living is a skill that develops through practice:
 - **Celebration** - Marking milestones, seasons, and achievements
 - **Care** - Supporting each other through challenges
 
-## 🌦️ Weather Adaptation
-
-TDF operates in the Alentejo region of Portugal, where weather conditions can be extreme and variable. All community members must be prepared for:
-
-- **Hot, Dry Summers** - Temperatures exceeding 40°C, requiring hydration, sun protection, and heat management
-- **Heavy Rainfall** - Occasional flooding and water management challenges
-- **Strong Winds** - Dust storms and wind protection needs
-- **Seasonal Variations** - Water availability and agricultural cycles that affect daily life
-
-**Safety Protocols**: Weather adaptation strategies and emergency procedures are covered during orientation and must be followed by all community members.
 
 ## 🎪 Special Events
 

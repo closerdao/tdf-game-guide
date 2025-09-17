@@ -39,7 +39,7 @@ Traditional Dream Factory is a regenerative human habitat in Abela, Portugal, wh
 
 ### Voting Weight
 ```
-Voting Power = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5) + (Proof of Implementation × 1)
+Voting Power = $TDF + $Presence + $Sweat
 ```
 
 ## 🌱 Regenerative Principles
@@ -58,11 +58,6 @@ Voting Power = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5) + (Proof of Implem
 - **Appreciation Circle** (Fridays) - Celebrating members
 - **All-hands Work** (Wednesdays) - Collaborative projects
 
-### Weather Adaptation
-- Hot, dry summers (40°C+)
-- Heavy rainfall and flooding
-- Strong winds and dust storms
-- Seasonal water variations
 
 ## 📋 Getting Started
 
@@ -81,7 +76,6 @@ Voting Power = ($TDF × 1) + ($Presence × 1) + ($Sweat × 5) + (Proof of Implem
 - [Token Economy](05_token-economy/) - Token system details
 - [Community Living](06_community-living/) - Daily life at TDF
 - [Land Stewardship](07_land-stewardship/) - Ecological practices
-- [Diagrams](08_diagrams/) - Visual system representations
 
 ---
 

@@ -1,7 +1,7 @@
-# 🌱 TDF Community Guide 🌱
+# 🌱 TDF Game Guide 🌱
 ## Traditional Dream Factory
 
-**Welcome** to the Traditional Dream Factory Community Guide. This document explains how our community works together to create a regenerative future.
+**Welcome** to the TDF Game Guide. This guide is your map to our regenerative human habitat—a living experiment where we play at building a different future.
 
 ## 🚀 Quick Start
 New to TDF? Start with our [Quick Reference Guide](QUICK_REFERENCE.md) for key information at a glance.
@@ -47,7 +47,6 @@ TDF is a community in Abela, Portugal working to:
 | [Token System](05_token-economy/) | $TDF, $Presence, and $Sweat tokens | [View](05_token-economy/) |
 | [Community Living](06_community-living/) | Daily life at TDF | [View](06_community-living/) |
 | [Land Stewardship](07_land-stewardship/) | Ecological practices | [View](07_land-stewardship/) |
-| [Diagrams](08_diagrams/) | Visual system representations | [View](08_diagrams/) |
 
 ## 🔄 Guide Updates
 
