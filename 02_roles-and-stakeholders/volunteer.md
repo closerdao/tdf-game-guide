@@ -6,7 +6,7 @@
 
 ## Role Description
 
-Volunteers are individuals who commit to a defined period of engagement with TDF, typically 2 weeks to 1 month (friends booking may be shorter), with regular daily contributions to community projects and operations. This role offers a way to get to know the community and see if you want to engage more deeply while supporting the community's needs.
+Volunteers are individuals who commit to a defined period of engagement with TDF, typically 2 weeks to 1 month, with regular daily contributions to community projects and operations. This role offers a way to get to know the community and see if you want to engage more deeply while supporting the community's needs.
 
 ## Volunteering Commitment
 
@@ -44,7 +44,7 @@ During your volunteer period, you can:
 To become a Volunteer:
 
 - **Application** - Submit a volunteer application describing your skills and interests
-- **Work Agreement** - Commit to 4-6 hours of contribution daily (depending on chosen option)
+- **Work Agreement** - Commit to 4 hours of contribution daily
 - **Orientation** - Complete the volunteer orientation process
 - **Community Agreement** - Align with community values and guidelines
 

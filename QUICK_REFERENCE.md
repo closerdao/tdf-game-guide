@@ -1,6 +1,6 @@
 # 🚀 Quick Reference Guide
 
-**TDF Community Guide - Key Information at a Glance**
+**TDF Game Guide - Key Information at a Glance**
 
 ## 🎯 Mission
 Traditional Dream Factory is a regenerative human habitat in Abela, Portugal, where people collaborate to create thriving ecosystems for humans and nature.
@@ -23,7 +23,7 @@ Traditional Dream Factory is a regenerative human habitat in Abela, Portugal, wh
 | Role | Duration | Requirements | Key Benefits |
 |------|----------|--------------|--------------|
 | **Visitor** | 1+ months | 4h/week contribution | Experience community life |
-| **Volunteer** | 2 weeks-1 month | 4-6h/day work | Learn regenerative practices |
+| **Volunteer** | 2 weeks-1 month | 4h/day work | Learn regenerative practices |
 | **Resident** | 1-3 months (short) / Multi-season (long) | Weekly check-ins | Apply specialized skills |
 | **Steward** | 1 season | Co-manage areas | Immersive learning experience |
 | **Citizen** | Ongoing | 30+ TDF tokens, 3 vouches | Governance rights, stay benefits |
