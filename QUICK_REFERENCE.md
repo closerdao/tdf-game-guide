@@ -70,7 +70,6 @@ Voting Power = $TDF + $Presence + $Sweat
 ## 🔗 Key Links
 
 - [Full Guide](README.md) - Complete community guide
-- [Introduction](01_introduction/) - Getting started and FAQ
 - [Roles](02_roles-and-stakeholders/) - Community roles and citizenship
 - [Governance](03_governance/) - Decision-making processes and structure
 - [Token Economy](05_token-economy/) - Token system details

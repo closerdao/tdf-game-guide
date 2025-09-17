@@ -3,6 +3,25 @@
 
 **Welcome** to the TDF Game Guide. This guide is your map to our regenerative human habitat—a living experiment where we play at building a different future.
 
+## 🌱 Why We Exist
+
+TDF exists because our current ways of living are unsustainable.
+Land is degraded, communities are fragmented, and economies are built on extraction rather than regeneration. We believe another way is not only possible, but necessary.
+
+## 🎯 Mission Statement
+
+Traditional Dream Factory exists to reimagine how humans live together on Earth.
+Our mission is to regenerate land, foster resilient communities, and prototype the economies and cultures of a thriving future.
+
+## 🌱 Part of OASA
+
+TDF is part of the OASA network and follows its regenerative constitution.
+This means stewarding land as commons, rejecting extractive systems, and ensuring our local governance aligns with [OASA constitution](https://oasa.earth) and its regenerative principles. Certain key decisions remain subject to OASA’s General Meeting and guardians of nature.
+
+## 📖 About This Guide
+
+This Game Guide is a living rulebook that governs the "game" of TDF. It describes how community roles, governance and systems work, and invites participation in shaping and updating the rules via the DAO. The guide encourages people to see it as a dynamic tool: not fixed rules but a framework that evolves as we learn.
+
 ## 🚀 Quick Start
 New to TDF? Start with our [Quick Reference Guide](QUICK_REFERENCE.md) for key information at a glance.
 
@@ -29,19 +48,19 @@ New to TDF? Start with our [Quick Reference Guide](QUICK_REFERENCE.md) for key i
 **Community Life:**
 - **[Ground Rules](06_community-living/README.md#-ground-rules)** - Community-agreed guidelines for shared spaces and respectful behavior
 
-## 📋 Overview
+## 🌱 Measuring Success
 
-TDF is a community in Abela, Portugal working to:
-- Create regenerative systems where humans and nature thrive together
-- Build circular resource flows
-- Make decisions through consent and contribution
-- Transform work into meaningful participation
+We encourage exploration of four growth areas rather than focusing on traditional metrics:
+
+- **Personal Growth** - Developing new skills, awareness, and capabilities
+- **Community Impact** - Contributing to collective flourishing and mutual support
+- **Ecological Regeneration** - Helping restore natural systems and biodiversity
+- **Cultural Creation** - Co-creating meaningful experiences, practices, and knowledge
 
 ## 📚 Guide Sections
 
 | Section | Content | Link |
 |---------|---------|------|
-| [Introduction](01_introduction/) | Getting started, FAQ, mission | [View](01_introduction/) |
 | [Roles & Stakeholders](02_roles-and-stakeholders/) | Community roles and citizenship | [View](02_roles-and-stakeholders/) |
 | [Governance](03_governance/) | Decision-making processes and structure | [View](03_governance/) |
 | [Token System](05_token-economy/) | $TDF, $Presence, and $Sweat tokens | [View](05_token-economy/) |
