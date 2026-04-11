@@ -63,7 +63,7 @@ To qualify for Citizenship, participants must demonstrate:
 
 ### Application Process
 
-1. **Submit Application** - Via the Citizenship portal on Charmverse
+1. **Submit Application** - Via the Citizenship portal on the TDF website
 2. **Community Feedback** - 2-week period for existing Citizens to comment
 3. **Investigation** - Team must investigate any reports
 4. **Decision** - Consensus-based approval by Citizens

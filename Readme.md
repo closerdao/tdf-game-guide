@@ -43,7 +43,7 @@ New to TDF? Start with our [Quick Reference Guide](QUICK_REFERENCE.md) for key i
 - **[Citizens](02_roles-and-stakeholders/citizen.md)** - Full community members with governance rights
 - **[Residents](02_roles-and-stakeholders/resident.md)** - Skilled contributors (short or long-term)
 - **[Stewards](02_roles-and-stakeholders/steward.md)** - Immersive learners co-managing areas
-- **[Team Members](02_roles-and-stakeholders/team_member.md)** - Operational leaders hired by director
+- **[Team Members](02_roles-and-stakeholders/team_member.md)** - Operational leaders elected by the DAO
 
 **Community Life:**
 - **[Ground Rules](06_community-living/README.md#-ground-rules)** - Community-agreed guidelines for shared spaces and respectful behavior
@@ -69,4 +69,4 @@ We encourage exploration of four growth areas rather than focusing on traditiona
 
 ## 🔄 Guide Updates
 
-This guide evolves as our community learns and grows. Changes to the guide must go through governance (Charmverse discussion → Snapshot vote). See the [Governance section](03_governance/) for details on how to propose changes.
+This guide evolves as our community learns and grows. Changes to the guide go through the DAO governance process on the [TDF `/governance` page](https://traditionaldreamfactory.com/governance). See the [Governance section](03_governance/) for details on how to propose changes.

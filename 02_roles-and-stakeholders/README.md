@@ -39,7 +39,7 @@ The community is influenced by various stakeholders, each with their own interes
 | **[Resident](resident.md)** | Medium to long-term members who bring specific skills | *Elena - an artist doing a 2-month residency* |
 | **[Steward](steward.md)** | Immersive learners who co-manage areas for a season | *Ahmed - a land steward managing the food forest* |
 | **[Citizen](citizen.md)** | Full community members with governance rights and responsibilities | *Maria - a long-term citizen with governance participation* |
-| **[Team Member](team_member.md)** | Operational leaders hired by the executive director | *João - the operations coordinator managing daily logistics* |
+| **[Team Member](team_member.md)** | Operational leaders elected by the DAO (includes at least 2 directors) | *João - the operations coordinator managing daily logistics* |
 
 ## 🔄 Multiple Roles
 

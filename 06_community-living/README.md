@@ -132,7 +132,7 @@ These rules help everyone share space with respect and ease. They are managed by
 
 The TDF team is responsible for day-to-day enforcement and education around these rules. Violations may result in warnings or exclusion from certain facilities.
 
-Any community member (particularly Citizens) may propose amendments to these ground rules via the Game Guide update process: create a proposal, discuss it on Charmverse, and seek approval through a DAO vote. [Learn more about governance →](../03_governance/README.md)
+Any community member (particularly Citizens) may propose amendments to these ground rules via the Game Guide update process: create a proposal on the TDF [`/governance`](https://traditionaldreamfactory.com/governance) page and seek approval through a DAO vote. [Learn more about governance →](../03_governance/README.md)
 
 ---
 

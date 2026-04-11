@@ -29,17 +29,25 @@ The DAO consists solely of:
 
 These groups influence the project but do not participate in governance decisions:
 
-- **Team Members** - Operational leaders hired by the executive director
+- **Team Members** - Operational leaders elected by the DAO (includes at least 2 directors)
 - **Sweat Earners** - Contributors who have earned $Sweat through major projects (but do not hold voting tokens)
 - **Lenders** - Financial supporters providing capital
 
 ### Governance Process
 
-1. **Proposal Creation** - Citizens create proposals via Charmverse
-2. **Community Feedback** - 1-2 week comment period for refinement
-3. **Voting** - Snapshot vote with weighted voting system
-4. **Implementation** - Team executes approved decisions
-5. **Monitoring** - Progress tracking and impact assessment
+All proposals and voting happen directly on the [TDF governance page](https://traditionaldreamfactory.com/governance).
+
+1. **Proposal Creation** - Citizens or the Team create proposals on `/governance`
+2. **Community Discussion** - Citizens and Token Holders discuss and refine during a 1-2 week comment period
+3. **Voting** - Weighted vote on `/governance` directly
+4. **OASA Veto Check** - OASA may veto decisions that are unconstitutional, break the "no finance decision" rule, or violate other legal requirements
+5. **Implementation** - Team executes approved decisions with progress tracking
+
+### What DAO Proposals Can Cover
+
+- **Masterplan changes** — new infrastructure, land use changes, land acquisition
+- **Team elections** — a new Team must include at least 2 directors who become fiduciary managers of Enseada Sonhadora
+- **Core document changes** — Game Guide, tokenomics, and other foundational documents
 
 ## 🗳️ Voting System
 
@@ -51,14 +59,14 @@ Voting Power = $TDF + $Presence + $Sweat
 ### Voting Requirements
 - **Quorum** - 500 $TDF equivalent
 - **Approval** - >50% of votes cast
-- **Guardian Veto** - Guardians can veto ecological issues
+- **OASA Veto** - OASA can veto proposals that are unconstitutional, violate the "no finance decision" rule, or break other legal requirements
 
 ## 🔗 Key Relationships
 
 - **OASA** - Ecological oversight and constitutional principles
 - **Team** - Day-to-day operational decisions
 - **Enseada Sonhadora LDA** - Legal entity for land ownership
-- **Guardians** - Ecological veto power for land-related decisions
+- **Guardians** - Ecological oversight on land-related decisions
 
 ## 📚 Learn More
 

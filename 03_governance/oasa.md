@@ -12,7 +12,7 @@ OASA serves as the ecological conscience of TDF, providing:
 - **Environmental Protection** - Safeguarding the land and its ecosystems
 - **Constitutional Principles** - Maintaining core values and ecological standards
 - **Guardian Appointment** - Selecting and managing ecological guardians
-- **Veto Power** - Exercising ecological veto over harmful decisions
+- **Veto Power** - Vetoing decisions that are unconstitutional, break the "no finance decision" rule, or violate other legal requirements
 
 ## 🏗️ Structure
 
@@ -35,15 +35,15 @@ OASA has authority over:
 ## 🌳 Guardian System
 
 ### Guardian Role
-- **Ecological Veto Power** - Can veto decisions that threaten land health
+- **Ecological Oversight** - Monitor land health and advise on ecological impact
 - **OASA Appointment** - Selected by OASA for their ecological expertise
 - **External Oversight** - Not daily community members, but external stakeholders
-- **Constitutional Protection** - Ensure adherence to ecological principles
+- **Constitutional Protection** - Support OASA in ensuring adherence to ecological and constitutional principles
 
 ### Guardian Responsibilities
 - **Land Health Monitoring** - Track ecosystem health and biodiversity
 - **Decision Review** - Evaluate community decisions for ecological impact
-- **Veto Authority** - Block decisions that harm the environment
+- **Escalation to OASA** - Flag ecological concerns for OASA review and potential veto
 - **Knowledge Sharing** - Provide ecological guidance to the community
 
 ## 🔗 Key Relationships

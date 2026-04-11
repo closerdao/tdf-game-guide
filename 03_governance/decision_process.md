@@ -1,50 +1,21 @@
 # 🎲 Decision-Making Process
 
-**COMMUNITY GOVERNANCE** At TDF, governance operates through three distinct decision layers, each with specific responsibilities and authority.
+**Community Governance** TDF governance operates through three decision layers (OASA & Guardians, DAO, Team), each with specific responsibilities. This page focuses on *how* decisions get made — see the [Governance overview](README.md) for the layers themselves.
 
 > *"The best decisions emerge when all voices are heard and valued."*
 
-## 🏛️ Three Decision Layers
+## 🔄 DAO Decision Process
 
-### 1. OASA & Guardians
-**Ecological oversight and constitutional principles**
-- Ecological veto power for land-related decisions
-- Constitutional principles and core values
-- Environmental protection and regeneration standards
-- Guardians appointed by OASA for ecological oversight
+All community-level decisions flow through the DAO on the [TDF governance page](https://traditionaldreamfactory.com/governance).
 
-### 2. DAO
-**Proposals, budgets, and elections**
-- Community proposals and voting (by TDF token holders only)
-- Budget allocation and financial decisions
-- Election of executive team (legally represented by a director)
-- Policy changes and rule updates
-- Any changes to the game guide must be proposed on Charmverse and voted on via Snapshot (with guardians' veto for ecological issues)
+1. **Proposal Creation**
+   - Created by a Citizen or the Team
+   - Submitted directly on the TDF website `/governance` page
+   - Includes clear objectives and implementation plan
 
-**DAO Membership:** The DAO comprises TDF token holders; sweat earners and lenders are stakeholders with influence but do not hold voting rights.
-
-### 3. Team (Executive Team)
-**Day-to-day operational decisions**
-- Daily operations and guest management
-- Resource allocation within approved budgets
-- Staff hiring and management
-- Implementation of DAO decisions
-- Emergency response and safety protocols
-
-**Team Term Limits:** The executive team serves fixed terms of 6-12 months with mandatory renewal votes by the DAO. The team is legally represented by a director.
-
-## 🔄 DAO DECISION PROCESS
-
-The main governance process follows these steps:
-
-1. **Proposal Crafting**
-   - Created by a Citizen
-   - Submitted via [Charmverse](https://charmverse.io)
-   - Clear objectives and implementation plan
-
-2. **Community Feedback**
-   - 1-2 week comment period
-   - Members offer insights and refinements
+2. **Community Discussion**
+   - 1-2 week comment period on `/governance`
+   - Citizens and Token Holders discuss, refine, and ask questions
    - Proposal evolves through collaboration
 
 3. **Refinement**
@@ -52,53 +23,51 @@ The main governance process follows these steps:
    - Optional roundtable discussions
    - Final version prepared for voting
 
-4. **Voting Process**
-   - Snapshot vote initiated
+4. **Voting**
+   - Vote runs on `/governance` directly (no external tool)
+   - Eligible voters: Citizens and Token Holders
    - Quorum: 500 $TDF equivalent
    - Approval: >50% of votes cast
-   - Voting weight formula applied
-   - Guardians have veto power for ecological issues
+   - Voting weight formula applied (see [Voting Weight](../05_token-economy/voting_weight.md))
 
-5. **Implementation**
+5. **OASA Veto Check**
+   - OASA may veto decisions that are unconstitutional, break the "no finance decision" rule, or violate other legal requirements
+   - All other decisions stand as voted
+
+6. **Implementation**
    - Team and Enseada Sonhadora execute
-   - Progress updates to community
-   - Impact measured and shared
+   - Progress updates shared with the community
+   - Impact measured and reported
+
+## 📋 What DAO Proposals Can Cover
+
+DAO proposals can include:
+
+- **Masterplan Changes** — adding new infrastructure, changing land use, acquiring more land, etc.
+- **Team Elections** — electing a new Team, which must include at least 2 directors who become fiduciary managers of Enseada Sonhadora
+- **Core Document Changes** — updates to the Game Guide, tokenomics, and other foundational documents
 
 ## 💰 Budgeting Process
 
 The DAO manages community finances through:
 
-1. **Annual Budget Planning**
-   - DAO votes on executive mandate
-   - Executive team generates annual report summarizing financial, social, ecological outcomes
-   - Community reviews and provides feedback on outcomes
+1. **Annual Budget Planning** — DAO votes on executive mandate; the Team publishes an annual report covering financial, social, and ecological outcomes
+2. **Quarterly Reviews** (optional) — Team shares financial transparency updates and community can request adjustments
+3. **Project Funding** — Individual projects submit proposals with budget requests for DAO approval
 
-2. **Quarterly Reviews** (Optional)
-   - Team provides transparency on financial situation
-   - Budget adjustments as needed
-   - Community can request financial updates
+## ⏰ Team & Director Term Limits
 
-3. **Project Funding**
-   - Individual project proposals with budget requests
-   - Community evaluation of project value
-   - DAO approval for project funding
-
-
-## ⏰ Director Term Limits
-
-The executive director serves for a defined term with mandatory renewal:
-
-- **Term Length** - 6-12 months with possibility of renewal
-- **Mandatory Renewal Votes** - Regular community evaluation of director performance
-- **Open Selection Process** - Clear criteria and transparent selection for new directors
-- **Succession Planning** - Smooth transition between directors
+- **Team Term Length** — Elected by the DAO with regular renewal votes
+- **Director Commitment** — At least 2 directors per Team, each with a **2 year minimum commitment**, serving as fiduciary managers of Enseada Sonhadora
+- **Open Selection** — Clear criteria and transparent selection for new directors
+- **Succession Planning** — Smooth handover between directors
 
 ## 🎯 Strategic Tips
 
-- **Build Consensus** - Strong proposals address concerns before voting
-- **Seek Feedback Early** - Share ideas informally before formal proposals
-- **Clear Communication** - Well-written proposals succeed more often
-- **Impact Assessment** - Consider all potential effects of your proposal
+- **Build Consensus** — Strong proposals address concerns before voting
+- **Seek Feedback Early** — Share ideas informally before formal proposals
+- **Clear Communication** — Well-written proposals succeed more often
+- **Impact Assessment** — Consider all potential effects of your proposal
 
 ---
 

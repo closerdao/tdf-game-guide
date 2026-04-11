@@ -9,29 +9,29 @@
 TDF's governance operates through three distinct layers:
 
 ### 1. OASA & Guardians
-**Ecological oversight and constitutional principles**
-- [OASA](oasa.md) - Ecological oversight body within the [OASA network](https://oasa.earth)
-- [Guardians](../02_roles-and-stakeholders/guardian.md) - Ecological veto power, appointed by OASA
-- Constitutional principles and core values aligned with [OASA constitution](https://oasa.earth)
-- Environmental protection standards and regenerative principles
+**Constitutional and legal oversight**
+- [OASA](oasa.md) - Oversight body within the [OASA network](https://oasa.earth)
+- [Guardians](../02_roles-and-stakeholders/guardian.md) - Ecological oversight, appointed by OASA
+- Can veto DAO decisions that are unconstitutional, break the "no finance decision" rule, or violate other legal requirements
+- Constitutional principles aligned with the [OASA constitution](https://oasa.earth)
 
 ### 2. DAO
 **Proposals, budgets, and elections**
-- [DAO](dao.md) - Digital governance collective of TDF token holders
-- Community proposals and voting
-- Budget allocation and financial decisions
-- Election of executive team (legally represented by a director)
+- [DAO](dao.md) - Citizens and TDF token holders
+- Proposals and voting on [`/governance`](https://traditionaldreamfactory.com/governance)
+- Budget allocation, masterplan changes, Team elections, and updates to core documents
+- A new Team must include at least 2 directors serving as fiduciary managers of Enseada Sonhadora
 
 ### 3. Team (Executive Team)
 **Day-to-day operational decisions**
-- [Team Members](../02_roles-and-stakeholders/team_member.md) - Operational leaders elected by DAO
+- [Team Members](../02_roles-and-stakeholders/team_member.md) - Elected by the DAO
 - Daily operations and guest management
 - Resource allocation within approved budgets
 - Implementation of DAO decisions
 
 ## 🔗 Legal Framework
 
-- [Enseada Sonhadora LDA](enseada_sonhadora.md) - Legal entity for land ownership
+- [Enseada Sonhadora](enseada_sonhadora.md) - Legal entity for land ownership
 - Property rights and legal compliance
 - Contract management and asset protection
 

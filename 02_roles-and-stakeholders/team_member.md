@@ -6,7 +6,7 @@
 
 ## Role Description
 
-Team Members are individuals hired by the executive director (who is elected by the DAO) to take on specific operational responsibilities within the community. They lead key functional areas, manage resources, coordinate projects, and ensure the smooth functioning of community systems. Team Members combine practical skills with leadership abilities to serve the community's needs.
+Team Members are part of the Team elected by the DAO to take on specific operational responsibilities within the community. Every elected Team must include at least 2 directors, who serve as fiduciary managers of Enseada Sonhadora. Team Members lead key functional areas, manage resources, coordinate projects, and ensure the smooth functioning of community systems, combining practical skills with leadership abilities to serve the community's needs.
 
 ## Responsibilities
 
@@ -36,7 +36,7 @@ To become a Team Member:
 - **Skill Mastery** - Demonstrate expertise in the relevant area
 - **Election Process** - The entire executive team is elected by the DAO
 - **Open Calls** - Team roles can be advertised via open calls with clear selection criteria
-- **Commitment** - 6-12 month term with regular evaluation
+- **Commitment** - 2 year minimum commitment for directors; regular evaluation for all Team roles
 - **Seasonal Presence** - Team present for full seasons (Aug–Dec, Jan–Jun; subject to change)
 - **Setup/Breakdown Support** - Some must support setup and breakdown
 - **Accountability** - Accept responsibility for outcomes in your area
@@ -55,7 +55,7 @@ To become a Team Member:
 
 ## Term and Transition
 
-- **Term Length** - 6-12 months with open calls and clear selection criteria
+- **Term Length** - Directors serve a **2 year minimum commitment**; other roles follow open calls with clear selection criteria
 - **Evaluation** - Regular feedback and performance reviews
 - **Succession Planning** - Identifying and training future Team Members
 - **Knowledge Transfer** - Documenting processes and training successors

@@ -8,15 +8,15 @@ Traditional Dream Factory is a regenerative human habitat in Abela, Portugal, wh
 ## 🏛️ Governance Structure
 
 ### Three Decision Layers
-1. **OASA & Guardians** - Ecological oversight and constitutional principles
-2. **DAO** - Proposals, budgets, and elections  
-3. **Team (Executive Director)** - Day-to-day operational decisions
+1. **OASA & Guardians** - Constitutional and legal oversight (can veto unconstitutional, illegal, or finance-related decisions)
+2. **DAO** - Proposals, budgets, elections — all on [`/governance`](https://traditionaldreamfactory.com/governance)
+3. **Team (Executive Team)** - Day-to-day operations; includes at least 2 directors as fiduciary managers of Enseada Sonhadora
 
 ### Key Entities
-- **DAO** - Digital governance collective
-- **OASA** - Ecological oversight body
+- **DAO** - Citizens and TDF token holders
+- **OASA** - Constitutional and ecological oversight body
 - **Enseada Sonhadora LDA** - Legal entity for land ownership
-- **Guardians** - External ecological oversight with veto power
+- **Guardians** - External ecological stewards appointed by OASA
 
 ## 👥 Community Roles
 
@@ -27,7 +27,7 @@ Traditional Dream Factory is a regenerative human habitat in Abela, Portugal, wh
 | **Resident** | 1-3 months (short) / Multi-season (long) | Weekly check-ins | Apply specialized skills |
 | **Steward** | 1 season | Co-manage areas | Immersive learning experience |
 | **Citizen** | Ongoing | 30+ TDF tokens, 3 vouches | Governance rights, stay benefits |
-| **Team Member** | 6-12 months | Hired by executive director | Salary + tokens + governance weight |
+| **Team Member** | 2 year min. for directors | Elected by DAO | Salary + tokens + governance weight |
 
 ## 💰 Token System
 
