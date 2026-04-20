@@ -67,16 +67,6 @@ The Stewardship Program covers:
 - **Mentorship** - Regular sessions with program facilitators and community experts
 - **Certification** - Recognition of program completion and skills acquired
 
-## Learning Areas
-
-The Stewardship Program covers:
-
-- **Regenerative Agriculture** - Food production, soil health, and ecosystem management
-- **Community Living** - Communication, facilitation, and conflict transformation
-- **Appropriate Technology** - Energy, water, and building systems
-- **Governance & Economics** - Decision-making processes and regenerative economics
-- **Personal Development** - Self-awareness, leadership, and purpose work
-
 ---
 
 **Stewardships are TDF's invitation to learn by doing, grow by caring, and prototype the next era of human habitation — together.**

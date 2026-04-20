@@ -15,6 +15,7 @@ Visitors are individuals who stay at TDF for a minimum of 1 month (except volunt
 ## Open-Day Programme
 
 TDF offers monthly open-day tours and lunch for short visits:
+
 - **Monthly Tours** - Guided exploration of the community and land
 - **Community Lunch** - Shared meal and conversation with community members
 - **Information Sessions** - Learn about TDF's mission and participation opportunities
@@ -33,8 +34,8 @@ As a Visitor, you are expected to:
 
 ## Contributions & Fees
 
-**Weekly Contribution**: 4 hours of meaningful work per week
-**Cooking Shifts**: Required if participating in the food program
+**Weekly Contribution**: 4 hours of meaningful work per week  
+**Cooking Shifts**: Required if participating in the food program  
 **Fee Structure**: Daily rate covers accommodation and utilities; separate fee for food program participation
 
 ## Opportunities
@@ -71,6 +72,7 @@ Anyone with an active booking (visitor or citizen) may invite a guest for a shor
 - **Support** - Be available to support the guest throughout their stay
 
 **Guest Expectations**
+
 - Follow all community guidelines and safety protocols
 - Respect the host's guidance and community norms
 - Participate appropriately in community activities
@@ -81,6 +83,7 @@ Anyone with an active booking (visitor or citizen) may invite a guest for a shor
 ## Food Program
 
 The food program is optional with a separate fee. Visitors can choose to:
+
 - **Join the Program** - Access to community meals and cooking shifts
 - **Opt Out** - Handle their own food needs independently
 
